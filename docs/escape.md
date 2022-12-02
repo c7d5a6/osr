@@ -16,11 +16,11 @@ With inspiration from [the Alexandrian](https://thealexandrian.net/wordpress/214
 | You know where you are. | **7** |
 | You have a clear and unhindered path of escape. | **5** |
 
-**CHALLENGE ADJUSTMENT**: Adjust the chance of escape by +/- 10% multipled by the difference between the average CR of the local opposition and the level of the character. (For example, a 5th-level character facing CR 7 opponents would suffer a -20% adjustment on their chance of escape. In a classic dungeon scenario, you can make this adjustment using the dungeon level — a 5th-level character on the 3rd level of the dungeon would enjoy a +20% adjustment on their chance of escape, for example.)
+**CHALLENGE ADJUSTMENT**: Adjust the chance of escape by `+/-1` multipled by the difference between the average HD of the local opposition and the level of the character.
 
-**SMALL COMPLEX**: If the characters are attempting to escape from a lair or other small complex, increase the chance of success by 10% to 20%.
+**SMALL COMPLEX**: If the characters are attempting to escape from a lair or other small complex, increase the chance of success by `-1` or `-2`.
 
-**MAKING THE CHECK**: An escape check is made for each character separately. There is always a minimum 2 is always a failure. On a failed escape check, consult the table below:
+**MAKING THE CHECK**: An escape check is made for each character separately. `2` is always a failure. On a failed escape check, consult the table below:
 
 ### Failed check table
 
