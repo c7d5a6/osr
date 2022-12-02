@@ -29,4 +29,4 @@ With inspiration from [the Alexandrian](https://thealexandrian.net/wordpress/214
 | Roll | Result |
 | --- | --- |
 | **1–2** | You have died. Roll the escape percentile again to see if your comrades were able to retrieve your body. (Instead of retrieving your body, your comrades may choose to loot it and/or leave it.) If they did not, roll the escape percentile again to see if your comrades know where your body is. If they do not, there is a 50% chance that your body has been utterly destroyed. |
-|**12**|Opportunity for betrayal. You can choose to either reroll on this table or betray a comrade who would otherwise escape. If you choose to betray a comrade roll 1d6 -- on a roll of 1-4, you escape and they must roll on this table; on a roll of 5-6, both you and your victim suffer the fate they roll.|
+|**12**|Opportunity for betrayal. You can choose to either reroll on this table or betray a comrade who would otherwise escape. If you choose to betray a comrade roll 1d6 -- on a roll of 1-4, you escape and they must roll on this table; on a roll of 5-6, both you and your victim suffer the fate they roll.
