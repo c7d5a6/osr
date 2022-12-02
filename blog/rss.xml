@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>OSR Blog</title>
+        <link>https://osr.owlbeardm.com/blog</link>
+        <description>OSR Blog</description>
+        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1 декабря 2022]]></title>
+            <link>https://osr.owlbeardm.com/blog/2022/11/01/report/2022-11-01-report</link>
+            <guid>1 декабря 2022</guid>
+            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Мы наконец таки представляемся хозяину таверны. Его зовут Уилфред, у него не хватает пары зубов.]]></description>
+        </item>
+    </channel>
+</rss>
