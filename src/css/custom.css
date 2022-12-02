@@ -1,0 +1,88 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: rgb(33, 175, 144);
+  --ifm-color-primary-darker: rgb(31, 165, 136);
+  --ifm-color-primary-darkest: rgb(26, 136, 112);
+  --ifm-color-primary-light: rgb(70, 203, 174);
+  --ifm-color-primary-lighter: rgb(102, 212, 189);
+  --ifm-color-primary-lightest: rgb(146, 224, 208);
+  --ifm-code-font-size: 95%;
+  --ifm-color-primary: #EB5E28;
+  --ifm-color-primary-dark: #B1471E;
+  --ifm-color-primary-darker: #762F14;
+  --ifm-color-primary-darkest: #3B180A;
+  --ifm-color-primary-light: #F0875E;
+  --ifm-color-primary-lighter: #F5AF94;
+  --ifm-color-primary-lightest: #FAD7CA;
+  --ifm-footer-background-color:#000000;
+  --ifm-footer-title-color: #762F14;
+  --ifm-footer-link-color: var(--ifm-color-primary-dark);
+  --ifm-footer-link-hover-color: var(--ifm-color-primary);
+  --ifm-footer-color: #762F14;
+  --ifm-navbar-background-color:var(--ifm-footer-background-color);
+  --ifm-navbar-link-color: #ffffff;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Schoensperger";
+}
+
+@font-face {
+  font-family: 'Schoensperger';
+  src: url('fonts/Schoensperger.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'GaramondBookC';
+  src: url('fonts/GaramondBookC.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.img {
+  /* max-height: 400px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+  margin-bottom: 20px;
+}
+
+.div-img {
+  /* display: inline-block; */
+  width: 50%;
+}
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+}
