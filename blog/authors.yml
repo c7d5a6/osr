@@ -2,7 +2,11 @@ kuk:
   name: Kuk
   title: Dungeon Master
   url: https://owlbeardm.com/
-  image_url: https://mordheim-assault.owlbeardm.com/img/portraits/dm.webp
+  image_url: https://osr.owlbeardm.com/img/portrait/dm.webp
 
 filhit:
   name: Filhit
+
+paleika:
+  name: Nadzieja
+  image_url: https://osr.owlbeardm.com/img/portrait/pnp.webp
