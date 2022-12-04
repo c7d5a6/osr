@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[959],{9826:function(e){e.exports=JSON.parse('{"name":"table","permalink":"/docs/tags/table","docs":[{"id":"rules/escape","title":"Escaping the Dungeon!","description":"With inspiration from the Alexandrian.","permalink":"/docs/rules/escape"}],"allTagsPath":"/docs/tags"}')}}]);

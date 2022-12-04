@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"1 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2022","permalink":"/blog/2022/11/01/report/2022-11-01-report"}]}')}}]);

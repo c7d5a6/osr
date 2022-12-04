@@ -2,16 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osr.owlbeardm.com/blog</id>
     <title>OSR Blog</title>
-    <updated>2022-11-01T00:00:00.000Z</updated>
+    <updated>2022-12-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://osr.owlbeardm.com/blog"/>
     <subtitle>OSR Blog</subtitle>
     <icon>https://osr.owlbeardm.com/img/logo.webp</icon>
     <entry>
-        <title type="html"><![CDATA[1 декабря 2022]]></title>
-        <id>1 декабря 2022</id>
-        <link href="https://osr.owlbeardm.com/blog/2022/11/01/report/2022-11-01-report"/>
-        <updated>2022-11-01T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[GG dungeon map]]></title>
+        <id>GG dungeon map</id>
+        <link href="https://osr.owlbeardm.com/blog/2022/12/01/map/2022-12-01zmap"/>
+        <updated>2022-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Map]]></summary>
+        <author>
+            <name>Nadzieja</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report 1/12/2022]]></title>
+        <id>Report 1/12/2022</id>
+        <link href="https://osr.owlbeardm.com/blog/2022/12/01/report/2022-12-01-report"/>
+        <updated>2022-12-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Мы наконец таки представляемся хозяину таверны. Его зовут Уилфред, у него не хватает пары зубов.]]></summary>
         <author>
             <name>Filhit</name>

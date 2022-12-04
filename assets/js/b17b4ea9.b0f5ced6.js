@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmordheim_assault=self.webpackChunkmordheim_assault||[]).push([[959],{9826:function(e){e.exports=JSON.parse('{"name":"table","permalink":"/docs/tags/table","docs":[{"id":"escape","title":"Escaping the Dungeon!","description":"With inspiration from the Alexandrian.","permalink":"/docs/escape"}],"allTagsPath":"/docs/tags"}')}}]);

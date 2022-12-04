@@ -4,14 +4,21 @@
         <title>OSR Blog</title>
         <link>https://osr.owlbeardm.com/blog</link>
         <description>OSR Blog</description>
-        <lastBuildDate>Tue, 01 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[1 декабря 2022]]></title>
-            <link>https://osr.owlbeardm.com/blog/2022/11/01/report/2022-11-01-report</link>
-            <guid>1 декабря 2022</guid>
-            <pubDate>Tue, 01 Nov 2022 00:00:00 GMT</pubDate>
+            <title><![CDATA[GG dungeon map]]></title>
+            <link>https://osr.owlbeardm.com/blog/2022/12/01/map/2022-12-01zmap</link>
+            <guid>GG dungeon map</guid>
+            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Map]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Report 1/12/2022]]></title>
+            <link>https://osr.owlbeardm.com/blog/2022/12/01/report/2022-12-01-report</link>
+            <guid>Report 1/12/2022</guid>
+            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Мы наконец таки представляемся хозяину таверны. Его зовут Уилфред, у него не хватает пары зубов.]]></description>
         </item>
     </channel>
