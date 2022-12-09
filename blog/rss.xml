@@ -4,9 +4,16 @@
         <title>OSR Blog</title>
         <link>https://osr.owlbeardm.com/blog</link>
         <description>OSR Blog</description>
-        <lastBuildDate>Thu, 01 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GG dungeon map]]></title>
+            <link>https://osr.owlbeardm.com/blog/2022/12/9/map/2022-12-09map</link>
+            <guid>GG dungeon map</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Map]]></description>
+        </item>
         <item>
             <title><![CDATA[GG dungeon map]]></title>
             <link>https://osr.owlbeardm.com/blog/2022/12/01/map/2022-12-01zmap</link>

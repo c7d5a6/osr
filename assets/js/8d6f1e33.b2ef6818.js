@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[129],{6002:function(n){n.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/green-griffon-inn","name":"green griffon inn","count":2,"permalink":"/blog/tags/green-griffon-inn"}')}}]);

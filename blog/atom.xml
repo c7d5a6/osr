@@ -2,11 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osr.owlbeardm.com/blog</id>
     <title>OSR Blog</title>
-    <updated>2022-12-01T00:00:00.000Z</updated>
+    <updated>2022-12-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://osr.owlbeardm.com/blog"/>
     <subtitle>OSR Blog</subtitle>
     <icon>https://osr.owlbeardm.com/img/logo.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[GG dungeon map]]></title>
+        <id>GG dungeon map</id>
+        <link href="https://osr.owlbeardm.com/blog/2022/12/9/map/2022-12-09map"/>
+        <updated>2022-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Map]]></summary>
+        <author>
+            <name>Nadzeya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GG dungeon map]]></title>
         <id>GG dungeon map</id>

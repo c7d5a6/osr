@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[73],{2485:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/map","name":"map","count":1,"permalink":"/blog/tags/map"}')}}]);

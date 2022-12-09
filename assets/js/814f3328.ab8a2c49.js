@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"GG dungeon map","permalink":"/blog/2022/12/01/map/2022-12-01zmap"},{"title":"Report 1/12/2022","permalink":"/blog/2022/12/01/report/2022-12-01-report"}]}')}}]);
