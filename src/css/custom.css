@@ -28,6 +28,7 @@
   --ifm-footer-color: #762F14;
   --ifm-navbar-background-color:var(--ifm-footer-background-color);
   --ifm-navbar-link-color: #ffffff;
+  --ifm-table-cell-padding: 0.5rem;
 }
 
 .docusaurus-highlight-code-line {
@@ -96,4 +97,12 @@ h6 {
 .god-img {
   max-width: 50px;
   max-height: 50px;
+}
+
+table th, table td {
+  border: 3px solid #00000000
+}
+
+table tr:nth-child(2n) {
+  background-color: var(--ifm-table-background);
 }

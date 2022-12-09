@@ -8,10 +8,10 @@ tags: [rule, page, table]
 
 `roll 2d6 + CHA or WIS modifier`. Use CHA if you are actively asking, WIS otherwise.
 
-| Roll | Number of Rumors | | CHA or WIS | Modifier |
+| CHA or WIS | Modifier | | Roll | Number of Rumors |
 | --- | --- | --- | --- | --- |
-**2 or less** | Out of luck! Only basic information.| | **3** | –2
-**3–5** | Roll for 1 random rumor. | | **4–8** | –1
-**6–8** | Roll for 2 random rumors. | | **9–12** | 0
-**9–11** | You hear 2 rumors, you can ask for specific theme and find out if there are rumors about it. | | **13–17** | +1
-**12 or more** | The same as **9–11** plus 1 random rumor. | | **18** | +2
+**3** | –2 | |  **2 or less** | Out of luck! Only basic information.
+**4–8** | –1 | |  **3–5** | Roll for 1 random rumor.
+**9–12** | 0 | |  **6–8** | Roll for 2 random rumors.
+**13–17** | +1 | |  **9–11** | You hear 2 rumors, you can ask for specific theme and find out if there are rumors about it.
+**18** | +2 | |  **12 or more** | The same as **9–11** plus 1 random rumor.
