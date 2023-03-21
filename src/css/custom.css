@@ -106,3 +106,31 @@ table th, table td {
 table tr:nth-child(2n) {
   background-color: var(--ifm-table-background);
 }
+
+.unique-tabs .tabs__item--active {
+  background-color: var(--ifm-tabs-color-active);
+  border: 0;
+  border-radius: var(--ifm-global-radius);
+  color: #fff;
+}
+.unique-tabs .tabs__item {
+  line-height: 16px;
+  margin-right: 8px;
+}
+.switch-toggle {
+  float: left;
+  background: #242729;
+}
+.switch-toggle input {
+ position: absolute;
+ opacity: 0;
+}
+.switch-toggle input + label {
+ padding: 7px;
+ float:left;
+ color: #fff;
+ cursor: pointer;
+}
+.switch-toggle input:checked + label {
+ background: green;
+}

@@ -1,0 +1,35 @@
+{
+  "image": "https://3.bp.blogspot.com/-btFkAK7MMc0/WgviY6MVVHI/AAAAAAAACZ0/E-ogoEvcLhQLlGCpu_hkO2w0d2khFyqTwCLcBGAs/s640/rules-cyclopedia-cleric.png",
+  "fluff": "Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy.",
+  "weapons": "Club, crossbow, dagger, mace, longsword, staff, warhammer",
+  "armor": "All armor and shields",
+  "hitDice": "1d6",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know either Celestial, Diabolic, or Primordial."
+    },
+    {
+      "name": "Turn Undead.",
+      "description": "You know the <i>turn undead</i> spell. It doesn't count toward your number of known spells."
+    },
+    {
+      "name": "Deity.",
+      "description": "Choose a god to serve who matches your alignment (<a href=\"/docs/world/gods\">see Deities</a>). You have a holy symbol for your god (it takes up no gear slots)."
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "You can cast cleric spells you know. <br/> You know two tier 1 spells of your choice from the cleric spell list. <br/> Each time you gain a level, you choose new cleric spells to learn according to the Cleric Spells Known table."
+    }
+  ],
+  "talents": [
+    { "value": "2", "talent": "Gain advantage on casting one spell you know" },
+    { "value": "3–6", "talent": "+1 to melee or ranged attacks" },
+    { "value": "7–9", "talent": "+1 to cleric spellcasting checks" },
+    { "value": "10–11", "talent": "+2 to Strength or Wisdom score" },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ]
+}

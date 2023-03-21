@@ -1,0 +1,61 @@
+{
+  "race": [
+    {
+      "value": "human",
+      "name": "Human",
+      "class": [
+        { "value": "bard", "name": "Bard" },
+        { "value": "cleric", "name": "Cleric" },
+        { "value": "druid", "name": "Druid" },
+        { "value": "fighter", "name": "Fighter" },
+        { "value": "paladin", "name": "Paladin" },
+        { "value": "ranger", "name": "Ranger" },
+        { "value": "thief", "name": "Thief" },
+        { "value": "wizard", "name": "Wizard" }
+      ]
+    },
+    {
+      "value": "dwarf",
+      "name": "Dwarf",
+      "class": [
+        { "value": "axedwarf", "name": "Axedwarf" },
+        { "value": "duergar", "name": "Duergar" },
+        { "value": "dwarvendefender", "name": "Dwarven Defender" },
+        { "value": "runesmith", "name": "Runesmith" }
+      ]
+    },
+    {
+      "value": "elf",
+      "name": "Elf",
+      "class": [
+        { "value": "dancer", "name": "Elf Dancer" },
+        { "value": "hunter", "name": "Elf Hunter" },
+        { "value": "drowweapon", "name": "Drow Weapon Master" },
+        { "value": "drowpriestess", "name": "Drow Priestess" },
+        { "value": "enchanter", "name": "Enchanter" }
+      ]
+    },
+    {
+      "value": "fey",
+      "name": "Fey",
+      "class": [
+        { "value": "gnome", "name": "Gnome" },
+        { "value": "svirfneblin", "name": "Svirfneblin" }
+      ]
+    },
+    {
+      "value": "mixed",
+      "name": "Mixed",
+      "class": [
+        { "value": "halfelf", "name": "Half-Elf" },
+        { "value": "halforc", "name": "Half-Orc" },
+        { "value": "mul", "name": "Mul" }
+      ]
+    }
+  ],
+  "alignment": [
+    { "value": "lawful", "name": "Lawful" },
+    { "value": "neutral", "name": "Neutral" },
+    { "value": "chaotic", "name": "Chaotic" }
+  ]
+}
