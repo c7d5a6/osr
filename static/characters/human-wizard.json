@@ -1,0 +1,43 @@
+{
+  "image": "https://i.pinimg.com/originals/b9/9f/7f/b99f7f7dd09e7d34ff50f38dbd5c8501.jpg",
+  "fluff": "Rune-tattooed adepts, bespectacled magi, and flame-conjuring witches who dare to manipulate the fell forces of magic.",
+  "weapons": "Dagger, staff",
+  "armor": "None",
+  "hitDice": "1d4",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know two additional common languages and two rare languages."
+    },
+    {
+      "name": "Learning Spells.",
+      "description": "You can permanently learn a wizard spell from a spell scroll by studying it for a day and succeeding on a DC 15 Intelligence check. Whether you succeed or fail, you expend the spell scroll. Spells you learn in this way don't count toward your known spells."
+    },
+    {
+      "name": "Spellcasting.",
+      "description": "You can cast wizard spells you know. You know three tier 1 spells of your choice from the wizard spell list. Each time you gain a level, you choose new wizard spells to learn according to the Wizard Spells Known table."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Make one random magic item"
+    },
+    {
+      "value": "3–7",
+      "talent": "+2 to Intelligence score or +1 to wizard spellcasting checks"
+    },
+    {
+      "value": "8–9",
+      "talent": "Gain advantage on casting one spell you know"
+    },
+    {
+      "value": "10–11",
+      "talent": "Learn one additional wizard spell of any tier you know"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ]
+}

@@ -3,13 +3,17 @@
     {
       "value": "human",
       "name": "Human",
+      "fluff": "Bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.",
+      "requirement": "None.",
+      "language": "You know the Common language and one additional common language.",
+      "raceTalent": {
+        "name": "Ambitious.",
+        "description": "You gain one additional talent roll at 1st level."
+      },
       "class": [
-        { "value": "bard", "name": "Bard" },
         { "value": "cleric", "name": "Cleric" },
         { "value": "druid", "name": "Druid" },
         { "value": "fighter", "name": "Fighter" },
-        { "value": "paladin", "name": "Paladin" },
-        { "value": "ranger", "name": "Ranger" },
         { "value": "thief", "name": "Thief" },
         { "value": "wizard", "name": "Wizard" }
       ]
@@ -17,27 +21,39 @@
     {
       "value": "dwarf",
       "name": "Dwarf",
+      "fluff": "Brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.",
+      "requirement": "minimum CON 10.",
+      "language": "You know the Common and Dwarvish languages.",      
+      "raceTalent": {
+        "name": "Stout.",
+        "description": "Roll your hit dice gains with advantage."
+      },
       "class": [
-        { "value": "axedwarf", "name": "Axedwarf" },
+        { "value": "axedwarf", "name": "Axedwarf", "comment": "knight" },
         { "value": "duergar", "name": "Duergar" },
-        { "value": "dwarvendefender", "name": "Dwarven Defender" },
-        { "value": "runesmith", "name": "Runesmith" }
+        { "value": "runesmith", "name": "Runesmith", "comment": "alchemist" }
       ]
     },
     {
       "value": "elf",
       "name": "Elf",
+      "fluff": "Ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.",
+      "requirement": "minimum DEX 10.",
+      "language": "You know the Common, Elvish, and Sylvan languages.",
+      "raceTalent": {
+        "name": "Farsight.",
+        "description": "You get a +1 bonus to attack rolls with ranged weapons or a +1 bonus to spellcasting checks."
+      },
       "class": [
-        { "value": "dancer", "name": "Elf Dancer" },
-        { "value": "hunter", "name": "Elf Hunter" },
-        { "value": "drowweapon", "name": "Drow Weapon Master" },
-        { "value": "drowpriestess", "name": "Drow Priestess" },
-        { "value": "enchanter", "name": "Enchanter" }
+        { "value": "dancer", "name": "Dancer", "comment":"ranger-druid" },
+        { "value": "drow", "name": "Drow Divine", "comment":"ranger-priest" },
+        { "value": "enchanter", "name": "Enchanter", "comment":"illusionist" }
       ]
     },
     {
       "value": "fey",
       "name": "Fey",
+      "requirement": "minimum CHA 10.",
       "class": [
         { "value": "gnome", "name": "Gnome" },
         { "value": "svirfneblin", "name": "Svirfneblin" }
@@ -46,10 +62,12 @@
     {
       "value": "mixed",
       "name": "Mixed",
+      "requirement": "None.",
       "class": [
-        { "value": "halfelf", "name": "Half-Elf" },
-        { "value": "halforc", "name": "Half-Orc" },
-        { "value": "mul", "name": "Mul" }
+        { "value": "halfling", "name": "Halfling", "comment": "thief-specialist" },
+        { "value": "halfelf", "name": "Half-Elf", "comment": "ranger" },
+        { "value": "halforc", "name": "Half-Orc", "comment": "barbarian" },
+        { "value": "mul", "name": "Mul", "comment": "dwarf-barbarian-fighter" }
       ]
     }
   ],
