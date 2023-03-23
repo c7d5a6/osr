@@ -1,6 +1,6 @@
 ---
-id: new-character
-title: Create New Character!
+id: class
+title: Choose you character type!
 tags: [rule, page]
 ---
 

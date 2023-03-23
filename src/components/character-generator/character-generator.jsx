@@ -4,6 +4,10 @@ import TabItem from '@theme/TabItem';
 import CharacterDescription from './character-description/character-description'
 import Term from './character-description/term';
 import CharacterImg from './character-description/character-img/character-img';
+import Dropdown from 'react-dropdown';
+import 'react-dropdown/style.css';
+
+
 
 const races = require('./character-options.json')
 

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import Term from './term';
 import Talents from './talents';
 import CharacterImg from './character-img/character-img';
+import Spellcasting from './spellcasting';
 
 function CharacterDescription(props) {
   const [error, setError] = useState(null);
@@ -32,7 +33,7 @@ function CharacterDescription(props) {
     return (
       <div>
         {character.image ? (<CharacterImg src={character.image}></CharacterImg>) : ('')}
-        <h2>{props.cl.name.toUpperCase()}</h2>
+        <h2>Title: {props.cl.name.toUpperCase()}</h2>
         {character.fluff ? (<p><i>{character.fluff}</i></p>) : (<p>NO FLUFF</p>)}
         {character.weapons ? (<Term name="Weapons:">{character.weapons}</Term>) : (<p>NO WEAPONS</p>)}
         {character.armor ? (<Term name="Armor:">{character.armor}</Term>) : (<p>NO ARMOR</p>)}
@@ -40,6 +41,7 @@ function CharacterDescription(props) {
         {character.specialTalents ? (
           character.specialTalents.map((talent, i) => <Term name={talent.name}>{talent.description}</Term>)) : (<p>NO SPECIAL TALENTS</p>)}
         {character.talents ? (<Talents talents={character.talents} name={props.cl.name}></Talents>) : (<p>NO TALENTS</p>)}
+        {character.spellcasting ? (<Spellcasting spellcasting={character.spellcasting} name={props.cl.name}></Spellcasting>) : ('')}
       </div>
     );
   }

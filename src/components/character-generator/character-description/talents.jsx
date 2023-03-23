@@ -19,7 +19,7 @@ function Talents(props) {
         </thead>
         <tbody>
           {props.talents.map((talent, i) => <tr>
-            <td style={{ textAlign: 'right' }}>{talent.value}</td>
+            <td style={{ textAlign: 'right', whiteSpace: 'nowrap' }}>{talent.value}</td>
             <td style={{ textAlign: 'left' }}>{talent.talent}</td>
           </tr>)}
         </tbody>

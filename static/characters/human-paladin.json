@@ -1,9 +1,9 @@
 {
-  "image": "/img/classes/cleric.webp",
+  "image": "/img/classes/paladin.webp",
   "fluff": "Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy.",
-  "weapons": "Club, crossbow, dagger, mace, longsword, staff, warhammer",
+  "weapons": "All weapons",
   "armor": "All armor and shields",
-  "hitDice": "1d6",
+  "hitDice": "1d8",
   "specialTalents": [
     {
       "name": "Languages.",
@@ -15,10 +15,13 @@
     }
   ],
   "talents": [
-    { "value": "2", "talent": "Gain advantage on casting one spell you know" },
-    { "value": "3–6", "talent": "+1 to melee or ranged attacks" },
-    { "value": "7–9", "talent": "+1 to cleric spellcasting checks" },
-    { "value": "10–11", "talent": "+2 to Strength or Wisdom score" },
+    {
+      "value": "2",
+      "talent": "Choose one type of weapon, such as longswords. You gain +1 to attack and damage with that weapon type. In addition, add half your level to these rolls (round down)."
+    },
+    { "value": "3–6", "talent": "+1 to melee attacks" },
+    { "value": "7–9", "talent": "+1 to AC if wearing Plate mail or Shield" },
+    { "value": "10–11", "talent": "+2 to Strength or Charisma score" },
     {
       "value": "12",
       "talent": "Choose a talent or +2 points to distribute to ability scores"
@@ -29,24 +32,24 @@
       "name": "Spellcasting.",
       "description": "You can cast cleric spells you know. You know two tier 1 spells of your choice from the cleric spell list. Each time you gain a level, you choose new cleric spells to learn according to the Spells Known table."
     },
-    "ability": "Wisdom",
+    "ability": "Charisma",
     "spellTalents": [
       {
-        "name": "Turn Undead.",
-        "description": "You know the <i>turn undead</i> spell. It doesn't count toward your number of known spells."
+        "name": "Cure Wounds.",
+        "description": "You know the <i>cure wounds</i> spell. It doesn't count toward your number of known spells."
       }
     ],
     "spellsKnown": [
-      [2, "-", "-", "-", "-"],
-      [3, "-", "-", "-", "-"],
-      [3, "1", "-", "-", "-"],
-      [3, "2", "-", "-", "-"],
-      [3, "2", "1", "-", "-"],
-      [3, "2", "2", "-", "-"],
-      [3, "3", "2", "1", "-"],
-      [3, "3", "2", "2", "-"],
-      [3, "3", "2", "2", "1"],
-      [3, "3", "3", "3", "2"]
+      ["-", "-", "-", "-", "-"],
+      ["1", "-", "-", "-", "-"],
+      ["2", "-", "-", "-", "-"],
+      ["2", "1", "-", "-", "-"],
+      ["2", "2", "-", "-", "-"],
+      ["2", "2", "1", "-", "-"],
+      ["2", "2", "2", "-", "-"],
+      ["2", "2", "2", "1", "-"],
+      ["2", "2", "2", "2", "-"],
+      ["2", "2", "2", "2", "1"]
     ]
   }
 }
