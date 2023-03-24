@@ -15,3 +15,4 @@ tags: [page, world]
 | Name | Class | Date | Cause |
 | --- | --- | --- | --- |
 | **✝ Kod** | Half-Orc 0 | 08.12.22 | Eaten by green slime |
+| **✝ Glirol** | Child 0 | 23.03.23 | Killed by long needle |
