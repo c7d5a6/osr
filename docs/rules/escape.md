@@ -8,9 +8,9 @@ With inspiration from [the Alexandrian](https://thealexandrian.net/wordpress/214
 
 ## ESCAPE CHECK
 
-`Roll 2d6.`
+`Roll 2d6` for escape:
 
-| SITUATION | MIN |
+| SITUATION | MIN ROLL REQUIRED |
 | --- | --- |
 | You don't know where you are. | **9** |
 | You know where you are. | **7** |
