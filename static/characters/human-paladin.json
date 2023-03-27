@@ -4,6 +4,7 @@
   "weapons": "All weapons",
   "armor": "All armor and shields",
   "hitDice": "1d8",
+  "title": "Gallant (L)",
   "specialTalents": [
     {
       "name": "Languages.",

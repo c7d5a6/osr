@@ -4,6 +4,7 @@
   "weapons": "Club, crossbow, dagger, mace, longsword, staff, warhammer",
   "armor": "All armor and shields",
   "hitDice": "1d6",
+  "title":"Acolyte (L), Seeker (N), Initiate (C)",
   "specialTalents": [
     {
       "name": "Languages.",

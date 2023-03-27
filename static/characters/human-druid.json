@@ -4,6 +4,7 @@
   "weapons": "Any non metal",
   "armor": "Any non metal",
   "hitDice": "1d6",
+  "title": "Aspirant (N)",
   "specialTalents": [
     {
       "name": "Languages.",

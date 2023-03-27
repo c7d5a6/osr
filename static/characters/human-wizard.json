@@ -4,6 +4,7 @@
   "weapons": "Dagger, staff",
   "armor": "None",
   "hitDice": "1d4",
+  "title":"Apprentice (L), Shaman (N), Adept (C)",
   "specialTalents": [
     {
       "name": "Languages.",

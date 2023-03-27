@@ -33,7 +33,7 @@ function CharacterDescription(props) {
     return (
       <div>
         {character.image ? (<CharacterImg src={character.image}></CharacterImg>) : ('')}
-        <h2>Title: {props.cl.name.toUpperCase()}</h2>
+        <h2>Title: {character.title}</h2>
         {character.fluff ? (<p><i>{character.fluff}</i></p>) : (<p>NO FLUFF</p>)}
         {character.weapons ? (<Term name="Weapons:">{character.weapons}</Term>) : (<p>NO WEAPONS</p>)}
         {character.armor ? (<Term name="Armor:">{character.armor}</Term>) : (<p>NO ARMOR</p>)}

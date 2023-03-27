@@ -3,11 +3,11 @@
     {
       "value": "human",
       "name": "Human",
-      "fluff": "Bold, adaptable, and diverse people who learn quickly and accomplish mighty deeds.",
+      "fluff": "Passionate, adaptable people who learn quickly and accomplish mighty deeds within their short lives.",
       "requirement": "None.",
       "language": "You know the Common language and one additional common language.",
       "raceTalent": {
-        "name": "Ambitious.",
+        "name": "Adaptable.",
         "description": "You gain one additional talent roll at 1st level."
       },
       "class": [

@@ -4,6 +4,7 @@
   "weapons": "Club, crossbow, dagger, shortbow, shortsword",
   "armor": "Leather armor, mithral chainmail",
   "hitDice": "1d4",
+  "title":"Robber (N), Thug (C)",
   "specialTalents": [
     {
       "name": "Backstab.",
