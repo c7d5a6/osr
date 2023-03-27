@@ -32,7 +32,7 @@
     "ability": "Wisdom",
     "spellTalents": [
       {
-        "name": "Turn Undead.",
+        "name": "Divine Blessing.",
         "description": "You know the <i>turn undead</i> spell. It doesn't count toward your number of known spells."
       }
     ],
@@ -47,6 +47,116 @@
       [3, "3", "2", "2", "-"],
       [3, "3", "2", "2", "1"],
       [3, "3", "3", "3", "2"]
-    ]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Disapproval Rate.",
+          "value": "Disapproval rate of the cleric starts at 1 and increases by one every time a cleric fails their spellcasting check. If the natural number on the die of the spellcasting check falls into the Disapproval Rate, the spell check automatically fails, and the cleric must roll on the Disapproval Table. When the cleric regains spells on the following day, his disapproval range is reset to a 1. Probably."
+        },
+        {
+          "name": "Sacrifices.",
+          "value": "Once a cleric's range of disapproval increases beyond a natural 1, they can reduce that range by offering sacrifices to his deity."
+        },
+        {
+          "name": "Sins.",
+          "value": "When a cleric commits a sinful act, they may incur an additional increase in his disapproval range. This could amount to an increase of +1 for minor infractions all the way up to +10 for significant transgressions."
+        }
+      ],
+      "tables": [
+        {
+          "name": "DEITY DISAPPROVAL",
+          "description": {
+            "name": "Disapproval roll.",
+            "value": "The roll is Disapproval Rate number of d4s."
+          },
+          "table": {
+            "header": ["Roll", "Disapproval"],
+            "rows": [
+              [
+                "1",
+                "The cleric must atone for his sins. They must do nothing but utter chants and intonations for the next 10 minutes, starting as soon as they is able (i.e., if they are in combat, they can wait until the danger is over)."
+              ],
+              [
+                "2",
+                "The cleric must pray for forgiveness immediately. They must spend at least one hour in prayer, beginning as soon as they are able (i.e., if they are in combat, they can wait until the danger is over). Failure to finish the full hour of prayers within the next 120 minutes is looked upon unfavorably; they incur a -1 penalty to all spell checks until they completes the full hour."
+              ],
+              [
+                "3",
+                "The cleric must increase his god's power by recruiting a new follower. If they do not convert one new follower to his deity's worship by the next sunrise, they takes a -1 penalty to all checks on the following day. This penalty resets after 24 hours."
+              ],
+              [
+                "4",
+                "The cleric immediately incurs an additional -1 penalty to all spell checks that lasts until the next day."
+              ],
+              [
+                "5",
+                "The cleric must undergo the test of humility. For the remainder of the day, they must defer to all other characters and creatures as if they were his superiors. Failure (at the discretion of the judge) means they immediately loses all spellcasting ability for the remainder of the day."
+              ],
+              [
+                "6",
+                "The cleric incurs an immediate -1 penalty to all attempts to Divine Blessing until they go on a quest to heal the crippled. This quest is of their own design, but generally speaking must result in significant aid to the crippled, blind, lamed, sickly, etc. Once the quest is completed, the deity revokes the penalty. While the penalty remains, it applies to all attempts to Divine Blessing, even if the “normal” disapproval rate has been reduced back to a natural 1."
+              ],
+              [
+                "7",
+                "The cleric must endure a test of faith. They gain an illness that costs them 1 point each of Strength, Agility, and Constitution. The ability score loss heals at the normal rate of 1 point per day. The cleric may not use magic to heal the loss. If the cleric endures the test to the satisfaction of the deity, they retains his magical abilities. If not (judge's discretion), his disapproval range immediately increases by another point."
+              ],
+              [
+                "8",
+                "The cleric immediately incurs a -2 penalty to spell checks on the specific spell that resulted in disapproval (including Divine Blessing). This lasts until the next day."
+              ],
+              [
+                "9",
+                "The cleric immediately incurs an additional -2 penalty to all spell checks that lasts until the next day."
+              ],
+              [
+                "10",
+                "The cleric loses access to one randomly determined level 1 spell. This spell cannot be cast until the next day."
+              ],
+              [
+                "11",
+                "The cleric is ordered by their deity to meditate on his faith and come to a better understanding of what they have done to earn disapproval. The cleric incurs an immediate and permanent -1 penalty to all spell checks. The only way to lift this penalty is for the cleric to meditate. For every full day of meditation, the cleric can make a DC 12 Wisdom check. Success means the spell check penalties are removed."
+              ],
+              [
+                "12",
+                "The cleric is temporarily disowned by his deity. For the rest of the day, the character cannot accumulate XP and may not gain class levels as a cleric. After the time period expires, the character begins to accumulate XP again as normal but does not accrue “back pay” (so to speak) for XP missed while he was disowned."
+              ],
+              [
+                "13",
+                "The cleric loses access to two randomly determined level 1 spells. These spells cannot be cast until the next day."
+              ],
+              [
+                "14",
+                "The cleric's deity wishes to test whether the cleric is a man of the faith or a man of the flesh. Calculate the cleric's total net worth in gold pieces. The cleric immediately incurs a permanent -2 penalty to all spell checks. The only way to remove this penalty is for the cleric to sacrifice his material possessions. For every 15% of his net worth sacrificed to the deity, one point of penalty is removed. A sacrifice can be destruction, consecration, donation, transformation into a temple or statue, etc."
+              ],
+              [
+                "15",
+                "The deity is not forgiving on this day. When the cleric rests for the night, he does not “reset” his disapproval range at the next morning – it carries over from this day to the next. The disapproval ranged resets as normal on the following day."
+              ],
+              [
+                "16",
+                "Cleric is temporarily barred from using their Divine Blessing ability. The deity will not grant this powers for the next 1d4 days. After that time, the cleric regains the use of this ability."
+              ],
+              [
+                "17",
+                "The cleric loses access to 1d4+1 spells, randomly determined from all the character knows. These spells cannot be cast for the next 24 hours."
+              ],
+              [
+                "18",
+                "Cleric is temporarily unable to use Divine Blessing. The cleric regains the ability after 1d6 days."
+              ],
+              [
+                "19",
+                "The cleric is stained with the mark of the unfaithful. This physical mark appears like a brand, tat too, or birthmark, with the symbol determined by the cleric's faith. The symbol is automatically visible to all worshippers of the cleric's faith, even through clothing, but may be invisible to others. To all who see and comment on the mark, the cleric must explain their sin and describe what they are doing as penance. If they continue to sustain their faith for a week while retaining the mark, it disappears."
+              ],
+              [
+                "20+",
+                "The cleric's ability to use Divine Blessing is restricted. The ability works only once per day. After 24 hours, the ability's use reverts to normal."
+              ]
+            ]
+          }
+        }
+      ]
+    }
   }
 }

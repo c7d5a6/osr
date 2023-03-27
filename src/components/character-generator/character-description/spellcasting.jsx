@@ -1,5 +1,6 @@
 import React from 'react';
 import Term from './term';
+import Miscast from './miscast';
 
 const divStyle = {
   border: '1px solid var(--ifm-color-emphasis-300)',
@@ -40,6 +41,7 @@ function Spellcasting(props) {
           </tbody>
         </table>
       </div>
+      {spellcasting.miscast ? (<Miscast miscast={spellcasting.miscast}></Miscast>) : ('')}
     </div>
   );
 }

@@ -1,5 +1,6 @@
 {
   "image": "/img/classes/druid.webp",
+  "fluff":"Druids are religious leaders as well as legal authorities, adjudicators, lorekeepers, medical professionals and political advisors in favour of keeping neutrality and integrity of nature.",
   "weapons": "Any non metal",
   "armor": "Any non metal",
   "hitDice": "1d6",
@@ -11,8 +12,8 @@
   ],
   "talents": [
     { "value": "2", "talent": "Gain advantage on casting one spell you know" },
-    { "value": "3–5", "talent": "+1 to druid spellcasting checks" },
-    { "value": "6–9", "talent": "+1 to melee or ranged attacks" },
+    { "value": "3–6", "talent": "+1 to druid spellcasting checks" },
+    { "value": "7–9", "talent": "+1 to melee attacks and damage" },
     {
       "value": "10–11",
       "talent": "+2 to Strength, Constitution or Wisdom score"
@@ -30,8 +31,12 @@
     "ability": "Wisdom",
     "spellTalents": [
       {
-        "name": "Wildshape.",
-        "description": "You know the <i>wildshape</i> spell. It doesn't count toward your number of known spells."
+        "name": "Animal Friendship.",
+        "description": "You know the <i>animal friendship</i> spell. It doesn't count toward your number of known spells."
+      },
+      {
+        "name": "Speak with Animals.",
+        "description": "You know the <i>speak with animals</i> spell. It doesn't count toward your number of known spells."
       }
     ],
     "spellsKnown": [
@@ -45,6 +50,40 @@
       [3, "3", "2", "2", "-"],
       [3, "3", "2", "2", "1"],
       [3, "3", "3", "3", "2"]
-    ]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Involvement Rate.",
+          "value": "Involvement Rate of the druid starts at 1 and increases by one every time a druid fails their spellcasting check. If the natural number on the die of the spellcasting check falls into the Involvement Rate, the spell check automatically fails, and the druid must roll on the Involvement Table. When the druid regains spells on the following day, his involvement range is reset to a 1."
+        },
+        {
+          "name": "Ritual.",
+          "value": "Once a druid's range of involvement increases beyond a natural 1, they can reduce that range by offering nature's ritual to restore nutrality."
+        },
+        {
+          "name": "Nature's defender.",
+          "value": "When a druid commits an act of damaging nature, they may incur an additional increase in his involvement range. This could amount to an increase of +1 for minor infractions all the way up to +10 for significant transgressions."
+        }
+      ],
+      "tables": [
+        {
+          "name": "INVOLVEMENT",
+          "description": {
+            "name": "Involvement roll.",
+            "value": "The roll is Involvement Rate number of d4s."
+          },
+          "table": {
+            "header": ["Roll", "Involvement effect"],
+            "rows": [
+              [
+                "1",
+                "The druid must atone for thier involment. They must do nothing."
+              ]              
+            ]
+          }
+        }
+      ]
+    }
   }
 }
