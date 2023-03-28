@@ -1,3 +1,24 @@
 {
-  "image": "/img/classes/axedwarf.webp"
+  "image": "/img/classes/axedwarf.webp",
+  "title": "Hammerer",
+  "requirement": "Lawful or Neutral alignment.",
+  "fluff": "The most skilled warriors in a Dwarfholds are the Axedwarves.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Hammerer"],
+          ["3–4", "Shieldbearer"],
+          ["5–6", "Veteran"],
+          ["7–8", "Longbeard"],
+          ["9–10", "The Grudgebreaker"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Mountain Fortress.",
+      "value": "Upon reaching the title of The Grudgebreaker an axedwarf may establish or build a Mountain Fortress. When the construction is complete, a number of followers will arrive to serve the axedwarf. These followers are completely devoted to the axedwarf, never checking morale."
+    }
+  }
 }

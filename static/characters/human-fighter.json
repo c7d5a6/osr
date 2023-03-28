@@ -1,10 +1,10 @@
 {
   "image": "http://www.creightonbroadhurst.com/wp-content/uploads/2014/05/Peaking-Adventurer.jpg",
-  "fluff": "Blood-soaked gladiators in dented armor, acrobatic duelists with darting swords, or far-eyed elven archers who carve their legends with steel and grit.",
+  "fluff": "Blood-soaked gladiators in dented armour, acrobatic duellists with darting swords who carve their legends with steel and grit.",
   "weapons": "All weapons",
   "armor": "All armor and shields",
   "hitDice": "1d8",
-  "title":"Squire (L), Warrior (N), Knave (C)",
+  "title": "Squire (L), Warrior (N), Knave (C)",
   "specialTalents": [
     {
       "name": "Hauler.",
@@ -40,5 +40,23 @@
       "value": "12",
       "talent": "Choose a talent or +2 points to distribute to ability scores"
     }
-  ]
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Lawful Title", "Neutral Title", "Chaotic Title"],
+        "rows": [
+          ["1–2", "Squire", "Warrior", "Knave"],
+          ["3–4", "Cavalier", "Armiger", "Bandit"],
+          ["5–6", "Knight", "Hero", "Slayer"],
+          ["7–8", "Thane", "Swordmaster", "Reaver"],
+          ["9–10", "Lord/Lady", "Chieftain", "Warlord"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Human Stronghold.",
+      "value": "Upon reaching the title of Lord/Lady, Chieftain or Warlord, a fighter may establish or build a Castle (for lord/lady), Keep (for chieftain) or Bastion (for warlord). When the construction is complete, a number of followers will arrive to serve the fighter. These followers are completely devoted to the fighter, never checking morale."
+    }
+  }
 }

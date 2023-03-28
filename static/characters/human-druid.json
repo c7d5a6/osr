@@ -1,10 +1,11 @@
 {
   "image": "/img/classes/druid.webp",
-  "fluff":"Druids are religious leaders as well as legal authorities, adjudicators, lorekeepers, medical professionals and political advisors in favour of keeping neutrality and integrity of nature.",
+  "fluff": "Druids are religious leaders as well as legal authorities, adjudicators, lorekeepers, medical professionals and political advisors in favour of keeping neutrality and integrity of nature.",
+  "requirement": "Neutral alignment.",
   "weapons": "Any non metal",
   "armor": "Any non metal",
   "hitDice": "1d6",
-  "title": "Aspirant (N)",
+  "title": "Aspirant",
   "specialTalents": [
     {
       "name": "Languages.",
@@ -24,6 +25,24 @@
       "talent": "Choose a talent or +2 points to distribute to ability scores"
     }
   ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Aspirant"],
+          ["3–4", "Ovate"],
+          ["5–6", "Initiate of the Inner Circle"],
+          ["7–8", "Druid"],
+          ["9–10", "Hierophant"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Protector of nature.",
+      "value": "Upon reaching the title of Hierophant, a druid may establish or build a Grove. When the construction is complete, a number of followers will arrive to serve the druid. These followers are completely devoted to the druid, never checking morale."
+    }
+  },
   "spellcasting": {
     "description": {
       "name": "Spellcasting.",
@@ -80,7 +99,7 @@
               [
                 "1",
                 "The druid must atone for thier involment. They must do nothing."
-              ]              
+              ]
             ]
           }
         }

@@ -4,12 +4,12 @@
   "weapons": "Dagger, staff",
   "armor": "None",
   "hitDice": "1d4",
-  "title":"Apprentice (L), Shaman (N), Adept (C)",
+  "title": "Apprentice (L), Shaman (N), Adept (C)",
   "specialTalents": [
     {
       "name": "Languages.",
       "description": "You know two additional common languages and two rare languages."
-    }    
+    }
   ],
   "talents": [
     {
@@ -33,6 +33,24 @@
       "talent": "Choose a talent or +2 points to distribute to ability scores"
     }
   ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Lawful Title", "Neutral Title", "Chaotic Title"],
+        "rows": [
+          ["1–2", "Scholar", "Shaman", "Adept"],
+          ["3–4", "Conjurer", "Seer", "Maledictor"],
+          ["5–6", "Arcanist", "Spellbinder", "Witch/Warlock"],
+          ["7–8", "Mage", "Sage", "Doomweaver"],
+          ["9–10", "Archmage", "Wizard Lord/Lady", "Soulflayer"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Magic Conduits.",
+      "value": "Upon reaching the title of Archmage, Wizard Lord/Lady or Soulflayer, a wizard may establish or build a Great Tower (for archmage), Great Library (for lord/lady) or Chaos Citadel (for soulflayer). When the construction is complete, a number of followers will arrive to serve the wizard. These followers are completely devoted to the wizard, never checking morale."
+    }
+  },
   "spellcasting": {
     "description": {
       "name": "Spellcasting.",

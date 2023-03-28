@@ -22,23 +22,23 @@
     {
       "value": "dwarf",
       "name": "Dwarf",
-      "fluff": "Brave, stalwart folk as sturdy as the stone kingdoms they carve inside mountains.",
+      "fluff": "A short, sturdy creature fond of drink and industry.",
       "requirement": "minimum CON 10.",
-      "language": "You know the Common and Dwarvish languages.",      
+      "language": "You know the Common and Dwarvish languages.",
       "raceTalent": {
         "name": "Stout.",
         "description": "Roll your hit dice gains with advantage."
       },
       "class": [
-        { "value": "axedwarf", "name": "Axedwarf", "comment": "knight" },
+        { "value": "axedwarf", "name": "Axedwarf" },
         { "value": "duergar", "name": "Duergar" },
-        { "value": "runesmith", "name": "Runesmith", "comment": "alchemist" }
+        { "value": "runesmith", "name": "Runesmith" }
       ]
     },
     {
       "value": "elf",
       "name": "Elf",
-      "fluff": "Ethereal, graceful people who revere knowledge and beauty. Elves see far and live long.",
+      "fluff": "Ethereal beings with magical powers, ambivalent towards everyday people and capable of either helping or hindering them.",
       "requirement": "minimum DEX 10.",
       "language": "You know the Common, Elvish, and Sylvan languages.",
       "raceTalent": {
@@ -46,14 +46,15 @@
         "description": "You get a +1 bonus to attack rolls with ranged weapons or a +1 bonus to spellcasting checks."
       },
       "class": [
-        { "value": "dancer", "name": "Dancer", "comment":"ranger-druid" },
-        { "value": "drow", "name": "Drow Divine", "comment":"ranger-priest" },
-        { "value": "enchanter", "name": "Enchanter", "comment":"illusionist" }
+        { "value": "dancer", "name": "Glade Guard", "comment": "ranger-druid" },
+        { "value": "drow", "name": "Drow Divine"},
+        { "value": "enchanter", "name": "Enchanter", "comment": "illusionist" }
       ]
     },
     {
       "value": "fey",
       "name": "Fey",
+      "fluff": "Diminutive beings possessing inexplicable, supernatural abilities, leading a hidden lifestyle.",
       "requirement": "minimum CHA 10.",
       "class": [
         { "value": "gnome", "name": "Gnome" },
@@ -63,9 +64,14 @@
     {
       "value": "mixed",
       "name": "Mixed",
+      "fluff": "Diverse relatives of human race.",
       "requirement": "None.",
       "class": [
-        { "value": "halfling", "name": "Halfling", "comment": "thief-specialist" },
+        {
+          "value": "halfling",
+          "name": "Halfling",
+          "comment": "thief-specialist"
+        },
         { "value": "halfelf", "name": "Half-Elf", "comment": "ranger" },
         { "value": "halforc", "name": "Half-Orc", "comment": "barbarian" },
         { "value": "mul", "name": "Mul", "comment": "dwarf-barbarian-fighter" }

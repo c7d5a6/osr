@@ -1,3 +1,6 @@
 {
-  "image": "/img/classes/drow.webp"
+  "image": "/img/classes/drow.webp",
+  "title": "Disciple",
+  "requirement": "Chaotic alignment.",
+  "fluff": "."
 }

@@ -1,10 +1,11 @@
 {
   "image": "/img/classes/paladin.webp",
-  "fluff": "Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy.",
+  "fluff": "Crusading templars who wield the power of their gods to help the worthy and cleanse the unholy.",
+  "requirement": "Lawful alignment.",
   "weapons": "All weapons",
   "armor": "All armor and shields",
   "hitDice": "1d8",
-  "title": "Gallant (L)",
+  "title": "Gallant",
   "specialTalents": [
     {
       "name": "Languages.",
@@ -28,6 +29,24 @@
       "talent": "Choose a talent or +2 points to distribute to ability scores"
     }
   ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Gallant"],
+          ["3–4", "Protector"],
+          ["5–6", "Guardian"],
+          ["7–8", "Justiciar"],
+          ["9–10", "Paladin"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Gods man.",
+      "value": "Upon reaching the title of Lord/Lady, Chieftain or Warlord, a fighter may establish or build a Castle (for lord/lady), Keep (for chieftain) or Bastion (for warlord). When the construction is complete, a number of followers will arrive to serve the fighter. These followers are completely devoted to the fighter, never checking morale."
+    }
+  },
   "spellcasting": {
     "description": {
       "name": "Spellcasting.",

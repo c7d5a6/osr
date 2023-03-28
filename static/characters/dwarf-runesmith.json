@@ -1,3 +1,24 @@
 {
-  "image": "/img/classes/runesmith.webp"
+  "image": "/img/classes/runesmith.webp",
+  "title": "Apprentice",
+  "requirement": "Lawful or Neutral alignment.",
+  "fluff": "Runesmiths work spells with their hammercraft, binding magic into mighty runes of power.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Apprentice"],
+          ["3–4", "Journeyman"],
+          ["5–6", "Runesmith"],
+          ["7–8", "Runemaster"],
+          ["9–10", "Runelord"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Great Forge.",
+      "value": "Upon reaching the title of Runelord an runesmith may establish or build a Great Forge. When the construction is complete, a number of followers will arrive to serve the runesmith. These followers are completely devoted to the runesmith, never checking morale."
+    }
+  }
 }

@@ -1,3 +1,6 @@
 {
-  "image": "/img/classes/enchanter.webp"
+  "image": "/img/classes/enchanter.webp",
+  "title": "Allurer",
+  "requirement": "Neutral or Chaotic alignment.",
+  "fluff": "Skilled practitioners of a particular fey strand of magic, adepts at creating powerful illusions and charms."
 }

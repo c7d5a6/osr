@@ -1,10 +1,10 @@
 {
   "image": "/img/classes/cleric.webp",
-  "fluff": "Crusading templars, prophetic shamans, or mad-eyed zealots who wield the power of their gods to cleanse the unholy.",
+  "fluff": "Clerics are versatile figures, both capable in combat and skilled in the use of divine magic.",
   "weapons": "Club, crossbow, dagger, mace, longsword, staff, warhammer",
   "armor": "All armor and shields",
   "hitDice": "1d6",
-  "title":"Acolyte (L), Seeker (N), Initiate (C)",
+  "title": "Acolyte (L), Seeker (N), Initiate (C)",
   "specialTalents": [
     {
       "name": "Languages.",
@@ -25,6 +25,24 @@
       "talent": "Choose a talent or +2 points to distribute to ability scores"
     }
   ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Lawful Title", "Neutral Title", "Chaotic Title"],
+        "rows": [
+          ["1–2", "Acolyte", "Seeker", "Initiate"],
+          ["3–4", "Crusader", "Invoker", "Zealot"],
+          ["5–6", "Templar", "Haruspex", "Cultist"],
+          ["7–8", "Champion", "Mystic", "Scourge"],
+          ["9–10", "High Priest", "Oracle", "Exalted Champion"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Beacon of gods.",
+      "value": "Upon reaching the title of High Priest, Oracle or Exalted Champion, a cleric may establish or build a Church (for priest), Monastery (for oracle) or Temple (for champion). When the construction is complete, a number of followers will arrive to serve the cleric. These followers are completely devoted to the cleric, never checking morale."
+    }
+  },
   "spellcasting": {
     "description": {
       "name": "Spellcasting.",
