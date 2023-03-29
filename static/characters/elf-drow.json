@@ -2,18 +2,74 @@
   "image": "/img/classes/drow.webp",
   "title": "Disciple",
   "requirement": "Chaotic alignment.",
-  "fluff": ".",
+  "fluff": "Drows are talented fighters and gain powerful magic through the worship of their strange chaotic deities.",
   "hitDice": "1d6",
+  "weapons": "Club, crossbow, dagger, mace, longsword, shortbow, shortsword",
+  "armor": "Leather armor",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know either Diabolic or Primordial."
+    },
+    {
+      "name": "Spider Affinity.",
+      "description": "Drow live alongside many different species of spiders, including giant ones. They can speak the secret language of spiders and gain a +1 bonus to reaction rolls when encountering spiders."
+    },
+    {
+      "name": "Deity.",
+      "description": "Choose a chaotic god to serve (<a href=\"/docs/world/gods\">see Deities</a>). You have a holy symbol for your god (it takes up no gear slots)."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Gain advantage on casting one spell you know"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Dexterity or Intelligence score"
+    },
+    {
+      "value": "10–11",
+      "talent": "+1 to spellcasting checks"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
   "titles": {
     "table": {
       "table": {
-        "header": ["Level", "Title"],
+        "header": [
+          "Level",
+          "Title"
+        ],
         "rows": [
-          ["1–2", "Disciple"],
-          ["3–4", "Priest/Priestess"],
-          ["5–6", "Curate"],
-          ["7–8", "Elder"],
-          ["9–10", "Patriarch/Matriarch"]
+          [
+            "1–2",
+            "Disciple"
+          ],
+          [
+            "3–4",
+            "Priest/Priestess"
+          ],
+          [
+            "5–6",
+            "Curate"
+          ],
+          [
+            "7–8",
+            "Elder"
+          ],
+          [
+            "9–10",
+            "Patriarch/Matriarch"
+          ]
         ]
       }
     },
