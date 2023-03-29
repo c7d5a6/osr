@@ -2,5 +2,23 @@
   "image": "/img/classes/dancer.webp",
   "title": "Scout",
   "requirement": "Neutral or Chaotic alignment.",
-  "fluff": "Glade Guards are sublime elven warriors, made even more formidable through their war dances, the favoured rituals of the elven gods."
+  "fluff": "Glade Guards are sublime elven warriors, made even more formidable through their war dances, the favoured rituals of the elven gods.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Scout"],
+          ["3–4", "Waystalker"],
+          ["5–6", "Bladesinger"],
+          ["7–8", "Wardancer"],
+          ["9–10", "Glade Lord"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Forest Hall.",
+      "value": "Upon reaching the title of The Glade Lord a Glade Guardian may establish or build a Forest Hall. When the construction is complete, a number of followers will arrive to serve."
+    }
+  }
 }

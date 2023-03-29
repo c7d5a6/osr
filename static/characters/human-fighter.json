@@ -56,7 +56,7 @@
     },
     "reward": {
       "name": "Human Stronghold.",
-      "value": "Upon reaching the title of Lord/Lady, Chieftain or Warlord, a fighter may establish or build a Castle (for lord/lady), Keep (for chieftain) or Bastion (for warlord). When the construction is complete, a number of followers will arrive to serve the fighter. These followers are completely devoted to the fighter, never checking morale."
+      "value": "Upon reaching the title of Lord/Lady, Chieftain or Warlord, a fighter may establish or build a Castle (for lord/lady), Keep (for chieftain) or Bastion (for warlord). When the construction is complete, a number of followers will arrive to serve."
     }
   }
 }

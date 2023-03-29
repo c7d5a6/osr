@@ -48,7 +48,7 @@
     },
     "reward": {
       "name": "Magic Conduits.",
-      "value": "Upon reaching the title of Archmage, Wizard Lord/Lady or Soulflayer, a wizard may establish or build a Great Tower (for archmage), Great Library (for lord/lady) or Chaos Citadel (for soulflayer). When the construction is complete, a number of followers will arrive to serve the wizard. These followers are completely devoted to the wizard, never checking morale."
+      "value": "Upon reaching the title of Archmage, Wizard Lord/Lady or Soulflayer, a wizard may establish or build a Great Tower (for archmage), Great Library (for lord/lady) or Chaos Citadel (for soulflayer). When the construction is complete, a number of followers will arrive to serve."
     }
   },
   "spellcasting": {

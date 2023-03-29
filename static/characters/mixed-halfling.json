@@ -1,4 +1,62 @@
 {
   "image": "/img/classes/halfling.webp",
-  "title": "Swashbuckler"
+  "title": "Swashbuckler",
+  "weapons": "Club, crossbow, dagger, shortbow, shortsword",
+  "armor": "Leather armor, mithral chainmail",
+  "hitDice": "1d4",
+  "fluff": "Small, cheerful country folk with mischievous streaks. They enjoy life's simple pleasures.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Swashbuckler"],
+          ["3–4", "Militiaman"],
+          ["5–6", "Roadwarden"],
+          ["7–8", "Sheriff"],
+          ["9–10", "Warfoot"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Garrison.",
+      "value": "Upon reaching the title of Warfoot a halfling may establish or build a Garrison. When the construction is complete, a number of followers will arrive to serve."
+    }
+  },
+  "specialTalents": [
+    {
+      "name": "Lucky!",
+      "description": "You can have more than one luck at a time. You start a game with +1 luck token. Also, you gain 1 luck token after resting."
+    },
+    {
+      "name": "Insignificant.",
+      "description": "Once per day, you can become invisible for 3 rounds. Also, You have an advantage on any check for doing something sneaky and hiding."
+    },
+    {
+      "name": "Second breakfast.",
+      "description": "You can consume a ration, or any other food, and regain 1d4 hit points. Add an additional number of dice equal to half your level (round down)."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Gain +1 luck token at game start and after resting."
+    },
+    {
+      "value": "3–5",
+      "talent": "Add +1 dice to your Second breakfast."
+    },
+    {
+      "value": "6–9",
+      "talent": "+2 to Dexterity, Constitution, or Charisma score"
+    },
+    {
+      "value": "10–11",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ]
 }

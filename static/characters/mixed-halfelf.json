@@ -1,4 +1,22 @@
 {
   "image": "/img/classes/half-elf.webp",
-  "title": "Runner"
+  "title": "Runner",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Runner"],
+          ["3–4", "Strider"],
+          ["5–6", "Tracker"],
+          ["7–8", "Pathfinder"],
+          ["9–10", "Ranger"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Lodge.",
+      "value": "Upon reaching the title of Ranger a half-elf may establish or build a Lodge. When the construction is complete, a number of followers will arrive to serve."
+    }
+  }
 }

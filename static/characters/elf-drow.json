@@ -2,5 +2,23 @@
   "image": "/img/classes/drow.webp",
   "title": "Disciple",
   "requirement": "Chaotic alignment.",
-  "fluff": "."
+  "fluff": ".",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Disciple"],
+          ["3–4", "Priest/Priestess"],
+          ["5–6", "Curate"],
+          ["7–8", "Elder"],
+          ["9–10", "Patriarch/Matriarch"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Fane.",
+      "value": "Upon reaching the title of Patriarch/Matriarch a drow may establish or build a Fane. When the construction is complete, a number of followers will arrive to serve."
+    }
+  }
 }

@@ -1,4 +1,22 @@
 {
   "image": "/img/classes/mul.webp",
-  "title": "Bull"
+  "title": "Bull",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Bull"],
+          ["3–4", "Crusher"],
+          ["5–6", "Gutlord"],
+          ["7–8", "Slaughtermaster"],
+          ["9–10", "Tyrant"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Stronghold.",
+      "value": "Upon reaching the title of Tyrant a mul may establish or build a Stronghold. When the construction is complete, a number of followers will arrive to serve."
+    }
+  }
 }

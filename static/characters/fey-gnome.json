@@ -1,5 +1,23 @@
 {
   "image": "https://preview.redd.it/3va5r6l5cag61.jpg?width=640&crop=smart&auto=webp&s=75ef6d887c4ce2aada84c50ea63a5e62247f6cac",
   "title": "Prestidigitator",
-  "requirement": "Chaotic alignment."
+  "requirement": "Chaotic alignment.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Prestidigitator"],
+          ["3–4", "Trickster"],
+          ["5–6", "Phantasmist"],
+          ["7–8", "Apparitionist"],
+          ["9–10", "Illusionist"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Tree Palace.",
+      "value": "Upon reaching the title of Illusionist a gnome may establish or build a Tree Palace. When the construction is complete, a number of followers will arrive to serve."
+    }
+  }
 }

@@ -2,5 +2,23 @@
   "image": "/img/classes/enchanter.webp",
   "title": "Allurer",
   "requirement": "Neutral or Chaotic alignment.",
-  "fluff": "Skilled practitioners of a particular fey strand of magic, adepts at creating powerful illusions and charms."
+  "fluff": "Skilled practitioners of a particular fey strand of magic, adepts at creating powerful illusions and charms.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Allurer"],
+          ["3–4", "Inveigler"],
+          ["5–6", "Enchanter/Enchantress"],
+          ["7–8", "Sorcerer/Sorceress"],
+          ["9–10", "Summer Lord/Lady"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Fane.",
+      "value": "Upon reaching the title of Summer Lord/Lady an enchanter may establish or build a Fey Court. When the construction is complete, a number of followers will arrive to serve."
+    }
+  }
 }

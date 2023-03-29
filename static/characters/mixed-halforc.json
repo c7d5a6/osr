@@ -1,5 +1,23 @@
 {
   "image": "https://powerwordkill.files.wordpress.com/2015/10/liz_danforth_-_half-orc.jpg",
   "title": "Barbarian",
-  "requirement": "Neutral or Chaotic alignment."
+  "requirement": "Neutral or Chaotic alignment.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Barbarian"],
+          ["3–4", "Marauder"],
+          ["5–6", "Skullcrusher"],
+          ["7–8", "Wrathmonger"],
+          ["9–10", "Warleader"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Warcamp.",
+      "value": "Upon reaching the title of Warleader a half-orc may establish or build a Warcamp. When the construction is complete, a number of followers will arrive to serve."
+    }
+  }
 }

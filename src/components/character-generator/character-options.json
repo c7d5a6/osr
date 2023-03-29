@@ -65,6 +65,7 @@
       "value": "mixed",
       "name": "Mixed",
       "fluff": "Diverse relatives of human race.",
+      "language": "You know the Common language.",
       "requirement": "None.",
       "class": [
         {
