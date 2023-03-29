@@ -2,6 +2,7 @@
   "image": "https://preview.redd.it/3va5r6l5cag61.jpg?width=640&crop=smart&auto=webp&s=75ef6d887c4ce2aada84c50ea63a5e62247f6cac",
   "title": "Prestidigitator",
   "requirement": "Chaotic alignment.",
+  "hitDice": "1d4",
   "titles": {
     "table": {
       "table": {

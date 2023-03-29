@@ -3,6 +3,9 @@
   "title": "Scout",
   "requirement": "Neutral or Chaotic alignment.",
   "fluff": "Glade Guards are sublime elven warriors, made even more formidable through their war dances, the favoured rituals of the elven gods.",
+  "hitDice": "1d6",
+  "weapons": "All weapons",
+  "armor": "All armor, except shields",
   "titles": {
     "table": {
       "table": {
@@ -19,6 +22,77 @@
     "reward": {
       "name": "Forest Hall.",
       "value": "Upon reaching the title of The Glade Lord a Glade Guardian may establish or build a Forest Hall. When the construction is complete, a number of followers will arrive to serve."
+    }
+  },
+  "specialTalents": [
+    {
+      "name": "Elven Grace.",
+      "description": "You have advantage on Dexterity checks to overcome an opposing force, or perform acrobatic manoeuvres."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Fey blood. Learn one additional spell of tier no greater than the number of Fey blood talents."
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Dexterity or Wisdom score"
+    },
+    {
+      "value": "10–11",
+      "talent": "Choose one type of weapon, such as longswords. You deal an extra weapon die of damage with it."
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast wizard spells you know. You know one tier 1 spell of your choice from the wizard spell list."
+    },
+    "spellTalents": [
+    ],
+    "ability": "Wisdom",
+    "miscast": {
+      "description": [
+        {
+          "name": "Spellbound Rate.",
+          "value": "Spellbound Rate of the glade guard starts at 1 and increases by one every time a glade guard fails their spellcasting check. If the natural number on the die of the spellcasting check falls into the Spellbound Rate, the spell check automatically fails, and the glade guard must roll on the Spellbound Table. When the glade guard regains spells on the following day, their Spellbound range is reset to a 1."
+        },
+        {
+          "name": "Ritual.",
+          "value": "Once a glade guard's range of Spellbound increases beyond a natural 1, they can reduce that range by offering to elven gods."
+        },
+        {
+          "name": "Nature's defender.",
+          "value": "When a glade guard commits an act of against fey nature, they may incur an additional increase in his Spellbound range. This could amount to an increase of +1 for minor infractions all the way up to +10 for significant transgressions."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Spellbound",
+          "description": {
+            "name": "Spellbound roll.",
+            "value": "The roll is Spellbound Rate number of d4s."
+          },
+          "table": {
+            "header": ["Roll", "Spellbound effect"],
+            "rows": [
+              [
+                "1",
+                "The elf must atone for thier deeds. They must do nothing."
+              ]
+            ]
+          }
+        }
+      ]
     }
   }
 }

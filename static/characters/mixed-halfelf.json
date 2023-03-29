@@ -1,6 +1,7 @@
 {
   "image": "/img/classes/half-elf.webp",
   "title": "Runner",
+  "hitDice": "1d6",
   "titles": {
     "table": {
       "table": {

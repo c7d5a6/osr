@@ -3,6 +3,7 @@
   "title": "Disciple",
   "requirement": "Chaotic alignment.",
   "fluff": ".",
+  "hitDice": "1d6",
   "titles": {
     "table": {
       "table": {

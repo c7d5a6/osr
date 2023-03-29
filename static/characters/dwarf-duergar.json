@@ -3,6 +3,7 @@
   "title": "Skulk",
   "requirement": "Neutral alignment.",
   "fluff": "Grim, industrious and pessimistic, the lives of the gray dwarves are bleak and brutal.",
+  "hitDice": "1d6",
   "titles": {
     "table": {
       "table": {

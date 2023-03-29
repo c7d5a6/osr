@@ -17,30 +17,31 @@ function Spellcasting(props) {
       <Term name={spellcasting.description.name}>{spellcasting.description.description}</Term>
       <Term name="Spellcasting Ability:">{spellcasting.ability}</Term>
       {spellcasting.spellTalents.map((talent, i) => <Term name={talent.name}>{talent.description}</Term>)}
-      <div>
-        <h3>{props.name} Spells Known Table</h3>
-        {/* <h5>Spells Known By Spell Tier</h5> */}
-        <table>
-          <thead>
-            <tr>
-              <th>Level</th>
-              <th>Tier 1</th>
-              <th>Tier 2</th>
-              <th>Tier 3</th>
-              <th>Tier 4</th>
-              <th>Tier 5</th>
-            </tr>
-          </thead>
-          <tbody style={divStyle}>
-            {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((level) =>
+      {spellcasting.spellsKnown ?
+        <div>
+          <h3>{props.name} Spells Known Table</h3>
+          {/* <h5>Spells Known By Spell Tier</h5> */}
+          <table>
+            <thead>
               <tr>
-                <td><b>{level}</b></td>
-                {spellcasting.spellsKnown[level - 1] ? spellcasting.spellsKnown[level - 1].map((number) => <td>{number}</td>) : ('')}
+                <th>Level</th>
+                <th>Tier 1</th>
+                <th>Tier 2</th>
+                <th>Tier 3</th>
+                <th>Tier 4</th>
+                <th>Tier 5</th>
               </tr>
-            )}
-          </tbody>
-        </table>
-      </div>
+            </thead>
+            <tbody style={divStyle}>
+              {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((level) =>
+                <tr>
+                  <td><b>{level}</b></td>
+                  {spellcasting.spellsKnown[level - 1] ? spellcasting.spellsKnown[level - 1].map((number) => <td>{number}</td>) : ('')}
+                </tr>
+              )}
+            </tbody>
+          </table>
+        </div> : ('')}
       {spellcasting.miscast ? (<Miscast miscast={spellcasting.miscast}></Miscast>) : ('')}
     </div>
   );

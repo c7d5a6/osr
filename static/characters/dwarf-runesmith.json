@@ -3,6 +3,7 @@
   "title": "Apprentice",
   "requirement": "Lawful or Neutral alignment.",
   "fluff": "Runesmiths work spells with their hammercraft, binding magic into mighty runes of power.",
+  "hitDice": "1d6",
   "titles": {
     "table": {
       "table": {

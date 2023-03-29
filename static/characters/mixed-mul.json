@@ -1,6 +1,8 @@
 {
   "image": "/img/classes/mul.webp",
   "title": "Bull",
+  "hitDice": "1d8",
+  "fluff": "A tough crossbreed of a human and dwarf retain the height and cunning of their human parent, plus the durability and raw strength of their dwarven heritage.",
   "titles": {
     "table": {
       "table": {

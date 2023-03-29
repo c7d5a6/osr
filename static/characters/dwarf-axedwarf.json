@@ -3,6 +3,7 @@
   "title": "Hammerer",
   "requirement": "Lawful or Neutral alignment.",
   "fluff": "The most skilled warriors in a Dwarfholds are the Axedwarves.",
+  "hitDice": "1d8",
   "titles": {
     "table": {
       "table": {

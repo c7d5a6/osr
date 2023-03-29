@@ -3,6 +3,7 @@
   "title": "Allurer",
   "requirement": "Neutral or Chaotic alignment.",
   "fluff": "Skilled practitioners of a particular fey strand of magic, adepts at creating powerful illusions and charms.",
+  "hitDice": "1d4",
   "titles": {
     "table": {
       "table": {

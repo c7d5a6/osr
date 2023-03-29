@@ -20,7 +20,7 @@ function CharacterGenerator(props) {
             {race.fluff ? (<p><i>{race.fluff}</i></p>) : (<p>NO FLUFF</p>)}
             {race.requirement ? (<Term name="Requirements:">{race.requirement}</Term>) : ('')}
             {race.language ? (<Term name="">{race.language}</Term>) : (<p>NO LANGUAGE</p>)}
-            {race.raceTalent ? (<Term name={race.raceTalent.name}>{race.raceTalent.description}</Term>) : (<p>NO RACE TALENT</p>)}
+            {race.raceTalent ? (<Term name={race.raceTalent.name}>{race.raceTalent.description}</Term>) : ('')}
             <Tabs className="unique-tabs">
               {race.class.map((cl, j) => (
                 <TabItem value={cl.value} label={cl.name} default={j === 0}>
