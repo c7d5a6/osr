@@ -26,11 +26,11 @@
   "specialTalents": [
     {
       "name": "Lucky!",
-      "description": "You can have more than one luck at a time. You start a game with +1 luck token. Also, you gain 1 luck token after resting."
+      "description": "You can have more than one luck at a time. At a start of a game or after resting you gain 1 luck token."
     },
     {
       "name": "Insignificant.",
-      "description": "Once per day, you can become invisible for 3 rounds. Also, You have an advantage on any check for doing something sneaky and hiding."
+      "description": "Once per day, you can become invisible for 3 rounds. You have an advantage on any check for hiding and doing something sneaky."
     },
     {
       "name": "Second breakfast.",
