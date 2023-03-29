@@ -9,7 +9,7 @@
   "specialTalents": [
     {
       "name": "Languages.",
-      "description": "You know Druidic and Sylvan languages."
+      "description": "You know Druidic and Sylvan languages. All animals can understand Druidic language, but cannot respond."
     }
   ],
   "talents": [
@@ -53,10 +53,6 @@
       {
         "name": "Animal Friendship.",
         "description": "You know the <i>animal friendship</i> spell. It doesn't count toward your number of known spells."
-      },
-      {
-        "name": "Speak with Animals.",
-        "description": "You know the <i>speak with animals</i> spell. It doesn't count toward your number of known spells."
       }
     ],
     "spellsKnown": [
