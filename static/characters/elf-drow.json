@@ -4,7 +4,7 @@
   "requirement": "Chaotic alignment.",
   "fluff": "Drows are talented fighters and gain powerful magic through the worship of their strange chaotic deities.",
   "hitDice": "1d6",
-  "weapons": "Club, crossbow, dagger, mace, longsword, shortbow, shortsword",
+  "weapons": "Club, crossbow, dagger, mace, longbow, longsword, shortbow, shortsword",
   "armor": "Leather armor",
   "specialTalents": [
     {

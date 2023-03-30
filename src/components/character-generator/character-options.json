@@ -47,23 +47,8 @@
       },
       "class": [
         { "value": "dancer", "name": "Glade Guard", "comment": "ranger-druid" },
-        { "value": "drow", "name": "Drow Divine"},
+        { "value": "drow", "name": "Drow Divine" },
         { "value": "enchanter", "name": "Enchanter", "comment": "illusionist" }
-      ]
-    },
-    {
-      "value": "fey",
-      "name": "Fey",
-      "fluff": "Diminutive beings possessing inexplicable, supernatural abilities, leading a hidden lifestyle.",
-      "requirement": "minimum CHA 10.",
-      "language": "You know the Common and Sylvan languages.",
-      "raceTalent": {
-        "name": "Being of magic.",
-        "description": "You have advantage on checks for overcoming malicious magical effects."
-      },
-      "class": [
-        { "value": "gnome", "name": "Gnome" },
-        { "value": "svirfneblin", "name": "Svirfneblin" }
       ]
     },
     {
@@ -88,5 +73,22 @@
     { "value": "lawful", "name": "Lawful" },
     { "value": "neutral", "name": "Neutral" },
     { "value": "chaotic", "name": "Chaotic" }
+  ],
+  "newraces": [
+    {
+      "value": "fey",
+      "name": "Fey",
+      "fluff": "Diminutive beings possessing inexplicable, supernatural abilities, leading a hidden lifestyle.",
+      "requirement": "minimum CHA 10.",
+      "language": "You know the Common and Sylvan languages.",
+      "raceTalent": {
+        "name": "Being of magic.",
+        "description": "You have advantage on checks for overcoming malicious magical effects."
+      },
+      "class": [
+        { "value": "gnome", "name": "Gnome" },
+        { "value": "svirfneblin", "name": "Svirfneblin" }
+      ]
+    }
   ]
 }
