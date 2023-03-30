@@ -13,7 +13,7 @@
     },
     {
       "name": "Spider Affinity.",
-      "description": "Drow live alongside many different species of spiders, including giant ones. They can speak the secret language of spiders and gain a +1 bonus to reaction rolls when encountering spiders."
+      "description": "Drow live alongside many different species of spiders, including giant ones. You can speak the secret language of spiders and gain a +1 bonus to reaction rolls when encountering spiders."
     },
     {
       "name": "Deity.",
@@ -75,7 +75,72 @@
     },
     "reward": {
       "name": "Fane.",
-      "value": "Upon reaching the title of Patriarch/Matriarch a drow may establish or build a Fane. When the construction is complete, a number of followers will arrive to serve."
+      "value": "Upon reaching the title of Patriarch/Matriarch you may establish or build a Fane. When the construction is complete, a number of followers will arrive to serve."
+    }
+  },
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast wizard spells you know. You know two tier 1 spells of your choice from the wizard spell list. Each time you gain a level, you choose new wizard spells to learn according to the Spells Known table."
+    },
+    "ability": "Intelligence",
+    "spellTalents": [
+      {
+        "name": "Divine Blessing.",
+        "description": "You know the <i>web</i> spell. It doesn't count toward your number of known spells."
+      }
+    ],
+    "spellsKnown": [
+      [2, "-", "-", "-", "-"],
+      [3, "-", "-", "-", "-"],
+      [3, "1", "-", "-", "-"],
+      [3, "2", "-", "-", "-"],
+      [3, "2", "1", "-", "-"],
+      [3, "2", "2", "-", "-"],
+      [3, "3", "2", "1", "-"],
+      [3, "3", "2", "2", "-"],
+      [3, "3", "2", "2", "1"],
+      [3, "3", "3", "3", "2"]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Disfavour Rate.",
+          "value": "Disfavour rate of the drow divine starts at 1 and increases by one every time you fail your spellcasting check. If the natural number on the die of the spellcasting check falls into the Disfavour Rate, the spell check automatically fails, and you must roll on the Diety's Spite table. When the you regain spells on the following day, your disfavour range is reset to a 1. Probably."
+        },
+        {
+          "name": "Sacrifices.",
+          "value": "Once your range of disfavour increases beyond a natural 1, you can reduce that range by offering sacrifices to your deity."
+        },
+        {
+          "name": "Blood Sacrifice.",
+          "value": "If your last action before spellcasting was inflicting damage in close range, you can lower Disfavour Rate by this damage amount. Disfavour Rate, however, can't be lower than 1. You can choose to inflict damage on yourself or any willing target. In that case, the amount of damage can be chosen as any number from their weapon dice."
+        },
+        {
+          "name": "Sins.",
+          "value": "When a you commit a sinful act, you may incur an additional increase in your disfavour range. This could amount to an increase of +1 for minor infractions all the way up to +10 for significant transgressions."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Diety's Spite",
+          "description": {
+            "name": "Diety's Spite roll.",
+            "value": "The roll is 2d6 + spell tier."
+          },
+          "table": {
+            "header": ["Roll", "Spite"],
+            "rows": [
+              ["7 or less", "Lesser Missfire"],
+              ["8–9", "Minor Corruption"],
+              ["10–11", "Missfire"],
+              ["12–13", "Major Corruption"],
+              ["14–15", "Grater Missfire"],
+              ["16 or more", "Grater Corrution"]
+            ]
+          }
+        }
+      ]
     }
   }
 }

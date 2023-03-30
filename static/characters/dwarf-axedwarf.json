@@ -4,6 +4,8 @@
   "requirement": "Lawful or Neutral alignment.",
   "fluff": "The most skilled warriors in a Dwarfholds are the Axedwarves.",
   "hitDice": "1d8",
+  "weapons": "All weapons",
+  "armor": "All armor and shields",
   "titles": {
     "table": {
       "table": {
@@ -21,5 +23,41 @@
       "name": "Mountain Fortress.",
       "value": "Upon reaching the title of The Grudgebreaker an axedwarf may establish or build a Mountain Fortress. When the construction is complete, a number of followers will arrive to serve."
     }
-  }
+  },
+  "specialTalents": [
+    {
+      "name": "Hauler.",
+      "description": "Add your Constitution modifier, if positive, to your gear slots."
+    },
+    {
+      "name": "Shield Block.",
+      "description": "If you have a shield in a hand, you can use it to block enemy attack. Shield reduces the damage dealt to you by 1d4. Your shield breaks unless you pass a Strength check with DC 9 + original damage dealt."
+    },
+    {
+      "name": "Grudge.",
+      "description": "You have an advantage on checks related to taking vengeance on the last being that inflicted HP damage to you."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Your Shield Block blocks +1 dice"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee attacks and damage"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength or Constitution score"
+    },
+    {
+      "value": "10–11",
+      "talent": "Choose one kind of armor. You get +1 AC from that armor"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ]
 }

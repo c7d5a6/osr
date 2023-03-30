@@ -74,6 +74,38 @@
       ["4", "4", "2", "2", "-"],
       ["4", "4", "3", "2", "1"],
       ["4", "4", "4", "2", "2"]
-    ]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Magical energy.",
+          "value": "If you fail your spellcasting check, the spell does not take effect. You can't cast that spell again until you complete a rest."
+        },
+        {
+          "name": "Magical chaos.",
+          "value": "If you roll a natural 1 on your spellcasting check you must roll on the Mishap table."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Mishap",
+          "description": {
+            "name": "Mishap roll.",
+            "value": "The roll is 2d6 + spell tier."
+          },
+          "table": {
+            "header": ["Roll", "Mishap"],
+            "rows": [
+              ["7 or less", "Lesser Missfire"],
+              ["8–9", "Minor Corruption"],
+              ["10–11", "Missfire"],
+              ["12–13", "Major Corruption"],
+              ["14–15", "Grater Missfire"],
+              ["16 or more", "Grater Corrution"]
+            ]
+          }
+        }
+      ]
+    }
   }
 }
