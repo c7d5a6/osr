@@ -23,7 +23,7 @@
   "talents": [
     {
       "value": "2",
-      "talent": "Gain advantage on casting one spell you know"
+      "talent": "Learn one additional spell of any tier you know"
     },
     {
       "value": "3–6",
@@ -31,11 +31,11 @@
     },
     {
       "value": "7–9",
-      "talent": "+2 to Dexterity or Intelligence score"
+      "talent": "+2 to Dexterity or +1 to spellcasting checks"
     },
     {
       "value": "10–11",
-      "talent": "+1 to spellcasting checks"
+      "talent": "Gain advantage on casting one spell you know"
     },
     {
       "value": "12",
