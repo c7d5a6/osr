@@ -83,9 +83,9 @@ You throw a handful of seeds on the ground. Which immediately grow and entangle 
 *Tier I*  
 
 **Duration:** Focus  
-**Range:** Near  
+**Range:** Far  
 
-Small area within range is outlined in flikering lights. Any creature or object in the area outlined in light. The flickering
+A near-sized area within range is outlined in flikering lights. Any creature or object in the area outlined in light. The flickering
 fire makes invisible targets visible. Any attack roll against an affected creature or object has advantage.
 
 You can move lights Near during concentration check.
