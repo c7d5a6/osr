@@ -78,7 +78,7 @@ This spell causes a magical spring to gush forth from the ground. The fount prod
 
 You throw a handful of seeds on the ground. Which immediately grow and entangle your foes. The entangled creature can’t move and must succeed on a Strength check opposed by your spellcasting check to free itself.
 
-### [Faerie Fire](#faerie-fire)
+### Faerie Fire
 
 *Tier I*  
 
