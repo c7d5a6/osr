@@ -1,6 +1,6 @@
 ---
 id: character
-title: Choose you character type!
+title: Choose your character type!
 tags: [rule, page]
 ---
 
