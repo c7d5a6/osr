@@ -81,7 +81,7 @@
   "spellcasting": {
     "description": {
       "name": "Spellcasting.",
-      "description": "You can cast wizard spells you know. You know two tier 1 spells of your choice from the wizard spell list. Each time you gain a level, you choose new wizard spells to learn according to the Spells Known table."
+      "description": "You can cast <a href=\"/docs/rules/spells#drow-divine\">Drow Divine spells</a> you know. You know two tier 1 spells of your choice from the <a href=\"/docs/rules/spells#drow-divine\">Drow Divine spell list</a>. Each time you gain a level, you choose new spells to learn according to the Spells Known table."
     },
     "ability": "Intelligence",
     "spellTalents": [

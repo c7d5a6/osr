@@ -55,9 +55,13 @@
   "spellcasting": {
     "description": {
       "name": "Spellcasting.",
-      "description": "You can cast wizard spells you know. You know one tier 1 spell of your choice from the wizard spell list."
+      "description": "You can cast <a href=\"/docs/rules/spells#glade-guard\">Glade Guard spells</a> you know."
     },
     "spellTalents": [
+      {
+        "name": "Fey blood.",
+        "description": "You know one tier 1 spell of your choice from the <a href=\"/docs/rules/spells#glade-guard\">Glade Guard spell</a> list."
+      }
     ],
     "ability": "Wisdom",
     "miscast": {
@@ -85,10 +89,7 @@
           "table": {
             "header": ["Roll", "Spellbound effect"],
             "rows": [
-              [
-                "1",
-                "The elf must atone for thier deeds. They must do nothing."
-              ]
+              ["1", "The elf must atone for thier deeds. They must do nothing."]
             ]
           }
         }
