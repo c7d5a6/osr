@@ -22,7 +22,7 @@ tags: [rule, page, spells]
 #### Tier I
 
 - [Animal Friendship](#animal-friendship)
-- Create Water
+- [Create Water](#create-water)
 - [Entangle](#entangle)
 - [Faerie Fire](#faerie-fire)
 - [Invisibility to Animals](#invisibility-to-animals)
