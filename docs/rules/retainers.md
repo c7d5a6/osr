@@ -4,6 +4,8 @@ title: Hiring Helping Hand
 tags: [rule, page, table]
 ---
 
+<img class="img-character" align="right" src="/img/retainer.webp"/>
+
 **Retainers** are NPCs that have class levels and associated skills. They are mercenaries and sellswords that
 will accompany the PCs during any reasonable dungeon-delving activities, including combat. They will not hire
 on with parties whose average level is lower than their own.
@@ -49,6 +51,8 @@ Retainers will usually want a guaranteed fee (per day or per adventure) and a sh
 | **8–9**   | 0          | 0          | 0          | 1          | 2                  |
 | **10–11** | 0          | 0          | 1          | 2          | 3                  |
 | **12**    | 0          | 1          | 2          | 3          | 4                  |
+
+<img class="img-character" align="left" src="/img/retainer2.webp"/>
 
 ## Applicant Reactions
 

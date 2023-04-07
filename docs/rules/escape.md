@@ -6,6 +6,8 @@ tags: [rule, page, table]
 
 With inspiration from [the Alexandrian](https://thealexandrian.net/wordpress/2149/roleplaying-games/escaping-the-dungeon).
 
+<img class="img-character" align="right" src="/img/scape1.webp"/>
+
 ## ESCAPE CHECK
 
 `Roll 2d6` for escape:
@@ -39,3 +41,5 @@ With inspiration from [the Alexandrian](https://thealexandrian.net/wordpress/214
 | **10** | You escape unharmed.
 | **11** | You return with the memory of a great discovery!
 | **12** | Opportunity for betrayal. You can choose to either reroll on this table or betray a comrade who would otherwise escape. If you choose to betray a comrade roll 1d6 — on a roll of 1–4, you escape and they must roll on this table; on a roll of 5–6, both you and your victim suffer the fate they roll.
+
+<img src="https://images.squarespace-cdn.com/content/v1/5df4d4a75a9fd448887caefd/1583570898282-LE2ZJL4NYSJVN1KC762Q/bridge-low.jpg"/>
