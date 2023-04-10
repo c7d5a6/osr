@@ -8,6 +8,9 @@ tags: [rule, page, spells]
 
 ### Drow Divine
 
+<div class="row">
+<div class="col col--4 margin-bottom--lg">
+
 #### Tier I
 
 - *Burning Hands*
@@ -17,7 +20,26 @@ tags: [rule, page, spells]
 - *Shield of Faith*
 - [Unholy Weapon](#unholy-weapon)
 
+</div>
+
+<div class="col col--4 margin-bottom--lg">
+
+#### Tier II
+
+- *Alter Self*
+- *Blind/Deafen*
+- [Defiling Weapon](#defiling-weapon)
+- *Misty Step*
+- *Smite*
+- *Web*
+
+</div>
+</div>
+
 ### Druid
+
+<div class="row">
+<div class="col col--4 margin-bottom--lg">
 
 #### Tier I
 
@@ -28,11 +50,30 @@ tags: [rule, page, spells]
 - [Invisibility to Animals](#invisibility-to-animals)
 - [Speak with Animals](#speak-with-animals)
 
+</div>
+
+<div class="col col--4 margin-bottom--lg">
+
+#### Tier II
+
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+
+</div>
+</div>
+
 ### Enchanter
 
 ...
 
 ### Glade Guard
+
+<div class="row">
+<div class="col col--4 margin-bottom--lg">
 
 #### Tier I
 
@@ -42,6 +83,22 @@ tags: [rule, page, spells]
 - [Invisibility to Animals](#invisibility-to-animals)
 - *Light*
 - *Sleep*
+
+</div>
+
+<div class="col col--4 margin-bottom--lg">
+
+#### Tier II
+
+- *Alter Self*
+- *Blind/Deafen*
+- *Invisibility*
+- *Mirror Image*
+- ...
+- ...
+
+</div>
+</div>
 
 ### Runesmith
 
@@ -57,6 +114,15 @@ tags: [rule, page, spells]
 **Range:** Near  
 
 You magically charm one animal of 2 HD or less within near range, to bacame your friend. Treat this animal as a retainer for all purposes.
+
+### Defiling Weapon
+
+*Tier II*  
+
+**Duration:** 5 rounds  
+**Range:** Close  
+
+One weapon you touch is wreathed in black flames. The weapon deals an additional 1d4 damage for the duration.
 
 ### Create Water
 
