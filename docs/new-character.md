@@ -1,10 +1,13 @@
 ---
 id: character
-title: Choose your character type!
+title: Choose your character!
+sidebar_position: 2
 tags: [rule, page]
 ---
 
 import CharacterGenerator from '/src/components/character-generator/character-generator';
+
+<img class="img-character" align="right" src="/img/characters.webp"/>
 
 1. Roll `3d6` in a row for Strength (abbreviated STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHA).
 2. Roll for Backgroud.

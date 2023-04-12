@@ -1,15 +1,16 @@
 ---
 id: spells
-title: Spell lists
+title: Spells Slinging
+sidebar_position: 5
 tags: [rule, page, spells]
 ---
 
-## Lists
+## Class spelllists
 
 ### Drow Divine
 
 <div class="row">
-<div class="col col--4 margin-bottom--lg">
+<div class="col">
 
 #### Tier I
 
@@ -21,8 +22,7 @@ tags: [rule, page, spells]
 - [Unholy Weapon](#unholy-weapon)
 
 </div>
-
-<div class="col col--4 margin-bottom--lg">
+<div class="col">
 
 #### Tier II
 
@@ -39,7 +39,7 @@ tags: [rule, page, spells]
 ### Druid
 
 <div class="row">
-<div class="col col--4 margin-bottom--lg">
+<div class="col">
 
 #### Tier I
 
@@ -51,8 +51,7 @@ tags: [rule, page, spells]
 - [Speak with Animals](#speak-with-animals)
 
 </div>
-
-<div class="col col--4 margin-bottom--lg">
+<div class="col">
 
 #### Tier II
 
@@ -64,7 +63,48 @@ tags: [rule, page, spells]
 - ...
 
 </div>
+<div class="col">
+
+#### Tier III
+
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+
 </div>
+</div>
+
+<div class="row">
+<div class="col">
+
+#### Tier IV
+
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+
+</div>
+
+<div class="col">
+
+#### Tier V
+
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
+
+</div>
+</div>
+
 
 ### Enchanter
 
@@ -73,7 +113,7 @@ tags: [rule, page, spells]
 ### Glade Guard
 
 <div class="row">
-<div class="col col--4 margin-bottom--lg">
+<div class="col">
 
 #### Tier I
 
@@ -86,7 +126,7 @@ tags: [rule, page, spells]
 
 </div>
 
-<div class="col col--4 margin-bottom--lg">
+<div class="col">
 
 #### Tier II
 

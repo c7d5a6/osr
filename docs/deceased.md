@@ -1,10 +1,10 @@
 ---
 id: graveyard
 title: Grim Graveyard
+sidebar_position: 4
 tags: [page, world]
 ---
 
-<!-- <img class="img-character" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nuremberg_chronicles_-_Dance_of_Death_%28CCLXIIIIv%29.jpg/800px-Nuremberg_chronicles_-_Dance_of_Death_%28CCLXIIIIv%29.jpg"/> -->
 <img class="img-character" align="right" src="/img/dance.webp"/>
 
 ## Deceased heroes

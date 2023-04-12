@@ -1,6 +1,7 @@
 ---
-id: escape
-title: Escaping the Dungeon!
+id: depart
+title: Departing the Dungeon!
+sidebar_position: 3
 tags: [rule, page, table]
 ---
 
