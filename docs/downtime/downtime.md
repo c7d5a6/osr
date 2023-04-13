@@ -15,7 +15,7 @@ sidebar_position: 5
 - [Rumors](#enquiring-rumors)
 - Relaxation
 - Rodomontade
-- Preparing and Scouting
+- [Preparing and Scouting](#preparing-and-scouting)
 - Learning Talents
 - Learning Skills
 - Professional Income
@@ -47,3 +47,6 @@ To learn some rumors spend `1d4 gp` and make a reaction roll. `roll 2d6 + CHA or
 |            |          |     |     | **11–12**      | Learn one rumor about specific question plus 1 random rumor.                         |
 |            |          |     |     | **13 or more** | Learn two rumor about specific questions                                             |
 
+## Preparing and Scouting
+
+If characters spend a few days scouting a site, doing research, training for their next adventure, and/or any other preparatory activity, they gain a *Prepared Item*. *Prepared Item* is a special item with 0 cost and it takes 1 gear slot. At any time during adventure, it can permanently turn into any basic gear with cost 1 gp or less. Only player characters can use this item. It can be only one *Prepared Item* in inventory at a time.
