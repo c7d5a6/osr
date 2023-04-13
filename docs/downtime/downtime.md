@@ -35,7 +35,7 @@ sidebar_position: 5
 
 ## Enquiring rumors
 
-To learn some rumors spend `1d4 gp` and make a reaction roll. `roll 2d6 + CHA or WIS modifier`. Use **CHA** if you are actively asking, **WIS** otherwise. It takes 1 full day per attempt.
+`roll 2d6 + CHA or WIS modifier`. Use **CHA** if you are actively asking, **WIS** otherwise. It takes 1 full day per attempt.
 
 | CHA or WIS | Modifier |     |     | Total roll     | Number of Rumors                                                                     |
 | ---------- | -------- | --- | --- | -------------- | ------------------------------------------------------------------------------------ |
