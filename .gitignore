@@ -18,3 +18,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+dungeon-bot/node_modules/
+
+dungeon-bot/app-pm2.json
+
+dungeon-bot/start.sh
