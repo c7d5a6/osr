@@ -126,17 +126,17 @@
           "name": "Diety's Spite",
           "description": {
             "name": "Diety's Spite roll.",
-            "value": "The roll is 2d6 + spell tier."
+            "value": "The roll is 2d6 + double spell tier."
           },
           "table": {
             "header": ["Roll", "Spite"],
             "rows": [
-              ["7 or less", "Lesser Missfire"],
-              ["8–9", "Minor Corruption"],
-              ["10–11", "Missfire"],
-              ["12–13", "Major Corruption"],
-              ["14–15", "Grater Missfire"],
-              ["16 or more", "Grater Corrution"]
+              ["11 or less", "Lesser Missfire"],
+              ["12–13", "Minor Corruption"],
+              ["14–17", "Missfire"],
+              ["18", "Major Corruption"],
+              ["19–21", "Grater Missfire"],
+              ["22 or more", "Grater Corrution"]
             ]
           }
         }
