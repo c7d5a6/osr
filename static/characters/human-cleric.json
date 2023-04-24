@@ -1,6 +1,6 @@
 {
   "image": "/img/classes/cleric.webp",
-  "fluff": "Clerics are versatile figures, both capable in combat and skilled in the use of divine magic.",
+  "fluff": "Crusading templars and cultist who wield the power of their gods to help the worthy and cleanse the impious.",
   "weapons": "Club, crossbow, dagger, mace, longsword, staff, warhammer",
   "armor": "All armor and shields",
   "hitDice": "1d6",
@@ -16,10 +16,22 @@
     }
   ],
   "talents": [
-    { "value": "2", "talent": "Gain advantage on casting one spell you know" },
-    { "value": "3–6", "talent": "+1 to melee or ranged attacks" },
-    { "value": "7–9", "talent": "+1 to cleric spellcasting checks" },
-    { "value": "10–11", "talent": "+2 to Strength or Wisdom score" },
+    {
+      "value": "2",
+      "talent": "Gain advantage on casting one spell you know"
+    },
+    {
+      "value": "3–6",
+      "talent": "Choose one kind of armor. You get +1 AC from that armor"
+    },
+    {
+      "value": "7–9",
+      "talent": "+1 to cleric spellcasting checks"
+    },
+    {
+      "value": "10–11",
+      "talent": "+2 to Strength or Wisdom score, or +1 to melee and ranged attacks"
+    },
     {
       "value": "12",
       "talent": "Choose a talent or +2 points to distribute to ability scores"
@@ -28,13 +40,43 @@
   "titles": {
     "table": {
       "table": {
-        "header": ["Level", "Lawful Title", "Neutral Title", "Chaotic Title"],
+        "header": [
+          "Level",
+          "Lawful Title",
+          "Neutral Title",
+          "Chaotic Title"
+        ],
         "rows": [
-          ["1–2", "Acolyte", "Seeker", "Initiate"],
-          ["3–4", "Crusader", "Invoker", "Zealot"],
-          ["5–6", "Templar", "Haruspex", "Cultist"],
-          ["7–8", "Champion", "Mystic", "Scourge"],
-          ["9–10", "High Priest", "Oracle", "Exalted Champion"]
+          [
+            "1–2",
+            "Acolyte",
+            "Seeker",
+            "Initiate"
+          ],
+          [
+            "3–4",
+            "Crusader",
+            "Invoker",
+            "Zealot"
+          ],
+          [
+            "5–6",
+            "Templar",
+            "Haruspex",
+            "Cultist"
+          ],
+          [
+            "7–8",
+            "Champion",
+            "Mystic",
+            "Scourge"
+          ],
+          [
+            "9–10",
+            "High Priest",
+            "Oracle",
+            "Exalted Champion"
+          ]
         ]
       }
     },
@@ -56,16 +98,76 @@
       }
     ],
     "spellsKnown": [
-      [2, "-", "-", "-", "-"],
-      [3, "-", "-", "-", "-"],
-      [3, "1", "-", "-", "-"],
-      [3, "2", "-", "-", "-"],
-      [3, "2", "1", "-", "-"],
-      [3, "2", "2", "-", "-"],
-      [3, "3", "2", "1", "-"],
-      [3, "3", "2", "2", "-"],
-      [3, "3", "2", "2", "1"],
-      [3, "3", "3", "3", "2"]
+      [
+        2,
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "1",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "2",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "2",
+        "1",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "2",
+        "2",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "3",
+        "2",
+        "1",
+        "-"
+      ],
+      [
+        3,
+        "3",
+        "2",
+        "2",
+        "-"
+      ],
+      [
+        3,
+        "3",
+        "2",
+        "2",
+        "1"
+      ],
+      [
+        3,
+        "3",
+        "3",
+        "3",
+        "2"
+      ]
     ],
     "miscast": {
       "description": [
@@ -90,7 +192,10 @@
             "value": "The roll is Disapproval Rate number of d4s."
           },
           "table": {
-            "header": ["Roll", "Disapproval"],
+            "header": [
+              "Roll",
+              "Disapproval"
+            ],
             "rows": [
               [
                 "1",

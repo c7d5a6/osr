@@ -2,6 +2,7 @@
   "image": "/img/classes/half-elf.webp",
   "title": "Runner",
   "hitDice": "1d6",
+  "fluff": "Half-elves are the rare offspring of elves and humans. They tend to combine the best features of their parents, but usually considered outcasts in both human and elven societies.",
   "titles": {
     "table": {
       "table": {

@@ -2,7 +2,49 @@
   "image": "/img/classes/mul.webp",
   "title": "Bull",
   "hitDice": "1d8",
+  "weapons": "All weapons",
+  "armor": "Leather armor, shields",
   "fluff": "A tough crossbreed of a human and dwarf retain the height and cunning of their human parent, plus the durability and raw strength of their dwarven heritage.",
+  "specialTalents": [
+    {
+      "name": "Adaptable.",
+      "description": "You gain one additional talent roll at 1st level."
+    },
+    {
+      "name": "Adrenaline rush.",
+      "description": "Regain 1d6 hit points when you hit an enemy with a melee attack. Make a DC 18 Constitution check (the Implacable talent applies to this roll). On fail you loose this ability until rest."
+    },
+    {
+      "name": "Hauler.",
+      "description": "Add your Constitution modifier, if positive, to your gear slots."
+    },
+    {
+      "name": "Implacable.",
+      "description": "You have advantage on Constitution checks to resist injury, poison, or endure extreme environments."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Increase the HP you gain from Adrenaline rush by 1d6"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee weapon damage"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength or Constitution score, or +1 to melee attacks"
+    },
+    {
+      "value": "10–11",
+      "talent": "1/day, ignore all damage and effects from one attack"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
   "titles": {
     "table": {
       "table": {
