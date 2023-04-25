@@ -7,8 +7,8 @@
   "title": "Squire (L), Warrior (N), Knave (C)",
   "specialTalents": [
     {
-      "name": "Hauler.",
-      "description": "Add your Constitution modifier, if positive, to your gear slots."
+      "name": "Mighty Deed.",
+      "description": "If you have an advantage on attack, you can forfeit this advantage and declare mighty deed. If attack hits, you can add an effect to attack: push back, trip, entangle an enemy, temporarily blind them, defensive deed or precision shots and so on."
     },
     {
       "name": "Weapon Mastery.",

@@ -31,7 +31,7 @@ sidebar_position: 5
 - Theft
 - Racketeering
 - Banditry
-- Gambling
+- [Gambling](#gambling)
 
 ## Enquiring rumors
 
@@ -50,3 +50,7 @@ sidebar_position: 5
 ## Preparing and Scouting
 
 If characters spend a few days scouting a site, doing research, training for their next adventure, and/or any other preparatory activity, they gain a *Prepared Item*. *Prepared Item* is a special item with 0 cost and it takes 1 gear slot. At any time during adventure, it can permanently turn into any basic gear with cost 1 gp or less. Only player characters can use this item. It can be only one *Prepared Item* in inventory at a time.
+
+## Gambling
+
+A game of *Wizards and Thieves* between all players that whant to gamble and the GM. It takes one day to gamble.

@@ -3,6 +3,45 @@
   "title": "Barbarian",
   "requirement": "Neutral or Chaotic alignment.",
   "hitDice": "1d8",
+  "weapons": "All weapons",
+  "armor": "All armor and shields",
+  "fluff": "bla-bla",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know Diabolic."
+    },
+    {
+      "name": "Demonic Possession.",
+      "description": "Gain a +1 bonus to your damage rolls that lasts 5 rounds. In addition, add half your level to the damage bonus (round down)."
+    },
+    {
+      "name": "Implacable.",
+      "description": "You have advantage on Constitution checks to resist injury, poison, or endure extreme environments."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Increase the HP you gain from Adrenaline rush by 1d6"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee weapon damage"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength or Constitution score, or +1 to melee attacks"
+    },
+    {
+      "value": "10–11",
+      "talent": "1/day, ignore all damage and effects from one attack"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
   "titles": {
     "table": {
       "table": {
