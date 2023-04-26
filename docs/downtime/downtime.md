@@ -8,30 +8,32 @@ sidebar_position: 5
 - Carousing
     - Adornment
     - Philanthropy
-    - **Drinking**/Orgies
-    - Study/Research/Meditation
+    - **Drinking**
     - Gourmandising
-- Sacrifice
-- [Rumors](#enquiring-rumors)
+    - [Gambling](#gambling)
 - Relaxation
 - Rodomontade
 - [Preparing and Scouting](#preparing-and-scouting)
-- Learning Talents
-- Learning Skills
+    - [Rumors](#enquiring-rumors)
+- Learning
+    - Study/Research/Meditation
+    - Learning Talents
+    - Learning Skills
+    - Collecting an Arcane Library
 - Professional Income
 - Crafting Items
-- Collecting an Arcane Library
-- Scribing a Scroll or Brewing a Potion (*from 5th level*)
-- Creating Magical and Alchemical Items (*from 9th level*)
     - Researching Spells
     - Researching New Spells
+    - Scribing a Scroll or Brewing a Potion (*from 5th level*)
+    - Creating Magical and Alchemical Items (*from 9th level*)
+- Sacrifice
 - Quests
-- Arena Fights
-- Assassination
-- Theft
-- Racketeering
-- Banditry
-- [Gambling](#gambling)
+- Criminal activities
+    - Arena Fights
+    - Assassination
+    - Theft
+    - Racketeering
+    - Banditry
 
 ## Enquiring rumors
 
