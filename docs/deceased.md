@@ -12,7 +12,7 @@ tags: [page, world]
 | Name | Class  | Date | Cause |
 | --- | --- | --- | --- |
 | **✝ Poc Au Ac** | Fighter 1 | 26.11.22 | Grabbed by gelationus cube |
-| **✝ Schpeck** | Drow Divine 2 | 27.04.23 | Fed on by ghouls |
+| **✝ Schpeck** | Drow Divine 2 | 27.04.23 | Fed on by ghoul-chefs |
 
 ## Perished retainers
 
