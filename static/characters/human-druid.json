@@ -2,8 +2,8 @@
   "image": "/img/classes/druid.webp",
   "fluff": "Druids are religious leaders as well as legal authorities, adjudicators, lorekeepers, medical professionals and political advisors in favour of keeping neutrality and integrity of nature.",
   "requirement": "Neutral alignment.",
-  "weapons": "Any",
-  "armor": "Any non metal",
+  "weapons": "Club, crossbow, dagger, shortbow, staff, spear",
+  "armor": "Any non metal, shield",
   "hitDice": "1d6",
   "title": "Aspirant",
   "specialTalents": [

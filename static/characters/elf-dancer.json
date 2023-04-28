@@ -4,8 +4,8 @@
   "requirement": "Neutral or Chaotic alignment.",
   "fluff": "Glade Guards are sublime elven warriors, made even more formidable through their war dances, the favoured rituals of the elven gods.",
   "hitDice": "1d6",
-  "weapons": "All weapons",
-  "armor": "All armor, except shields",
+  "weapons": "Dagger, longbow, longsword, shortbow, shortsword, spear",
+  "armor": "Leather armor, chainmail",
   "titles": {
     "table": {
       "table": {

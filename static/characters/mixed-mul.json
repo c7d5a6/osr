@@ -2,7 +2,7 @@
   "image": "/img/classes/mul.webp",
   "title": "Bull",
   "hitDice": "1d8",
-  "weapons": "All weapons",
+  "weapons": "Club, crossbow, dagger, greataxe, greatsword, javelin, mace, spear, warhammer",
   "armor": "Leather armor, shields",
   "fluff": "A tough crossbreed of a human and dwarf retain the height and cunning of their human parent, plus the durability and raw strength of their dwarven heritage.",
   "specialTalents": [
@@ -12,7 +12,7 @@
     },
     {
       "name": "Adrenaline rush.",
-      "description": "Regain 1d6 hit points when you hit an enemy with a melee attack. Make a DC 18 Constitution check (the Implacable talent applies to this roll). On fail you loose this ability until rest."
+      "description": "Regain 1d6 hit points when you hit an enemy with a melee attack. Make a DC 18 Constitution check (the Implacable talent applies to this roll). On fail you lose this ability until rest."
     },
     {
       "name": "Hauler.",
