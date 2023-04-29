@@ -82,7 +82,7 @@
     },
     "reward": {
       "name": "Beacon of gods.",
-      "value": "Upon reaching the title of High Priest, Oracle or Exalted Champion, a cleric may establish or build a Church (for priest), Monastery (for oracle) or Temple (for champion). When the construction is complete, a number of followers will arrive to serve."
+      "value": "When a cleric reaches the title of High Priest, Oracle or Exalted Champion, they may build a Church (for priest), Monastery (for oracle) or Temple (for champion). Each structure will form a beacon of their deity's power, setting themselves apart from all other mortals. When the construction of these structures is complete, throngs of devoted followers will arrive to serve them with their unparalleled loyalty and unwavering faith."
     }
   },
   "spellcasting": {
