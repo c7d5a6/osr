@@ -2,7 +2,7 @@
   "image": "/img/classes/axedwarf.webp",
   "title": "Hammerer",
   "requirement": "Lawful or Neutral alignment.",
-  "fluff": "The most skilled warriors in a Dwarfholds are the Axedwarves.",
+  "fluff": "These stalwart warriors have been forged in the fires of battle, blessed with the strength and resilience of their Dwarven kin. Skilled with axe and shield, they form the front line of defence against any threat that might seek to plunder their mountain strongholds. But beware their stubbornness, and potent grudges that smoulders like a blazing fire and can linger in the heart of the Axedwarves for generations to come.",
   "hitDice": "1d8",
   "weapons": "All weapons",
   "armor": "All armor and shields",

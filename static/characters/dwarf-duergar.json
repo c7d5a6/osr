@@ -2,7 +2,7 @@
   "image": "/img/classes/duergar.webp",
   "title": "Skulk",
   "requirement": "Neutral alignment.",
-  "fluff": "Grim, industrious and pessimistic, the lives of the gray dwarves are bleak and brutal.",
+  "fluff": "Ascending from a mysterious past, the Duergar stand as a testament to all that is strong and unyielding. With a grim and steely attitude born from the darkest depths of their homelands, they are masters of manipulation with the arts of hidden mental magics. Yet more formidable still is the hidden malice in their hearts – the threat of a swift and merciless cut, rarely seen but ever felt.",
   "hitDice": "1d4",
   "weapons": "Axes, club, crossbow, dagger, shortbow, shortsword",
   "armor": "Leather armor, mithral chainmail",

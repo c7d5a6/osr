@@ -2,7 +2,7 @@
   "image": "/img/classes/runesmith.webp",
   "title": "Apprentice",
   "requirement": "Lawful or Neutral alignment.",
-  "fluff": "Runesmiths work spells with their hammercraft, binding magic into mighty runes of power.",
+  "fluff": "Masters of the mystic arts, the Runesmiths of the dwarven homelands are the keepers of ancient lore and the wielders of arcane knowledge. Drawing upon their formidable tradition of knowledge and skill, these sage-like crafters fashion powerful magics from the very rock and stone around them, creating powerful runes that protect against harm, and infusing their armament with unequalled strength and potency.",
   "hitDice": "1d6",
   "titles": {
     "table": {

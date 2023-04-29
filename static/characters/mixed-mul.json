@@ -4,7 +4,7 @@
   "hitDice": "1d8",
   "weapons": "Club, crossbow, dagger, greataxe, greatsword, javelin, mace, spear, warhammer",
   "armor": "Leather armor, shields",
-  "fluff": "A tough crossbreed of a human and dwarf retain the height and cunning of their human parent, plus the durability and raw strength of their dwarven heritage.",
+  "fluff": "The Mul have the remarkable combination of human and dwarf in their blood, granting them great cunning and hearty fortitude. Unfortunately, they are sterile, unable to pass on these traits through procreation. Nevertheless, they can resist fatigue and injury, as well as access and regain their inner vigor with the rush of the adrenaline. As a result of such remarkable traits, they are praised as heroes and held in high esteem throughout the ages.",
   "specialTalents": [
     {
       "name": "Adaptable.",

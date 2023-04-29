@@ -3,7 +3,7 @@
     {
       "value": "human",
       "name": "Human",
-      "fluff": "Passionate, adaptable people who learn quickly and accomplish mighty deeds within their short lives.",
+      "fluff": "The Humans are a passionate and intensely dynamic. Rapidly absorbing the knowledge of their surroundings and embodying the potential for countless roles, their lives are stories of epic undertakings and countless accomplishments.",
       "requirement": "None.",
       "language": "You know the Common language and one additional common language.",
       "raceTalent": {
@@ -11,9 +11,9 @@
         "description": "You gain one additional talent roll at 1st level."
       },
       "class": [
-        { "value": "cleric", "name": "Cleric" },
         { "value": "druid", "name": "Druid" },
         { "value": "fighter", "name": "Fighter" },
+        { "value": "cleric", "name": "Priest" },
         { "value": "thief", "name": "Thief" },
         { "value": "wizard", "name": "Wizard" }
       ]
@@ -21,7 +21,7 @@
     {
       "value": "dwarf",
       "name": "Dwarf",
-      "fluff": "A short, sturdy creature fond of drink and industry.",
+      "fluff": "The Dwarves are a determined and hardy race, standing firm against all odds. With strength and resilience that surpasses their small stature, these short but mighty beings delight in industry and tipple alike.",
       "requirement": "minimum CON 10.",
       "language": "You know the Common and Dwarvish languages.",
       "raceTalent": {
@@ -37,7 +37,7 @@
     {
       "value": "elf",
       "name": "Elf",
-      "fluff": "Ethereal beings with magical powers, ambivalent towards everyday people and capable of either helping or hindering them.",
+      "fluff": "The Elves, enigmatic and ethereal, hold within them an otherworldly power. From the lofty heights of their domain, they watch over the realm of mortals with wry indifference, at times benevolent and assisting, at others hindering and destructive. Possessing magical charms and a razor-sharp aim, these beautiful creatures are a force to behold.",
       "requirement": "minimum DEX 10.",
       "language": "You know the Common, Elvish, and Sylvan languages.",
       "raceTalent": {
@@ -53,7 +53,7 @@
     {
       "value": "mixed",
       "name": "Mixed",
-      "fluff": "Diverse relatives of human race.",
+      "fluff": "The mixed-bloods are a diverse collective who carry within them a strange and potent mixture of powers. Be they descended of the Halflings or the Half-Orcs, the half-Elves or even part-Dwarf, these beings are survivors in a world of danger, their blood a blend that bridges realms and connects them to the wide breadth of the Human experience.",
       "language": "You know the Common language.",
       "requirement": "None.",
       "class": [

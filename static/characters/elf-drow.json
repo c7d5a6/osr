@@ -2,7 +2,7 @@
   "image": "/img/classes/drow.webp",
   "title": "Disciple",
   "requirement": "Chaotic alignment.",
-  "fluff": "Drows are talented fighters and gain powerful magic through the worship of their strange chaotic deities.",
+  "fluff": "From the depths of forgotten and unknowable realms, the Drow Divine weave a strange and chaotic magic, a power granted to them by their wicked lords and gods. Icy cold and fiercely passionate, these enigmatic beings adhere to ancient and twisted rites, bonding their faithless hearts with the tenets of a cruel deity — one whose spite is ever present, ready to transform their dangerous magic from a blessing to a curse in a moment's notice.",
   "hitDice": "1d6",
   "weapons": "Club, crossbow, dagger, mace, longbow, longsword, shortbow, shortsword",
   "armor": "Leather armor, mithral chainmail",

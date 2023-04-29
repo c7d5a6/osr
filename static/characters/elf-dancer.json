@@ -2,7 +2,7 @@
   "image": "/img/classes/dancer.webp",
   "title": "Scout",
   "requirement": "Neutral or Chaotic alignment.",
-  "fluff": "Glade Guards are sublime elven warriors, made even more formidable through their war dances, the favoured rituals of the elven gods.",
+  "fluff": "Glade Guards are an awe-inspiring sight, born of fey blood and sacred rituals. Masterfully trained in martial combat and the arcane arts, they fight with unmatched skill and grace, weaving charms and illusions to confound their enemies. Through the use of their magics and weapons, they march beneath the forest canopy, their blades and staffs ever faithful guardians of the elven domain.",
   "hitDice": "1d6",
   "weapons": "Dagger, longbow, longsword, shortbow, shortsword, spear",
   "armor": "Leather armor, chainmail",

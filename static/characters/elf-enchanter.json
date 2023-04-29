@@ -2,7 +2,7 @@
   "image": "/img/classes/enchanter.webp",
   "title": "Allurer",
   "requirement": "Neutral or Chaotic alignment.",
-  "fluff": "Skilled practitioners of a particular fey strand of magic, adepts at creating powerful illusions and charms.",
+  "fluff": "The Enchanter is a deeply awe-inspiring figure, capable of weaving powerful illusions and spells of fey magic that can bewitch an enemy. They bring comforting words of confidence and might to their allies, almost as if they could increase strength with simple incantations. Unfazed by the use of blades or other weapons, they rely on providing clever enchantments to conquer foes.",
   "hitDice": "1d4",
   "titles": {
     "table": {
