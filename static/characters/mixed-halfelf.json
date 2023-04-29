@@ -5,6 +5,46 @@
   "weapons": "Dagger, longbow, longsword, shortbow, shortsword, spear",
   "armor": "Leather armor, chainmail",
   "fluff": "Half-elves are the rare offspring of elves and humans. They tend to combine the best features of their parents, but usually considered outcasts in both human and elven societies.",
+  "specialTalents": [
+    {
+      "name": "Farsight.",
+      "description": "You get a +1 bonus to attack rolls with ranged weapons."
+    },
+    {
+      "name": "Wayfinder.",
+      "description": "You have advantage on navigation checks and checks assosiated with traking, survivalism, or nature."
+    },
+    {
+      "name": "Stealthy.",
+      "description": "You have advantage on checks to sneak and hide."
+    },
+    {
+      "name": "Herbalism.",
+      "description": "Make an Intelligence check to find one of the following edible herbs (Wayfinder talent applies to this check). If you fail, you can't use this talent again until you complete a rest. Herbs retain their effect for 1 day.<ul><li><strong>DC 9</strong> <em>Mushroom</em>. 3:6 chance of healing 1 HP</li><li><strong>DC 12</strong> <em>???</em>. Stops the effect of a poison</li><li><strong>DC 15</strong> <em>Rushwort</em>. ADV on WIS to notice things for 10 rounds</li><li><strong>DC 18</strong> <em>Foebane</em>. Grants ADV on attacks and damage against one creature type for 1d4 rounds</li><li><strong>DC 20</strong> <em>???</em>. Big heal</li></ul>"
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "You deal d12 damage with one weapon type you choose"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to attacks and damage on melee or ranged"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength, Dexterity, or Intelligence score"
+    },
+    {
+      "value": "10–11",
+      "talent": "Reduce the difficulty of your herbalism checks by one step"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
   "titles": {
     "table": {
       "table": {
