@@ -26,7 +26,7 @@
   },
   "specialTalents": [
     {
-      "name": "Mental Powers.",
+      "name": "Mind Over Matter.",
       "description": "You can use mental powers. To use it, you mast pass an Intelligence check. Metal power lasts as long as you focus. You can't use other mental powers while focusing. To maintain mental power, make an Intelligence check at the start of your turn. If you fail the initial check, or roll natural 1 during focusing, you gain <em>mental fatigue</em> and all check to focus are now at disadvantage. If you roll natural 1 at initial check, you gain <em>mental exhaustion</em> and can't use mental powers. You loose <em>mental fatigue</em> and <em>exhaustion</em> after rest.<ul>      <li><strong>Enlargement</strong> (DC 11): Your body, clothing, and armour double in size. While enlarged, you have an advantage on attacks and checks to overcome an opposing force. Your attacks deal double damage.</li>      <li><strong>Heat</strong> (DC 11): A creature or object within near is subjected to a scorching heat. Paper or cloth ignite, liquids boil, and metals glow. Applied to flesh or to material in contact with a creature (e.g. armour), the heat inflicts 1d4 damage.</li>      <li><strong>Invisibility</strong> (DC 12): You become invisible. The invisibility breaks if you attack.</li>      <li><strong>Shrinking</strong> (DC 11): You and all your equipment shrink to 6” tall. You have an advantage on checks to be unnoticed or Dexterity checks to avoid harm. All attacks against you have disadvantage. Your weapon attacks deal half damage (minimum 1).</li>      </ul>"
     },
     {

@@ -30,7 +30,7 @@
       "description": "Add your Constitution modifier, if positive, to your gear slots."
     },
     {
-      "name": "Shield Block.",
+      "name": "Shield Wall.",
       "description": "If you have a shield in a hand, you can use it to block enemy attack. Shield reduces the damage dealt to you by 1d4. Your shield breaks unless you pass a Strength check with DC 9 + original damage dealt."
     },
     {
