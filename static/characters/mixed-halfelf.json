@@ -2,7 +2,7 @@
   "image": "/img/classes/half-elf.webp",
   "title": "Runner",
   "hitDice": "1d8",
-  "weapons": "Dagger, longbow, longsword, shortbow, shortsword, spear",
+  "weapons": "Dagger, longbow, longsword, shortbow, shortsword, spear, staff",
   "armor": "Leather armor, chainmail",
   "fluff": "The Half-Elf is an astonishing rarity, an amalgamation of both elf and Human characteristics. They are gifted with the farsight of the elven race, allowing them to gain clarity into the strange and unknown. Skilled wayfinders prepared for any journey with navigation, tracking, nature and survival skills, their knowledge of herbology also astounds. Though too often seen as outcasts in both human and Elven societies, the Half-Elf is able to face the unknowns with unparalleled courage, forging ahead in the wildness.",
   "specialTalents": [
@@ -12,15 +12,11 @@
     },
     {
       "name": "Wayfinder.",
-      "description": "You have advantage on navigation checks and checks assosiated with traking, survivalism, or nature."
-    },
-    {
-      "name": "Stealthy.",
-      "description": "You have advantage on checks to sneak and hide."
+      "description": "<p>You have advantage on checks associated with:</p><ul><li>Navigation</li><li>Tracking</li><li>Bushcraft</li><li>Stealth</li><li>Wild animals</li></ul>"
     },
     {
       "name": "Herbalism.",
-      "description": "Make an Intelligence check to find one of the following edible herbs (Wayfinder talent applies to this check). If you fail, you can't use this talent again until you complete a rest. Herbs retain their effect for 1 day.<ul><li><strong>DC 9</strong> <em>Mushroom</em>. 3:6 chance of healing 1 HP</li><li><strong>DC 12</strong> <em>???</em>. Stops the effect of a poison</li><li><strong>DC 15</strong> <em>Rushwort</em>. ADV on WIS to notice things for 10 rounds</li><li><strong>DC 18</strong> <em>Foebane</em>. Grants ADV on attacks and damage against one creature type for 1d4 rounds</li><li><strong>DC 20</strong> <em>???</em>. Big heal</li></ul>"
+      "description": "Make an INT check to find an herb you choose. If you fail, you can't try to find that herb again until you successfully complete a rest. Unused herbs lose their effect in 3 rounds.<ul><li><strong>DC 11</strong> <em>Salve.</em> Heals 1 HP</li><li><strong>DC 12</strong> <em>Stimulant.</em> You can't be surprised for 10 rounds</li><li><strong>DC 13</strong> <em>Foebane.</em> ADV on attacks and damage against one creature type you choose for 1d6 rounds</li><li><strong>DC 14</strong> <em>Restorative.</em> Ends one poison or disease</li><li><strong>DC 15</strong> <em>Curative.</em>. Equivalent to a <i>Potion of Healing</i></li></ul>"
     }
   ],
   "talents": [
@@ -30,15 +26,15 @@
     },
     {
       "value": "3–6",
-      "talent": "+1 to attacks and damage on melee or ranged"
+      "talent": "+1  to melee or ranged attacks and damage"
     },
     {
       "value": "7–9",
-      "talent": "+2 to Strength, Dexterity, or Intelligence score"
+      "talent": "+2 to Strength, Dexterity, or Intelligence"
     },
     {
       "value": "10–11",
-      "talent": "Reduce the difficulty of your herbalism checks by one step"
+      "talent": "You gain ADV on Herbalism checks for an herb you choose"
     },
     {
       "value": "12",
