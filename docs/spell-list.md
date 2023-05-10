@@ -55,12 +55,12 @@ tags: [rule, page, spells]
 
 #### Tier II
 
-- ...
-- ...
-- ...
-- ...
-- ...
-- ...
+- [Barskin](#barskin)
+- [Heat Metal](#heat-metal)
+- [Obscuring Mist](#obscuring-mist)
+- [Produce Flame](#produce-flame)
+- [Remove Poison](#remove-poison)
+- [Warp Wood](#warp-wood)
 
 </div>
 <div class="col">
@@ -131,11 +131,11 @@ tags: [rule, page, spells]
 #### Tier II
 
 - *Alter Self*
+- [Barskin](#barskin)
 - *Blind/Deafen*
 - *Invisibility*
 - *Mirror Image*
-- ...
-- ...
+- [Obscuring Mist](#obscuring-mist)
 
 </div>
 </div>
@@ -154,6 +154,15 @@ tags: [rule, page, spells]
 **Range:** Near  
 
 You magically charm one animal of 2 HD or less within near range, to bacame your friend. Treat this animal as a retainer for all purposes.
+
+### Barskin
+
+*Tier II*  
+
+**Duration:** 5 rounds  
+**Range:** Close  
+
+You turn the target's skin into tough bark. Target gains a +2 bonus to armour class and ADV for check to avoid physical harm for the duration.
 
 ### Defiling Weapon
 
@@ -196,6 +205,19 @@ fire makes invisible targets visible. Any attack roll against an affected creatu
 
 You can move lights Near during concentration check.
 
+### Heat Metal
+
+*Tier II*  
+
+**Duration:** Focus  
+**Range:** Near
+
+The metal object is heated to extreme temperature. The heat increases while the caster focuses and then fades: Very hot → Searing → White hot.
+
+- **Very hot**: Metal uncomfortable to the touch. Anyone who touches it suffers 1 damage.
+- **Searing**: Flammable materials touching the object are set alight. Anyone who touches it suffers 1d4 damage.
+- **White hot**: Flammable materials touching the object are set alight. Anyone who touches it suffers 1d6 damage.
+
 ### Invisibility to Animals
 
 *Tier I*  
@@ -206,6 +228,33 @@ You can move lights Near during concentration check.
 A creature you touch becomes undetectable for animals for the spell’s duration. Animals can't see or smell target.
 
 The spell ends if the target attacks or casts a spell.
+
+### Obscuring Mist
+
+*Tier II*  
+
+**Duration:** 10 rounds  
+**Range:** Self  
+
+A cloud of misty vapour emanates from the ground, filling a near area around you. You can see faintly through the mist. Strong winds can dispel the fog.
+
+### Produce Flame
+
+*Tier II*  
+
+**Duration:** 1 hour real time  
+**Range:** Self  
+
+You summon a flame that burned brightly in the palm of your hand. It casts light, brightly illuminating to a near distance. You can control the fire and make it disappear and appear. Flame can be thrown or set any flammable objects it touches ablaze. The spell ends if fire leaves the hand.
+
+### Remove Poison
+
+*Tier II*  
+
+**Duration:** Instant  
+**Range:** Close  
+
+You touch the target, and with a wave of a hand, the poison purged. The poisonous effects are undone, restoring the health of the afflicted individual.
 
 ### Speak with Animals
 
@@ -224,3 +273,12 @@ A creature you touch can speak with and understand animals for the spell's durat
 **Range:** Close  
 
 One weapon you touch is imbued with a unholy power. The weapon becomes magical and has +1 to attack and damage rolls for the duration.
+
+### Warp Wood
+
+*Tier II*
+
+**Duration:** Permanent  
+**Range:** Far
+
+You concentrate, and the magical power you have summoned is released, wrapping the wooden object and making it useless. The object can be the size of a plank, and magical objects have a chance of resisting the effects.
