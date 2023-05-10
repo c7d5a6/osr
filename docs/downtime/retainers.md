@@ -14,23 +14,23 @@ on with parties whose average level is lower than their own.
 
 **XP:** retainers need double the amount of xp to level up.
 
-**Loyalty:** `2d6` check with modifiers against retainer's loyalty if the retainer is exposed to something particularly dangerous, and after each adventure. On failure, the retainer leaves and cannot be re-hired.
+**Resentment:** `2d6` check with modifiers against retainer's resentment if the retainer is exposed to something particularly dangerous, and after each adventure. On failure, the retainer leaves and cannot be re-hired.
 
 ## Charisma of PC
 
-Charisma score of the PC influences the maximum number of retainers and their initial loyalty.
+Charisma score of the PC influences the maximum number of retainers and their initial resentment.
 
-|       CHA | Max # of retainers | Retainer loyalty |
-| --------: | :----------------: | ---------------- |
-|     **3** |         1          | 5                |
-|   **4–8** |         2          | 6                |
-|  **9–12** |         3          | 7                |
-| **13–17** |         4          | 8                |
-|    **18** |         5          | 9                |
+|       CHA | Max # of retainers | Retainer resentment |
+| --------: | :----------------: | ------------------- |
+|     **3** |         1          | 9                   |
+|   **4–8** |         2          | 8                   |
+|  **9–12** |         3          | 7                   |
+| **13–17** |         4          | 6                   |
+|    **18** |         5          | 5                   |
 
 ## Cost
 
-Retainers will usually want a guaranteed fee (per day or per adventure) and a share of treasure recovered. Fee and Share affect loyalty checks separately.
+Retainers will usually want a guaranteed fee (per day or per adventure) and a share of treasure recovered. Fee and Share affect resentment checks separately.
 
 | Fee       | Share      | Check bonus |
 | --------- | ---------- | ----------- |
@@ -58,8 +58,7 @@ Retainers will usually want a guaranteed fee (per day or per adventure) and a sh
 
 Once an offer is made, the referee determines the potential retainer’s reaction by rolling 2d6 on the table below, modified as follows:
 
-- **Charisma:** the same modifier as for loyalty.
-- **Generosity:** the same modifier as for loyalty.
+- **Generosity:** the same modifier as for resentment.
 - **Reputation:** A penalty of –1 or –2 may be applied if the hiring PC has a bad reputation.
 
 `Roll 2d6` for retainer reactions:
@@ -70,4 +69,4 @@ Once an offer is made, the referee determines the potential retainer’s reactio
 | **3–5**        | Offer refused                                                                                              |
 | **6–8**        | Change offer and roll again                                                                                |
 | **9–11**       | Offer accepted                                                                                             |
-| **12 or more** | Offer accepted, +1 loyalty                                                                                 |
+| **12 or more** | Offer accepted, -1 resentment                                                                              |
