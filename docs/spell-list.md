@@ -7,6 +7,9 @@ tags: [rule, page, spells]
 
 ## Class spelllists
 
+- *Spells* are from core books.
+- *CS1* are from Cursed Scroll Shadowdark Zine Vol. 1: Diablerie!
+
 ### Drow Divine
 
 <div class="row">
@@ -120,8 +123,12 @@ tags: [rule, page, spells]
 - *Charm Person*
 - *Detect Magic*
 - [Faerie Fire](#faerie-fire)
+- *Fog<sup>cs1</sup>*
+- *Hypnotize<sup>cs1</sup>*
 - [Invisibility to Animals](#invisibility-to-animals)
 - *Light*
+- *Oak, Ash, Thorn<sup>cs1</sup>*
+- *Puppet<sup>cs1</sup>*
 - *Sleep*
 
 </div>
@@ -130,12 +137,12 @@ tags: [rule, page, spells]
 
 #### Tier II
 
-- *Alter Self*
-- [Barskin](#barskin)
-- *Blind/Deafen*
-- *Invisibility*
-- *Mirror Image*
-- [Obscuring Mist](#obscuring-mist)
+- ...
+- ...
+- ...
+- ...
+- ...
+- ...
 
 </div>
 </div>
