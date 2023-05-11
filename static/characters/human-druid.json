@@ -75,7 +75,7 @@
         },
         {
           "name": "Ritual.",
-          "value": "Once a druid's range of involvement increases beyond a natural 1, they can reduce that range by offering nature's ritual to restore nutrality."
+          "value": "Once a druid's range of involvement increases beyond a natural 1, they can reduce that range by offering nature a ritual to restore nutrality."
         },
         {
           "name": "Nature's defender.",
@@ -94,7 +94,7 @@
             "rows": [
               [
                 "1",
-                "You must atone for your errors by burning a special offering of incense at dusk, crafted of herbs and woods found in the forest. Failure to present the offering within the next hour incurs a -1 penalty to all spell checks until it is presented."
+                "You must atone for your errors by burning a special offering of incense, crafted of herbs and woods found in the forest. Failure to present the offering within the next hour incurs a -1 penalty to all spell checks until it is presented."
               ],
               [
                 "2",
