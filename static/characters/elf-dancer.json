@@ -59,7 +59,7 @@
   "spellcasting": {
     "description": {
       "name": "Spellcasting.",
-      "description": "You can cast <a href=\"/docs/rules/spells#glade-guard\">Glade Guard spells</a> you know."
+      "description": "You can cast <a href=\"/docs/rules/spells#glade-guard\">Glade Guard spells</a> you know of Tier equal to or lower than your Spellsong power level."
     },
     "spellTalents": [],
     "ability": "Wisdom",
