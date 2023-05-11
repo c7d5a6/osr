@@ -15,7 +15,7 @@ function Table(props) {
         </thead>
         <tbody>
           {table.table.rows.map((tr) => <tr>
-            {tr.map((td) => <td>{td}</td>)}
+            {tr.map((td) => <td><span dangerouslySetInnerHTML={{ __html: td.toString() }}></span></td>)}
           </tr>)}
         </tbody>
       </table>
