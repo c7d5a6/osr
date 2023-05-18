@@ -22,20 +22,20 @@ To carouse, each participant pays for the cost of the event. Then, each particip
 
 ### Drinking Event Outcome
 
-1. Outcome: Mishaps. Benefit: Gain 2 XP.
-2. Outcome: You're locked in the stocks for 1d4 days and fined 20% of your total wealth for setting a building on fire. Benefit: Gain 2 XP.
-3. Outcome: You wake up in a gutter with 15% of your total wealth spent. Benefit: Gain 3 XP.
-4. Outcome: You hazily remember donating 10% of your total wealth to a glib priest. Benefit: Gain 3 XP and a priest ally.
-5. Outcome: You're fined 10% of your total wealth for starting a full-tavern brawl. Benefit: Gain 3 XP and be barred from a tavern .
-6. Outcome: The Thieves' Guild bilked you for 5% of your total wealth. Benefit: Gain 4 XP.
-7. Outcome: You led an entire tavern in a wildly insulting song about a disliked noble. Benefit: Gain 4 XP and a famous bard ally.
-8. Outcome: You survived a blindfolded knife-throwing demonstration unscathed. Benefit: Gain 4 XP and a luck token.
-9. Outcome: By talent (50%) or trickery (50%), you beat a rival crawler in a test of skill. Benefit: Gain 5 XP and an NPC ally or enemy.
-10. Outcome: An angry wizard cast a deadly spell at you, but you reflected it off your cup. Benefit: Gain 5 XP and a luck token.
-11. Outcome: You performed a humiliating prank on a despised and corrupt merchant. Benefit: Gain 5 XP and an ally in the City Watch.
-12. Outcome: You defeated a noble in a highly wagered drinking contest. Benefit: Gain 5 XP and a debt owed by the noble.
-13. Outcome: You pulled off an ill-advised heist inside a feared sorcerer's tower. Benefit: Gain 6 XP and an 80-100 item from your treasure table.
-14. Outcome: You wake up deep inside the local ruler's stronghold holding one of their priceless family heirlooms. Footsteps approach. Benefit: Gain 6 XP and a 90-100 item from your treasure table, if you escape.
+1. Outcome: You accidentally summon a mischievous imp who wreaks havoc on your evening. Benefit: Gain 2 XP and a small trinket from the imp's hoard.
+2. Outcome: You're thrown into the dungeon for 1d4 days and fined 20% of your total wealth for accidentally setting a magical artifact on fire. Benefit: Gain 2 XP and a temporary +1 bonus to Dexterity from your time in jail.
+3. Outcome: You wake up in a strange alleyway with 15% of your total wealth spent on enchanted drinks and magical items. Benefit: Gain 3 XP and a temporary +1 bonus to Charisma from your wild night out.
+4. Outcome: You drunkenly donate 10% of your total wealth to a charming but unscrupulous cleric of a trickster deity. Benefit: Gain 3 XP and a mischievous NPC ally.
+5. Outcome: You're fined 10% of your total wealth for starting a magical barroom brawl that caused damage to enchanted artifacts. Benefit: Gain 3 XP and be banned from a magical tavern for a time.
+6. Outcome: The Thieves' Guild swindles you out of 5% of your total wealth through a clever magical illusion. Benefit: Gain 4 XP and a lesson in caution.
+7. Outcome: You lead an entire tavern in a raucous song that awakens a powerful but whimsical fey creature who grants you a boon. Benefit: Gain 4 XP and a fey NPC ally.
+8. Outcome: You survive a dangerous drinking game involving enchanted knives and illusions. Benefit: Gain 4 XP and a magical token of luck.
+9. Outcome: You defeat a rival adventurer in a test of skill involving enchanted dice and illusions. Benefit: Gain 5 XP and an NPC ally or enemy, depending on your tactics.
+10. Outcome: An angry sorcerer casts a deadly spell at you, but you deflect it with a magical cup you won in a previous drinking contest. Benefit: Gain 5 XP and a temporary +1 bonus to Constitution from your near-death experience.
+11. Outcome: You pull off a daring prank on a corrupt noble, earning the admiration of the common folk and the ire of the noble's allies. Benefit: Gain 5 XP and an ally among the local rebels and revolutionaries.
+12. Outcome: You defeat a powerful wizard in a high-stakes drinking contest, earning the respect of the magical community and a debt owed by the wizard. Benefit: Gain 5 XP and a magical item from the wizard's hoard.
+13. Outcome: You successfully infiltrate a sorcerer's stronghold and steal a powerful magical artifact, but must evade the sorcerer's deadly traps and minions. Benefit: Gain 6 XP and a magical item from the artifact's hoard.
+14. Outcome: You wake up in the throne room of the local ruler, holding a priceless family heirloom and surrounded by guards. Benefit: Gain 6 XP and a powerful magical item from the ruler's hoard, if you can escape their wrath.
 
 ### Drinking Event Mishap
 
@@ -76,27 +76,20 @@ To carouse, each participant pays for the cost of the event. Then, each particip
 
 ### Gourmandising Event Outcome
 
-1. Outcome: You discover a new, exotic ingredient that enhances your cooking skills. Benefit: Gain 2 XP and a +1 bonus to Cooking skill checks.
-2. Outcome: You accidentally poison yourself with a rare delicacy, but manage to cure yourself with an even rarer antidote. Benefit: Gain 2 XP and a +1 bonus to Poison Resistance.
-3. Outcome: You spend all your money on a lavish feast, but impress a wealthy patron who offers to sponsor your next culinary adventure. Benefit: Gain 3 XP and a wealthy sponsor.
-4. Outcome: You stumble upon a secret recipe that becomes the talk of the town, earning you fame and fortune. Benefit: Gain 3 XP and a +1 bonus to Cooking skill checks.
-5. Outcome: You overindulge in a rich, decadent dessert and fall ill, but receive the best medical treatment in the land. Benefit: Gain 3 XP and a +1 bonus to Medicine skill checks.
-6. Outcome: You successfully cook and serve a difficult dish to a notoriously picky food critic, earning their respect and a glowing review. Benefit: Gain 4 XP and a food critic ally.
-7. Outcome: You participate in a rare, exclusive food festival and win the grand prize, earning you fame, fortune, and the admiration of fellow gourmands. Benefit: Gain 5 XP and a +2 bonus to Cooking skill checks.
-1. Outcome: You discover a rare and exotic ingredient that enhances the flavor of your cooking. Benefit: Gain 2 XP and a rare ingredient.
-2. Outcome: You overindulge in a rich and decadent feast, leaving you feeling sluggish and unwell. Benefit: Gain 2 XP and a temporary -1 penalty to Dexterity.
-3. Outcome: You compete in a cooking competition and win, earning the admiration of the judges. Benefit: Gain 3 XP and a cooking-related NPC ally.
-4. Outcome: You sample a dish so delicious that you become obsessed with recreating it. Benefit: Gain 3 XP and a recipe for the dish.
-5. Outcome: You attend a lavish banquet and make a faux pas, offending a powerful noble. Benefit: Gain 3 XP and a powerful noble enemy.
-6. Outcome: You gamble on the outcome of a cooking competition and win big. Benefit: Gain 4 XP and a significant amount of gold.
-7. Outcome: You try a new type of food that has an unexpected and unpleasant effect on your body. Benefit: Gain 4 XP and a temporary -1 penalty to Constitution.
-8. Outcome: You impress a wealthy patron with your culinary skills and receive a lucrative commission. Benefit: Gain 4 XP and a significant amount of gold.
-9. Outcome: You sample a rare and expensive delicacy that is said to have mystical properties. Benefit: Gain 5 XP and a temporary +1 bonus to Wisdom.
-10. Outcome: You are hired to cater a lavish event for a powerful merchant, but the food is sabotaged. Benefit: Gain 5 XP and an NPC ally who helps you uncover the saboteur.
-11. Outcome: You discover a secret recipe that has been passed down for generations in a remote village. Benefit: Gain 5 XP and a secret recipe.
-12. Outcome: You visit a foreign land and have a life-changing culinary experience. Benefit: Gain 5 XP and a cultural NPC ally.
-13. Outcome: You are hired to cook for a group of adventurers on a dangerous quest. Benefit: Gain 6 XP and a group of NPC allies who assist you on the quest.
-14. Outcome: You are challenged to a cooking duel by a rival chef, and emerge victorious. Benefit: Gain 6 XP and a powerful rival chef enemy who seeks revenge. 
+2. Outcome: Mishaps. Benefit: Gain 2 XP.
+1. Outcome: You discover a rare and exotic ingredient that is said to have magical properties. Benefit: Gain 2 XP and a magical ingredient that can be used in potions or spells.
+3. Outcome: You compete in a cooking competition against a rival chef who is secretly a demon in disguise. Benefit: Gain 3 XP and a powerful ally in the form of a demon who owes you a favor.
+4. Outcome: You sample a dish so delicious that it transports you to another plane of existence. Benefit: Gain 3 XP and a recipe for the dish, along with a magical artifact from the other plane.
+5. Outcome: You attend a banquet hosted by a powerful lich, and accidentally insult the undead host. Benefit: Gain 3 XP and a powerful lich enemy who seeks revenge.
+6. Outcome: You gamble on the outcome of a cooking competition, only to discover that the event is rigged by a cabal of evil wizards. Benefit: Gain 4 XP and a powerful ally in the form of a wizard who helps you take down the cabal.
+7. Outcome: You try a new type of food that has an unexpected and magical effect on your body. Benefit: Gain 4 XP and a temporary +1 bonus to a random ability score.
+8. Outcome: You impress a wealthy dragon with your culinary skills and receive a lucrative commission to cook for the dragon's hoard. Benefit: Gain 4 XP and a significant amount of treasure.
+9. Outcome: You sample a rare and expensive delicacy that is said to have the power to grant wishes. Benefit: Gain 5 XP and a temporary wish-granting ability.
+10. Outcome: You are hired to cater a feast for a powerful wizard, but the food is cursed by a rival chef. Benefit: Gain 5 XP and a powerful ally in the form of a wizard who helps you lift the curse.
+11. Outcome: You discover a secret recipe that has been guarded by a clan of dwarves for centuries. Benefit: Gain 5 XP and a powerful ally in the form of a dwarf who owes you a favor.
+12. Outcome: You visit a foreign land and have a life-changing culinary experience that grants you the ability to speak a new language. Benefit: Gain 5 XP and a cultural NPC ally who speaks the new language.
+13. Outcome: You are hired to cook for a group of adventurers on a dangerous quest, but the food is cursed by a vengeful witch. Benefit: Gain 6 XP and a powerful ally in the form of a witch who helps you lift the curse.
+14. Outcome: You are challenged to a cooking duel by a rival chef who is secretly a giant in disguise. Benefit: Gain 6 XP and a powerful rival chef enemy who seeks revenge, along with a magical item from the giant's collection.
 
 ### Gourmandising Event Mishap
 
@@ -137,21 +130,20 @@ To carouse, each participant pays for the cost of the event. Then, each particip
 
 ### Philanthropy Event Outcome
 
-
-1. Outcome: You donate a significant sum of gold to a local orphanage, earning the admiration and gratitude of the staff and children. Benefit: Gain 2 XP and an NPC ally.
-2. Outcome: You sponsor a public works project, such as building a bridge or fountain, that improves the quality of life for the local community. Benefit: Gain 2 XP and a temporary +1 bonus to Charisma.
-3. Outcome: You organize a charity auction that raises a significant amount of gold for a worthy cause. Benefit: Gain 3 XP and a powerful NPC ally.
-4. Outcome: You fund a scholarship for a talented but impoverished student, enabling them to pursue their dreams. Benefit: Gain 3 XP and a grateful NPC ally.
-5. Outcome: You donate to a religious order that provides aid to the sick and needy, earning the favor of the local clergy. Benefit: Gain 3 XP and a religious NPC ally.
-6. Outcome: You sponsor a festival or celebration that brings the community together and spreads joy and goodwill. Benefit: Gain 4 XP and a temporary +1 bonus to Wisdom.
-7. Outcome: You contribute to a fund that supports the local arts scene, earning the admiration of artists and performers. Benefit: Gain 4 XP and an artistic NPC ally.
-8. Outcome: You donate to a group that advocates for social justice and equality, earning the respect of progressive-minded individuals. Benefit: Gain 4 XP and a progressive NPC ally.
-9. Outcome: You purchase land to be used as a community garden, providing fresh produce for the local area and promoting healthy eating habits. Benefit: Gain 5 XP and a temporary +1 bonus to Constitution.
-10. Outcome: You fund a program that provides job training and employment opportunities for at-risk youth, helping them to turn their lives around. Benefit: Gain 5 XP and an ally among the local law enforcement.
-11. Outcome: You donate to a group that supports environmental conservation and sustainability, earning the respect of nature lovers and outdoor enthusiasts. Benefit: Gain 5 XP and a nature-loving NPC ally.
-12. Outcome: You help to build a shelter for the homeless, providing a safe haven for those in need. Benefit: Gain 5 XP and a grateful NPC ally.
-13. Outcome: You fund a public health initiative, such as a vaccination campaign or disease prevention program, that saves countless lives. Benefit: Gain 6 XP and a temporary +1 bonus to Intelligence.
-14. Outcome: You donate to a group that provides disaster relief and humanitarian aid to those in crisis, earning the respect of global citizens. Benefit: Gain 6 XP and a humanitarian NPC ally.
+1. Outcome: You donate a significant sum of gold to a temple of a benevolent deity, earning the admiration and gratitude of the priests and worshippers. Benefit: Gain 2 XP and a divine NPC ally.
+2. Outcome: You sponsor the construction of a magical portal that connects two distant lands, bringing prosperity and new opportunities to both. Benefit: Gain 2 XP and a temporary +1 bonus to Intelligence.
+3. Outcome: You organize a charity tournament that pits adventurers against each other in a series of challenges, with the proceeds going to a worthy cause. Benefit: Gain 3 XP and a powerful NPC ally who is a skilled warrior.
+4. Outcome: You fund a scholarship for a talented but impoverished apprentice wizard, enabling them to study at a prestigious academy. Benefit: Gain 3 XP and a grateful NPC ally who is a budding wizard.
+5. Outcome: You donate to a druidic circle that protects the natural world from harm, earning the favor of the local fey creatures. Benefit: Gain 3 XP and a fey NPC ally.
+6. Outcome: You sponsor a grand banquet that brings together the leaders of various kingdoms and factions, fostering peace and understanding. Benefit: Gain 4 XP and a temporary +1 bonus to Charisma.
+7. Outcome: You contribute to a fund that supports the creation of magical artworks and performances, earning the admiration of the most talented enchanters and bards. Benefit: Gain 4 XP and an artistic NPC ally with powerful magical abilities.
+8. Outcome: You donate to a group that fights against the tyranny of evil overlords and their minions, earning the respect of freedom fighters and rebels. Benefit: Gain 4 XP and a revolutionary NPC ally.
+9. Outcome: You purchase a plot of land and hire a team of druidic gardeners to create a mystical garden that attracts rare and exotic creatures. Benefit: Gain 5 XP and a temporary +1 bonus to Wisdom.
+10. Outcome: You fund a program that trains young adventurers in the art of monster-slaying, helping them to become skilled warriors and defenders of the realm. Benefit: Gain 5 XP and an ally among the local knights and paladins.
+11. Outcome: You donate to a group that protects the elemental planes and their inhabitants, earning the respect of powerful elementals and genies. Benefit: Gain 5 XP and an elemental NPC ally.
+12. Outcome: You help to construct a magical castle that serves as a refuge for those who have been displaced by war, famine, or other disasters. Benefit: Gain 5 XP and a grateful NPC ally who is a skilled builder.
+13. Outcome: You fund a research project that leads to the discovery of a new magical substance or technology, revolutionizing the way that magic is practiced. Benefit: Gain 6 XP and a temporary +1 bonus to Intelligence.
+14. Outcome: You donate to a group that fights against the forces of darkness and chaos, earning the respect of powerful clerics and paladins. Benefit: Gain 6 XP and a holy NPC ally.
 
 ### Philanthropy Event Mishap
 
