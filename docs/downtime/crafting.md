@@ -3,6 +3,7 @@ id: crafting
 title: Crafting Charms and Curses
 tags: [rule, page, table]
 ---
+
 <img src="/img/magicitems.webp"/>
 
 
