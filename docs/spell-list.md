@@ -1,6 +1,6 @@
 ---
 id: spells
-title: Spells Slinging
+title: Mage's Menu
 sidebar_position: 5
 tags: [rule, page, spells]
 ---

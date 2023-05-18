@@ -1,6 +1,6 @@
 ---
 id: list
-title: Downtime Deals
+title: Rest and Recuperation
 tags: [rule, page, list]
 sidebar_position: 5
 ---
@@ -20,12 +20,12 @@ sidebar_position: 5
     - Learning Talents
     - Learning Skills
     - Collecting an Arcane Library
+    - Researching Spells
 - Professional Income
 - Crafting Items
-    - Researching Spells
-    - Researching New Spells
-    - Scribing a Scroll or Brewing a Potion (*from 5th level*)
-    - Creating Magical and Alchemical Items (*from 9th level*)
+    - [Scribing a Scroll](crafting#scribing-scrolls)
+    - [Brewing a Potion](crafting#crafting-potions)
+    - [Creating Magical Items](crafting#crafting-magic-items)
 - Sacrifice
 - Quests
 - Criminal activities
