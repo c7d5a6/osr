@@ -37,7 +37,13 @@ sidebar_position: 5
 
 ## Enquiring rumors
 
-`roll 2d6`. Add `+1` if your **CHA** or **WIS** at least 14. Add `+1` if you pay `2d4 gp`, add `+2` if you pay `2d10 gp`. It takes 1 full day per attempt.
+It takes 1 full day per attempt.
+
+`roll 2d6` and:
+
+- Add `+1` if your **CHA** or **WIS** at least 14
+- Add `+1` if you pay `2d4 gp`
+- Add `+2` if you pay `2d10 gp`
 
 | Total roll     | Number of Rumors                                                                     |
 | -------------- | ------------------------------------------------------------------------------------ |
