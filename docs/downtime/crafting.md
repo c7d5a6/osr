@@ -5,11 +5,15 @@ tags: [rule, page, table]
 ---
 <img src="/img/magicitems.webp"/>
 
+
 ## Crafting magic items
+
 
 Any character with arcane talents can create magic item.
 
+
 Your level adds bonus or penalties to an attempt. If you have an advantage on rolls, you can use it during any `2d6` roll, or roll 2 times on `1dX` table and choose the result you want. You can stack these advantages on a single roll.
+
 
 | Character level | Bonus | Advantage on rolls |
 | --------------- | ----- | ------------------ |
@@ -24,9 +28,12 @@ Your level adds bonus or penalties to an attempt. If you have an advantage on ro
 | **9**           | +1    | 3 advantages       |
 | **10**          | +2    | 4 advantages       |
 
-You need to by an item to enchance and spend gold on meterials for enchantment. Amount of gold spend will add bonus or penalties to an attempt. You can look up amounts below.
 
-The magic item will recieve magical qualities based on a roll (you can use advantage). Bonuses from gold and level apply to this roll:
+You need to buy an item to enchants and spend gold on materials for enchantment. The amount of gold spent will add bonus or penalties to an attempt. You can look up the amounts below.
+
+
+The magic item will receive magical qualities based on a roll (you can use advantage). Bonuses from gold and level apply to this roll:
+
 
 | 2d6      | Benefit | Curse |
 | -------- | ------- | ----- |
@@ -35,7 +42,9 @@ The magic item will recieve magical qualities based on a roll (you can use advan
 | **8–11** | 1       | —     |
 | **12**   | 2       | —     |
 
-The magic item has 1:6 chance to became conscious and receive personality traits based based on a roll (you can use advantage). Bonuses from gold and level apply to this roll. You can use advantage on ITEM VIRTUE and ITEM FLAW:
+
+The magic item has 1:6 chance to become conscious and receive personality traits based on a roll (you can use advantage). Bonuses from gold and level apply to this roll. You can use advantage on ITEM VIRTUE and ITEM FLAW:
+
 
 | 2d6       | Virtue | Flaw |
 | --------- | ------ | ---- |
@@ -44,9 +53,12 @@ The magic item has 1:6 chance to became conscious and receive personality traits
 | **10–11** | 1      | 1    |
 | **12**    | 1      | —    |
 
-### Crafting Magic Armor
 
-Cost of enchatment an armour in addition to the armour item:
+### Crafting Magic Armour
+
+
+Cost of enchantment an armour in addition to the armour item:
+
 
 | Materials                     | Bonus | Cost   |
 | ----------------------------- | ----- | ------ |
@@ -55,20 +67,26 @@ Cost of enchatment an armour in addition to the armour item:
 | Rare and Remarkable Resources | +1    | 500 gp |
 | Lavish and Luxurious Loot     | +2    | 900 gp |
 
-To determin an armour bonus roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
 
-| 2d6      | ARMOR BONUS |
-| -------- | ----------- |
-| **2–5**  | 0           |
-| **6–8**  | +1          |
-| **9–11** | +2          |
-| **12**   | +3          |
+To determine an armour bonus, roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
 
-You can use advantage on ARMOR BENEFIT and ARMOR CURSE.
+
+| 2d6      | Armour BONUS |
+| -------- | ------------ |
+| **2–5**  | 0            |
+| **6–8**  | +1           |
+| **9–11** | +2           |
+| **12**   | +3           |
+
+
+You can use advantage on ARMOUR BENEFIT and ARMOUR CURSE.
+
 
 ### Crafting Magic Weapon
 
-Cost of enchatment an weapon in addition to the weapon item:
+
+Cost of enchantment a weapon in addition to the weapon item:
+
 
 | Materials                     | Bonus | Cost   |
 | ----------------------------- | ----- | ------ |
@@ -77,7 +95,9 @@ Cost of enchatment an weapon in addition to the weapon item:
 | Rare and Remarkable Resources | +1    | 500 gp |
 | Lavish and Luxurious Loot     | +2    | 900 gp |
 
-To determin an weapon bonus roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
+
+To determine a weapon bonus, roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
+
 
 | 2d6       | WEAPON BONUS |
 | --------- | ------------ |
@@ -86,11 +106,15 @@ To determin an weapon bonus roll 2d6 (you can use advantage). Bonuses from gold 
 | **10–11** | +2           |
 | **12**    | +3           |
 
+
 You can use advantage on WEAPON BENEFIT and WEAPON CURSE.
+
 
 ### Crafting Magic Utility Items
 
-Cost of enchatment a magic item:
+
+Cost of enchantment a magic item:
+
 
 | Materials                     | Bonus | Cost   |
 | ----------------------------- | ----- | ------ |
@@ -99,11 +123,15 @@ Cost of enchatment a magic item:
 | Rare and Remarkable Resources | +1    | 300 gp |
 | Lavish and Luxurious Loot     | +2    | 800 gp |
 
+
 You can use advantage on UTILITY BENEFIT and UTILITY CURSE.
+
 
 ### Crafting Wands and Staves
 
-Cost of creating wand or staff:
+
+Cost of creating a wand or staff:
+
 
 | Materials                     | Bonus | Cost   |
 | ----------------------------- | ----- | ------ |
@@ -112,7 +140,9 @@ Cost of creating wand or staff:
 | Rare and Remarkable Resources | +1    | 200 gp |
 | Lavish and Luxurious Loot     | +2    | 600 gp |
 
-To determin a SPELL TIER bonus roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
+
+To determine a SPELL TIER bonus, roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
+
 
 | 2d6       | SPELL TIER |
 | --------- | ---------- |
@@ -122,15 +152,21 @@ To determin a SPELL TIER bonus roll 2d6 (you can use advantage). Bonuses from go
 | **11–12** | Tier 4     |
 | **13+**   | Tier 5     |
 
+
 You can use advantage on BENEFIT, CURSE or SPELL LIST.
+
 
 <img class="img-character" align="right" src="/img/scroll.webp"/>
 
+
 ## Scribing scrolls
+
 
 Any character with arcane talents can scribe a scroll.
 
+
 Your level adds bonus or penalties to an attempt. If you have an advantage on rolls, you can use it during any `2d6` roll, or roll 2 times on `1dX` table and choose the result you want. You can stack these advantages on a single roll.
+
 
 | Character level | Bonus | Advantage on rolls |
 | --------------- | ----- | ------------------ |
@@ -145,16 +181,20 @@ Your level adds bonus or penalties to an attempt. If you have an advantage on ro
 | **9**           | +1    | 3 advantages       |
 | **10**          | +2    | 4 advantages       |
 
-You need to use paper and spend gold on meterials for enchantment. Amount of gold spend will add bonus or penalties to an attempt:
+
+You need to use paper and spend gold on materials for enchantment. The amount of gold spent will add bonus or penalties to an attempt:
+
 
 | Materials                     | Bonus | Cost   |
 | ----------------------------- | ----- | ------ |
 | Shoddy Spellcraft Supplies    | -1    | 40 gp  |
-| Everyday Enchantment Elements | 0     | 80 gp |
+| Everyday Enchantment Elements | 0     | 80 gp  |
 | Rare and Remarkable Resources | +1    | 150 gp |
 | Lavish and Luxurious Loot     | +2    | 400 gp |
 
-The scroll will recieve magical qualities based on a roll (you can use advantage). Bonuses from gold and level apply to this roll:
+
+The scroll will receive magical qualities based on a roll (you can use advantage). Bonuses from gold and level apply to this roll:
+
 
 | 2d6      | Benefit | Curse |
 | -------- | ------- | ----- |
@@ -163,7 +203,9 @@ The scroll will recieve magical qualities based on a roll (you can use advantage
 | **8–11** | 1       | —     |
 | **12**   | 2       | —     |
 
-To determin a SPELL TIER bonus roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
+
+To determine a SPELL TIER bonus, roll 2d6 (you can use advantage). Bonuses from gold and level apply to this roll:
+
 
 | 2d6       | SPELL TIER |
 | --------- | ---------- |
@@ -173,15 +215,21 @@ To determin a SPELL TIER bonus roll 2d6 (you can use advantage). Bonuses from go
 | **11–12** | Tier 4     |
 | **13+**   | Tier 5     |
 
+
 You can use advantage on BENEFIT, CURSE or SPELL LIST.
+
 
 <img class="img-character" align="right" src="/img/potions.webp"/>
 
+
 ## Crafting potions
+
 
 Any character with alchemist talents can create a potion.
 
+
 Your level adds bonus or penalties to an attempt. If you have an advantage on rolls, you can use it during any `2d6` roll, or roll 2 times on `1dX` table and choose the result you want. You can stack these advantages on a single roll.
+
 
 | Character level | Bonus | Advantage on rolls |
 | --------------- | ----- | ------------------ |
@@ -196,16 +244,20 @@ Your level adds bonus or penalties to an attempt. If you have an advantage on ro
 | **9**           | +1    | 3 advantages       |
 | **10**          | +2    | 4 advantages       |
 
-You need to use paper and spend gold on meterials for enchantment. Amount of gold spend will add bonus or penalties to an attempt:
+
+You need to use paper and spend gold on materials for enchantment. The amount of gold spent will add bonus or penalties to an attempt:
+
 
 | Materials                     | Bonus | Cost   |
 | ----------------------------- | ----- | ------ |
 | Shoddy Spellcraft Supplies    | -1    | 40 gp  |
-| Everyday Enchantment Elements | 0     | 80 gp |
+| Everyday Enchantment Elements | 0     | 80 gp  |
 | Rare and Remarkable Resources | +1    | 150 gp |
 | Lavish and Luxurious Loot     | +2    | 400 gp |
 
-The potion will recieve magical qualities based on a roll (you can use advantage). Bonuses from gold and level apply to this roll:
+
+The potion will receive magical qualities based on a roll (you can use advantage). Bonuses from gold and level apply to this roll:
+
 
 | 2d6      | Benefit | Curse |
 | -------- | ------- | ----- |
@@ -214,4 +266,8 @@ The potion will recieve magical qualities based on a roll (you can use advantage
 | **8–11** | 1       | —     |
 | **12**   | 2       | —     |
 
+
 You can use advantage on POTION BENEFIT and POTION CURSE.
+
+
+
