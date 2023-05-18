@@ -57,7 +57,7 @@ It takes 1 full day per attempt.
 
 ## Preparing and Scouting
 
-If characters spend a few days scouting a site, doing research, training for their next adventure, and/or any other preparatory activity, they gain a *Prepared Item*. *Prepared Item* is a special item with 0 cost and it takes 1 gear slot. At any time during adventure, it can permanently turn into any basic gear with cost 1 gp or less. Only player characters can use this item. It can be only one *Prepared Item* in inventory at a time.
+If characters spend `1d4` days scouting a site, doing research, training for their next adventure, and/or any other preparatory activity, they gain a *Prepared Item*. *Prepared Item* is a special item with 0 cost and it takes 1 gear slot. At any time during adventure, it can permanently turn into any basic gear with cost 1 gp or less. Only player characters can use this item. It can be only one *Prepared Item* in inventory at a time. Item expires after one adventure.
 
 ## Gambling
 
