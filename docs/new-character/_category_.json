@@ -1,3 +1,6 @@
 {
-  "label": "Create new character!"
+  "label": "Creating Charming Character!",
+  "position": 1,
+  "collapsible": false,
+  "collapsed": false
 }

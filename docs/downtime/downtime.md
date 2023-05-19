@@ -5,12 +5,11 @@ tags: [rule, page, list]
 sidebar_position: 5
 ---
 
-- Carousing
-    - Adornment
-    - Philanthropy
-    - **Drinking**
-    - Gourmandising
-    - [Gambling](#gambling)
+- [Carousing](carousing)
+    - [Drinking](carousing#drinking)
+    - [Gourmandising](carousing#gourmandising)
+    - [Philanthropy](carousing#philanthropy)
+    - [Gambling](carousing#gambling)
 - Relaxation
 - Rodomontade
 - [Preparing and Scouting](#preparing-and-scouting)
@@ -22,7 +21,7 @@ sidebar_position: 5
     - Collecting an Arcane Library
     - Researching Spells
 - Professional Income
-- Crafting Items
+- [Crafting Items](crafting)
     - [Scribing a Scroll](crafting#scribing-scrolls)
     - [Brewing a Potion](crafting#crafting-potions)
     - [Creating Magical Items](crafting#crafting-magic-items)
@@ -58,7 +57,3 @@ It takes 1 full day per attempt.
 ## Preparing and Scouting
 
 If characters spend `1d4` days scouting a site, doing research, training for their next adventure, and/or any other preparatory activity, they gain a *Prepared Item*. *Prepared Item* is a special item with 0 cost and it takes 1 gear slot. At any time during adventure, it can permanently turn into any basic gear with cost 1 gp or less. Only player characters can use this item. It can be only one *Prepared Item* in inventory at a time. Item expires after one adventure.
-
-## Gambling
-
-A game of *Wizards and Thieves* between all players that whant to gamble and the GM. It takes one day to gamble.

@@ -1,6 +1,6 @@
 ---
 id: new-character
-title: Create new character!
+title: Creating Charming Character!
 sidebar_position: 1
 tags: [rule, page]
 ---

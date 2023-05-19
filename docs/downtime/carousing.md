@@ -4,87 +4,123 @@ title: Celebratory Carousing for Courageous Champion
 tags: [rule, page, table]
 ---
 
-To carouse, each participant pays for the cost of the event. Then, each participant rolls `1d8 + the event's bonus` to determine their own outcome. Rolling `1` on `1d8` provides rolled number of XP but event changes to Carousing Mishaps.
+To carouse, each participant pays for the cost of the event. Then, each participant rolls `1d8 + the event's bonus` to determine their own outcome. Rolling `1` on `1d8` provides a rolled number of XP but the event changes to Carousing Mishaps.
 
 ## Drinking
 
 ### Drinking Event
 
-| Cost   | Event                                                                                                                                                                                          | Bonus |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 10 gp  | A worthy night of drinking and festivity                                                                                                                                                       | +0    |
-| 35 gp  | A full day and night of revelry, gambling, and recounting your exploits                                                                                                                        | +1    |
-| 100 gp | Two days of crawling dozens of taverns to sing, buy rounds, and celebrate                                                                                                                      | +2    |
-| 200 gp | A three-day voyage into the finest food, drink, and gambling you can find                                                                                                                      | +3    |
-| 300 gp | A hazy, weeklong bender that runs multiple well-known taverns dry                                                                                                                              | +4    |
-| 400 gp | A spirited fete lasting ten days that attracts hordes of revelers and takes over an entire town or a city district                                                                             | +5    |
-| 600 gp | Two legendary weeks of drinking and debauchery widespread enough to take over a whole city. It attracts countless celebrants, including famous nobles and bards; the streets run red with wine | +6    |
+| Cost  | Event                                                                                                                                                                                          | Bonus |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| 10gp  | A worthy night of drinking and festivity                                                                                                                                                       | +0    |
+| 35gp  | A full day and night of revelry, gambling, and recounting your exploits                                                                                                                        | +1    |
+| 100gp | Two days of crawling dozens of taverns to sing, buy rounds, and celebrate                                                                                                                      | +2    |
+| 200gp | A three-day voyage into the finest food, drink, and gambling you can find                                                                                                                      | +3    |
+| 300gp | A hazy, weeklong bender that runs multiple well-known taverns dry                                                                                                                              | +4    |
+| 400gp | A spirited fête lasting ten days that attracts hordes of revellers and takes over an entire town or a city district                                                                            | +5    |
+| 600gp | Two legendary weeks of drinking and debauchery widespread enough to take over a whole city. It attracts countless celebrants, including famous nobles and bards; the streets run red with wine | +6    |
 
 ### Drinking Event Outcome
 
-1. Outcome: You accidentally summon a mischievous imp who wreaks havoc on your evening. Benefit: Gain 2 XP and a small trinket from the imp's hoard.
-2. Outcome: You're thrown into the dungeon for 1d4 days and fined 20% of your total wealth for accidentally setting a magical artifact on fire. Benefit: Gain 2 XP and a temporary +1 bonus to Dexterity from your time in jail.
-3. Outcome: You wake up in a strange alleyway with 15% of your total wealth spent on enchanted drinks and magical items. Benefit: Gain 3 XP and a temporary +1 bonus to Charisma from your wild night out.
-4. Outcome: You drunkenly donate 10% of your total wealth to a charming but unscrupulous cleric of a trickster deity. Benefit: Gain 3 XP and a mischievous NPC ally.
-5. Outcome: You're fined 10% of your total wealth for starting a magical barroom brawl that caused damage to enchanted artifacts. Benefit: Gain 3 XP and be banned from a magical tavern for a time.
-6. Outcome: The Thieves' Guild swindles you out of 5% of your total wealth through a clever magical illusion. Benefit: Gain 4 XP and a lesson in caution.
-7. Outcome: You lead an entire tavern in a raucous song that awakens a powerful but whimsical fey creature who grants you a boon. Benefit: Gain 4 XP and a fey NPC ally.
-8. Outcome: You survive a dangerous drinking game involving enchanted knives and illusions. Benefit: Gain 4 XP and a magical token of luck.
-9. Outcome: You defeat a rival adventurer in a test of skill involving enchanted dice and illusions. Benefit: Gain 5 XP and an NPC ally or enemy, depending on your tactics.
-10. Outcome: An angry sorcerer casts a deadly spell at you, but you deflect it with a magical cup you won in a previous drinking contest. Benefit: Gain 5 XP and a temporary +1 bonus to Constitution from your near-death experience.
-11. Outcome: You pull off a daring prank on a corrupt noble, earning the admiration of the common folk and the ire of the noble's allies. Benefit: Gain 5 XP and an ally among the local rebels and revolutionaries.
-12. Outcome: You defeat a powerful wizard in a high-stakes drinking contest, earning the respect of the magical community and a debt owed by the wizard. Benefit: Gain 5 XP and a magical item from the wizard's hoard.
-13. Outcome: You successfully infiltrate a sorcerer's stronghold and steal a powerful magical artifact, but must evade the sorcerer's deadly traps and minions. Benefit: Gain 6 XP and a magical item from the artifact's hoard.
-14. Outcome: You wake up in the throne room of the local ruler, holding a priceless family heirloom and surrounded by guards. Benefit: Gain 6 XP and a powerful magical item from the ruler's hoard, if you can escape their wrath.
+| d8     | Outcome                                                                                                                                    | Benefit                                                             |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| **1**  | Mishap                                                                                                                                     | Gain 2 XP                                                           |
+| **2**  | You're thrown into the dungeon for 1d4 days and fined 20% of your total wealth for accidentally starting a magical fire                    | Gain 2 XP                                                           |
+| **3**  | You wake up in a strange alleyway with 15% of your total wealth spent on enchanted drinks and magical items                                | Gain 3 XP and a mysterious vial                                     |
+| **4**  | You drunkenly donate 10% of your total wealth to a charming but unscrupulous cleric of a trickster deity                                   | Gain 3 XP and a mischievous NPC ally                                |
+| **5**  | You're fined 10% of your total wealth for starting a magical barroom brawl                                                                 | Gain 3 XP and be banned from a tavern                               |
+| **6**  | The Thieves' Guild swindles you out of 5% of your total wealth through a clever magical illusion                                           | Gain 4 XP and a lesson in caution                                   |
+| **7**  | You lead an entire tavern in a raucous song that awakens a powerful but whimsical fey creature who grants you a boon                       | Gain 4 XP and a fey's boon                                          |
+| **8**  | You survive a dangerous drinking game involving enchanted knives and illusions                                                             | Gain 4 XP and a luck token                                          |
+| **9**  | By talent (50%) or trickery (50%), you defeat a rival adventurer in a test of skill involving enchanted dice and illusions                 | Gain 5 XP and an NPC ally or enemy                                  |
+| **10** | An angry sorcerer casts a deadly spell at you, but you deflect it with a magical cup you won in a previous drinking contest                | Gain 5 XP and a luck token                                          |
+| **11** | You pull off a daring prank on a corrupt noble, earning the admiration of the common folk and the ire of the noble's allies                | Gain 5 XP and an ally among the locals                              |
+| **12** | You defeat a powerful wizard in a high-stakes drinking contest, earning the respect of the magical community and a debt owed by the wizard | Gain 5 XP and a magical item from the wizard                        |
+| **13** | You successfully infiltrate a feared sorcerer's stronghold and steal a powerful magical artefact                                           | Gain 6 XP and an 80–100 item from your treasure table               |
+| **14** | You wake up in the throne room of the local ruler, holding a priceless family heirloom. Footsteps approach                                 | Gain 6 XP and a 90–100 item from your treasure table, if you escape |
 
 ### Drinking Event Mishap
 
-1. Make a fool of yourself in public. Gain no XP. Roll Charisma check or gain reputation in this town as a drunken lout.
-2. Involved in random brawl. Roll Strength check or start adventure d3 hit points short.
-3. Minor misunderstanding with local authorities. Roll Charisma check. Success indicates a fine of 2d6 x 25gp. Failure or (inability to pay fine) indicates d6 days in the pokey.
-4. Romantic entanglement. Roll Wisdom check to avoid nuptials. Otherwise 1-3 scorned lover, 4-6 angered parents.
-5. Gambling losses. Roll the dice as if you caroused again to see how much you lose. (No additional XP for the second carousing roll.)
-6. Gain local reputation as the life of a party. Unless a Charisma check is failed, all future carousing in this burg costs double due to barflies and other parasites.
-7. Insult local person of rank. A successful Charisma check indicates the personage is amenable to some sort of apology and reparations.
-8. You couldn’t really see the rash in the candlelight. Roll Constitution check to avoid venereal disease.
-9. New tattoo. 1-3 it’s actually pretty cool 4 it’s lame 5 it could have been badass, but something is goofed up or misspelled 6 it says something insulting, crude or stupid in an unknown language.
-10. Beaten and robbed. Lose all your personal effects and reduced to half hit points.
-11. Gambling binge. Lose all your gold, gems, jewelry. Roll Wisdom check for each magic item in your possession. Failure indicates it’s gone.
-12. Hangover from hell. First day of adventuring is at -2 to-hit and saves. Casters must roll Int check with each spell to avoid mishap.
-13. Target of lewd advances turns out to be a witch. Save versus polymorph or you’re literally a swine.
-14. One of us! One of us! You’re not sure how it happened, but you’ve been initiated into some sort of secret society or weird cult. Did you really make out with an emu of was that just the drugs? Roll Int check to remember the signs and passes.
-15. Invest all your spare cash (50% chance all gems and jewelry, too) in some smooth-tongued merchant’s scheme. 1-4 it’s bogus 5 it’s bogus and Johnny Law thinks you’re in on it 6 actual money making opportunity returns d% profits in 3d4 months.
-16. Wake up stark naked in a random local temple. 1-3 the clerics are majorly pissed off 4-6 they smile and thank you for stopping by.
-17. Major misunderstanding with local authorities. Imprisoned until fines and bribes totaling d6 x 1,000gp paid. All weapons, armor, and magic items confiscated.
-18. Despite your best efforts, you fall head over heels for your latest dalliance. 75% chance your beloved is already married.
-19. When in a drunken stupor you asked your god(s) to get you out of some stupid mess. Turns out they heard you! Now as repayment for saving your sorry ass, you’re under the effects of a quest spell.
-20. The roof! The roof! The roof is on fire! Accidentally start a conflagration. Roll d6 twice. 1-2 burn down your favorite inn 3-4 some other den of ill repute is reduced to ash 5-6 a big chunk of town goes up in smoke. 1-2 no one knows it was you 3-4 your fellow carousers know you did it 5 someone else knows, perhaps a blackmailer 6 everybody knows.
+| d20    | Mishap                                                                                                                                                                                                                                                                                                                                                       |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1**  | Make a fool of yourself in public. Gain no XP. Roll Charisma check or gain reputation in this town as a drunken lout                                                                                                                                                                                                                                         |
+| **2**  | Get into a bar fight with a group of strange creatures. Roll Strength check or start adventure d3 hit points short due to a nasty bump on the head                                                                                                                                                                                                           |
+| **3**  | Accidentally insult the local lord. Roll Charisma check. Success indicates a fine of 2d6 gold pieces. Failure (or inability to pay fine) indicates d6 days in the dungeon                                                                                                                                                                                    |
+| **4**  | Fall madly in love with a dryad. Roll Wisdom check to avoid being ensnared. Otherwise, 1-3 scorned lover, 4-6 angry entourage of forest creatures                                                                                                                                                                                                            |
+| **5**  | Lose all your gold in a rigged game of dragon poker. Roll the dice as if you caroused again and lose 10xXP                                                                                                                                                                                                                                                   |
+| **6**  | Gain local reputation as the life of a party. Unless a Charisma check is failed, next future carousing in this burg costs double due to barflies and other parasites                                                                                                                                                                                         |
+| **7**  | Insult a powerful witch. A successful Charisma check indicates the witch will forgive you if you perform a quest for her                                                                                                                                                                                                                                     |
+| **8**  | Wake up with strange magical powers. 1-3 you can now talk to animals, 4-5 you can now turn invisible at will, 6 you can now breathe fire. It lasts one day                                                                                                                                                                                                   |
+| **9**  | Wake up with a strange magical tattoo. 1-3 it's actually pretty cool, 4 it's lame, 5 it could have been badass, but something is goofed up or misspelled, 6 it says something insulting, crude or stupid in an unknown language                                                                                                                              |
+| **10** | Get ambushed by bandits on the way home. Lose 20% of your total wealth and start adventure d6 hit points short.                                                                                                                                                                                                                                              |
+| **11** | Gambling binge. Roll Wisdom check for each non-magical item, gold, gems and jewelry in your possession. Success indicates you double your winnings. Failure indicates it’s gone                                                                                                                                                                              |
+| **12** | Hangover from hell. First day of adventuring is at -1 to checks and you're plagued by hallucinations                                                                                                                                                                                                                                                         |
+| **13** | Accidentally summon a demon. Save versus possession or you're possessed by the demon for the rest of the day                                                                                                                                                                                                                                                 |
+| **14** | Join a secret society. Did you really make out with a dragon or was that just the ale talking? Roll Int check to remember the signs and passes                                                                                                                                                                                                               |
+| **15** | Invest all your spare cash (50% chance all gems and jewelry, too) in some smooth-tongued merchant’s scheme. 1-4 it’s bogus 5 it’s bogus and Johnny Law thinks you’re in on it 6 actual money making opportunity returns d% profits in 3d4 months                                                                                                             |
+| **16** | Wake up in a random local temple stark naked and up with a strange mark on your forehead. 1-3 the clerics are majorly pissed off, 4-6 they smile and thank you for stopping by                                                                                                                                                                               |
+| **17** | Get arrested for a crime you didn't commit. Imprisoned until fines and bribes totaling d6x100 gp paid. All weapons, armor, and magic items confiscated until paid                                                                                                                                                                                            |
+| **18** | Fall in love with a cursed lady. 75% chance your beloved is already betrothed to a powerful demon                                                                                                                                                                                                                                                            |
+| **19** | When in a drunken stupor you asked your god(s) to get you out of some stupid mess. Turns out they heard you! Now as repayment for saving your sorry ass, you’re under the effects of a quest spell                                                                                                                                                           |
+| **20** | The roof! The roof! The roof is on fire! Accidentally start a conflagration. Roll d6 twice. 1-2 burn down your favorite inn 3-4 some other den of ill repute is reduced to ash 5-6 a big chunk of town goes up in smoke. 1-2 no one knows it was you 3-4 your fellow carousers know you did it 5 someone else knows, perhaps a blackmailer 6 everybody knows |
 
 ## Gourmandising
 
 ### Gourmandising Event
 
-| Cost   | Event                                                                                                                                   | Bonus |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| 10 gp  | A night of indulging in exotic cuisine and rare delicacies                                                                              | +0    |
-| 35 gp  | A day-long culinary adventure, sampling the finest dishes and drinks from around the region                                             | +1    |
-| 100 gp | A weekend of exploring local markets, trying new flavors, and attending cooking classes                                                 | +2    |
-| 200 gp | A three-day tour of the best restaurants and wineries in the kingdom, with private tastings and exclusive menus                         | +3    |
-| 300 gp | A weeklong journey to distant lands, seeking out the most unusual and exotic dishes                                                     | +4    |
-| 400 gp | A grand feast lasting ten days, featuring dishes from all over the world and attended by renowned chefs and food critics                | +5    |
-| 600 gp | Two legendary weeks of culinary exploration, with private chefs, rare ingredients, and exclusive access to the world's best restaurants | +6    |
+| Cost  | Event                                                                                                                                   | Bonus |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| 10gp  | A night of indulging in exotic cuisine and rare delicacies                                                                              | +0    |
+| 35gp  | A day-long culinary adventure, sampling the finest dishes and drinks from around the region                                             | +1    |
+| 100gp | A weekend of exploring local markets, trying new flavors, and attending cooking classes                                                 | +2    |
+| 200gp | A three-day tour of the best restaurants and wineries in the kingdom, with private tastings and exclusive menus                         | +3    |
+| 300gp | A weeklong journey to distant lands, seeking out the most unusual and exotic dishes                                                     | +4    |
+| 400gp | A grand feast lasting ten days, featuring dishes from all over the world and attended by renowned chefs and food critics                | +5    |
+| 600gp | Two legendary weeks of culinary exploration, with private chefs, rare ingredients, and exclusive access to the world's best restaurants | +6    |
 
 ### Gourmandising Event Outcome
 
-2. Outcome: Mishaps. Benefit: Gain 2 XP.
-1. Outcome: You discover a rare and exotic ingredient that is said to have magical properties. Benefit: Gain 2 XP and a magical ingredient that can be used in potions or spells.
-3. Outcome: You compete in a cooking competition against a rival chef who is secretly a demon in disguise. Benefit: Gain 3 XP and a powerful ally in the form of a demon who owes you a favor.
-4. Outcome: You sample a dish so delicious that it transports you to another plane of existence. Benefit: Gain 3 XP and a recipe for the dish, along with a magical artifact from the other plane.
-5. Outcome: You attend a banquet hosted by a powerful lich, and accidentally insult the undead host. Benefit: Gain 3 XP and a powerful lich enemy who seeks revenge.
-6. Outcome: You gamble on the outcome of a cooking competition, only to discover that the event is rigged by a cabal of evil wizards. Benefit: Gain 4 XP and a powerful ally in the form of a wizard who helps you take down the cabal.
+| d8  | Outcome | Benefit   |
+| --- | ------- | --------- |
+| 1   | Mishap  | Gain 2 XP |
+| 2 | You discover a new, exotic ingredient that enhances the flavor of all dishes it's added to | Gain 2 XP and a magical ingredient that can be used in potions |
+| 3  | You are invited to cook for a royal banquet, gaining fame and prestige in the culinary world | Gain 2 XP and a noble patron |
+| 4 |  You compete in a cooking competition against a rival chef who is secretly a demon in disguise. | Gain 3 XP and a boon from a demon |
+| 5 |  You attend a banquet hosted by a powerful undead, and accidentally insult the host | Gain 3 XP and an enemy seeking revenge |
+| 6  | You stumble upon a secret underground restaurant that serves dishes made from rare and dangerous creatures | Gain 3 XP and a rare ingredient for a powerful potions |
 7. Outcome: You try a new type of food that has an unexpected and magical effect on your body. Benefit: Gain 4 XP and a temporary +1 bonus to a random ability score.
 8. Outcome: You impress a wealthy dragon with your culinary skills and receive a lucrative commission to cook for the dragon's hoard. Benefit: Gain 4 XP and a significant amount of treasure.
 9. Outcome: You sample a rare and expensive delicacy that is said to have the power to grant wishes. Benefit: Gain 5 XP and a temporary wish-granting ability.
+
+<!-- | 7  | You are asked to join a culinary guild that specializes in cooking magical creatures. Benefit: Gain 4 XP and access to rare ingredients and exclusive recipes. -->
+<!-- | 8  | You discover a hidden kitchen that belongs to a powerful necromancer. Benefit: Gain 4 XP and a magical cookbook that contains recipes for undead-themed dishes. -->
+<!-- | 9  | You are hired by a group of adventurers to cook a meal that can grant them temporary magical powers. Benefit: Gain 4 XP and a magical cookbook that contains recipes for enhancing spells. -->
+| 10 | You participate in a cooking competition that involves creating dishes using only ingredients found in a cursed forest. Benefit: Gain 5 XP and a magical item that can protect you from the forest's curses.
+| 11 | You are hired to cook for a group of fey creatures, but you accidentally insult the queen of the fey. Benefit: Gain 5 XP and a magical ingredient that can be used to appease the queen.
+| 12 | You discover a secret recipe that has been passed down for generations in a family of dwarven chefs. Benefit: Gain 5 XP and a magical utensil that can enhance the flavor of any dish.
+| 13 | You are hired to cook for a group of powerful wizards, but things go awry when a magical experiment goes wrong. Benefit: Gain 6 XP and a magical cookbook that contains recipes for creating magical creatures.
+| 14 | You are invited to cook for a dragon, but you accidentally use a cursed ingredient that enrages the dragon. Benefit: Gain 6 XP and a magical item that can protect you from dragon fire.
+| 15 | You are hired to cater a wedding for a wealthy patron, but the bride and groom turn out to be vampires. Benefit: Gain 6 XP and a magical item that can protect you from undead attacks.
+
+16. Outcome: Mishap. Benefit: Gain 2 XP and a temporary bonus to a random ability score.
+17. Outcome: You discover a rare and exotic drink that is said to have magical properties. Benefit: Gain 2 XP and a magical ingredient that can be used in potions or spells.
+18. Outcome: You compete in a drinking contest against a rival adventurer who is secretly a demon in disguise. Benefit: Gain 3 XP and a powerful ally in the form of a demon who owes you a favor.
+19. Outcome: You drink a concoction so potent that it transports you to another plane of existence. Benefit: Gain 3 XP and a recipe for the drink, along with a magical artifact from the other plane.
+20. Outcome: You attend a tavern hosted by a powerful lich, and accidentally insult the undead host. Benefit: Gain 3 XP and a powerful lich enemy who seeks revenge.
+21. Outcome: You gamble on the outcome of a drinking contest, only to discover that the event is rigged by a cabal of evil wizards. Benefit: Gain 4 XP and a powerful ally in the form of a wizard who helps you take down the cabal.
+22. Outcome: You try a new type of drink that has an unexpected and magical effect on your body. Benefit: Gain 4 XP and a temporary +1 bonus to a random ability score.
+23. Outcome: You impress a wealthy dragon with your drinking skills and receive a lucrative commission to serve drinks for the dragon's hoard. Benefit: Gain 4 XP and a significant amount of treasure.
+24. Outcome: You drink a rare and expensive beverage that is said to have the power to grant wishes. Benefit: Gain 5 XP and a temporary wish-granting ability.
+25. Outcome: You are hired to tend bar at a feast for a powerful wizard, but the drinks are cursed by a rival bartender. Benefit: Gain 5 XP and a powerful ally in the form of a wizard who helps you lift the curse.
+26. Outcome: You discover a secret recipe that has been guarded by a clan of dwarves for centuries. Benefit: Gain 5 XP and a powerful ally in the form of a dwarf who owes you a favor.
+27. Outcome: You visit a foreign land and have a life-changing drinking experience that grants you the ability to speak a new language. Benefit: Gain 5 XP and a cultural NPC ally who speaks the new language.
+28. Outcome: You are hired to serve drinks for a group of adventurers on a dangerous quest, but the drinks are cursed by a vengeful witch. Benefit: Gain 6
+
+2. Outcome: You sample a dish so delicious that it transports you to another plane of existence. Benefit: Gain 3 XP and a recipe for the dish, along with a magical artifact from the other plane.
+1. Outcome: Mishaps. Benefit: Gain 2 XP.
+3. Outcome: You discover a rare and exotic ingredient that is said to have magical properties. Benefit: Gain 2 XP and a magical ingredient that can be used in potions or spells.
+
+6. Outcome: You gamble on the outcome of a cooking competition, only to discover that the event is rigged by a cabal of evil wizards. Benefit: Gain 4 XP and a powerful ally in the form of a wizard who helps you take down the cabal.
 10. Outcome: You are hired to cater a feast for a powerful wizard, but the food is cursed by a rival chef. Benefit: Gain 5 XP and a powerful ally in the form of a wizard who helps you lift the curse.
 11. Outcome: You discover a secret recipe that has been guarded by a clan of dwarves for centuries. Benefit: Gain 5 XP and a powerful ally in the form of a dwarf who owes you a favor.
 12. Outcome: You visit a foreign land and have a life-changing culinary experience that grants you the ability to speak a new language. Benefit: Gain 5 XP and a cultural NPC ally who speaks the new language.

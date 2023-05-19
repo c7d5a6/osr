@@ -2,7 +2,7 @@
 id: intro
 title: Dungeon Crawl Intro
 tags: [page]
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 <img align="right" src="/img/dungeon-entrance.jpg"/>
