@@ -10,23 +10,23 @@ sidebar_position: 5
     - [Gourmandising](carousing#gourmandising)
     - [Philanthropy](carousing#philanthropy)
     - [Gambling](carousing#gambling)
-- Relaxation
-- Rodomontade
-- [Preparing and Scouting](#preparing-and-scouting)
-    - [Rumors](#enquiring-rumors)
+    <!-- - Relaxation -->
+    <!-- - Rodomontade -->
 - Learning
     - Study/Research/Meditation
     - Learning Talents
     - Learning Skills
     - Collecting an Arcane Library
     - Researching Spells
-- Professional Income
+- [Preparing and Scouting](#preparing-and-scouting)
+    - [Rumors](#enquiring-rumors)
 - [Crafting Items](crafting)
     - [Scribing a Scroll](crafting#scribing-scrolls)
     - [Brewing a Potion](crafting#crafting-potions)
     - [Creating Magical Items](crafting#crafting-magic-items)
 - Sacrifice
 - Quests
+- Professional Income
 - Criminal activities
     - Arena Fights
     - Assassination
