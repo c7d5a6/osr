@@ -1,6 +1,6 @@
 ---
 id: character-type
-title: Choosing Character Class!
+title: Choosing Class!
 sidebar_position: 2
 tags: [rule, page]
 ---

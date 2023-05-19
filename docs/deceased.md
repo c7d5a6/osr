@@ -1,6 +1,6 @@
 ---
 id: graveyard
-title: Grim Graveyard of the Gone
+title: Grim Graveyard
 sidebar_position: 4
 tags: [page, world]
 ---

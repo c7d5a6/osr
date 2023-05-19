@@ -1,6 +1,6 @@
 ---
 id: carousing
-title: Celebratory Carousing for Courageous Champion
+title: Carousing for Courageous Champion
 tags: [rule, page, table]
 ---
 
