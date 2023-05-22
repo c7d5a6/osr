@@ -9,6 +9,7 @@ tags: [rule, page, spells]
 
 - *Spells* are from core books.
 - *CS1* are from Cursed Scroll Shadowdark Zine Vol. 1: Diablerie!
+- *CS3* are from Cursed Scroll Shadowdark Zine Vol. 3: Midnight Sun!
 
 ### Drow Divine
 
@@ -162,8 +163,8 @@ tags: [rule, page, spells]
 
 - *Burning Hands*
 - *Eyebite<sup>cs1</sup>*
+- *Evoke Rage<sup>cs3</sup>*
 - *Hypnotize<sup>cs1</sup>*
-- *Shield of Faith*
 - [Unholy Weapon](#unholy-weapon)
 - *Willowman<sup>cs1</sup>*
 
