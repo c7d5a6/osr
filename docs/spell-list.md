@@ -19,22 +19,10 @@ tags: [rule, page, spells]
 
 - *Burning Hands*
 - *Charm Person*
-- *Detect Magic*
-- [Faerie Fire](#faerie-fire)
+- *Eyebite<sup>cs1</sup>*
+- *Shadowdance<sup>cs1</sup>*
 - *Shield of Faith*
 - [Unholy Weapon](#unholy-weapon)
-
-</div>
-<div class="col">
-
-#### Tier II
-
-- *Alter Self*
-- *Blind/Deafen*
-- [Defiling Weapon](#defiling-weapon)
-- *Misty Step*
-- *Smite*
-- *Web*
 
 </div>
 </div>
@@ -108,10 +96,28 @@ tags: [rule, page, spells]
 </div>
 </div>
 
-
 ### Enchanter
 
-...
+<div class="row">
+<div class="col">
+
+#### Tier I
+
+- *Charm Person*
+- *Detect Magic*
+- *Eyebite<sup>cs1</sup>*
+- [Faerie Fire](#faerie-fire)
+- *Feather Fall*
+- *Fog<sup>cs1</sup>*
+- *Hypnotize<sup>cs1</sup>*
+- *Light*
+- *Puppet<sup>cs1</sup>*
+- *Shadowdance<sup>cs1</sup>*
+- *Sleep*
+- *Witchlight<sup>cs1</sup>*
+
+</div>
+</div>
 
 ### Glade Guard
 
@@ -143,6 +149,23 @@ tags: [rule, page, spells]
 - ...
 - ...
 - ...
+
+</div>
+</div>
+
+### Half-Orc
+
+<div class="row">
+<div class="col">
+
+#### Tier I
+
+- *Burning Hands*
+- *Eyebite<sup>cs1</sup>*
+- *Hypnotize<sup>cs1</sup>*
+- *Shield of Faith*
+- [Unholy Weapon](#unholy-weapon)
+- *Willowman<sup>cs1</sup>*
 
 </div>
 </div>
