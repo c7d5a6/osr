@@ -9,12 +9,12 @@ tags: [page, world]
 
 ## Deceased heroes
 
-| Name                     | Class         | Date     | Cause                                |
-| ------------------------ | ------------- | -------- | ------------------------------------ |
-| **✝ Poc Au Ac**         | Warrior       | 26.11.22 | Grabbed by gelationus cube           |
-| **✝ Schpeck**           | Drow Disciple | 27.04.23 | Fed on by ghoul-chefs                |
-| **✝ Rachel**            | Cutthroat     | 22.05.23 | Stepped on a black cat's tail        |
-| **✝ Aurelia Arboreana** | Aspirant      | 22.05.23 | Met their demise while calming a cat |
+| Name                     | Class         | Date     | Cause                                                |
+| ------------------------ | ------------- | -------- | ---------------------------------------------------- |
+| **✝ Poc Au Ac**         | Warrior       | 26.11.22 | Grabbed by gelationus cube                           |
+| **✝ Schpeck**           | Drow Disciple | 27.04.23 | Fed on by ghoul-chefs                                |
+| **✝ Rachel**            | Cutthroat     | 22.05.23 | Cursed by a cat into the razor-sharp claws of undead |
+| **✝ Aurelia Arboreana** | Aspirant      | 22.05.23 | Met their demise while calming a cat                 |
 
 ## Perished retainers
 
