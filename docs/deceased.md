@@ -15,6 +15,7 @@ tags: [page, world]
 | **✝ Schpeck**           | Drow Disciple | 27.04.23 | Fed on by ghoul-chefs                                |
 | **✝ Rachel**            | Cutthroat     | 22.05.23 | Cursed by a cat into the razor-sharp claws of undead |
 | **✝ Aurelia Arboreana** | Aspirant      | 22.05.23 | Met their demise while calming a cat                 |
+| **✝ Scheppstranatanita** | Adept      | 01.06.23 | Kissed a statue, became troll food                   |
 
 ## Perished retainers
 
