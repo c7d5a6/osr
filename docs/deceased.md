@@ -23,4 +23,10 @@ tags: [page, world]
 | --------------- | -------- | -------- | ---------------------------------------- |
 | **✝ Kod**      | Half-Orc | 08.12.22 | Eaten by green slime                     |
 | **✝ Glirol**   | Child    | 23.03.23 | Killed by long needle                    |
+
+## Fallen Foes
+
+| Name            | Class    | Date     | Cause                                    |
+| --------------- | -------- | -------- | ---------------------------------------- |
 | **✝ Wendelin** | Thug     | 16.05.23 | Struck down by the hand that once healed |
+| **✝ Motherboard** | circuit board     | 08.06.23 | Died to prevent PCs from obtaining too much loot |
