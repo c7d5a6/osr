@@ -59,12 +59,12 @@ tags: [rule, page, spells]
 
 #### Tier III
 
-- ...
-- ...
-- ...
-- ...
-- ...
-- ...
+ - [Call Lightning](#call-lightning)
+ - [Hold Animal](#hold-animal)
+ - [Protection from Fire and Lightning](#protection-from-fire-and-lightning)
+ - [Shape stones](#shape-stones)
+ - [Tree shape](#tree-shape)
+ - [Water Breathing](#water-breathing)
 
 </div>
 </div>
@@ -195,6 +195,15 @@ You magically charm one animal of 2 HD or less within near range, to bacame your
 
 You turn the target's skin into tough bark. Target gains a +2 bonus to armour class and ADV for check to avoid physical harm for the duration.
 
+### Call Lightning
+
+*Tier III*  
+
+**Duration:** Focus  
+**Range:** Far  
+
+You call down bolts of lightning at a creature of your choosing when you cast a spell and every time when you focus at the start of your turn. A creature stuck by lighting suffers 2d6 damage. Double the damage if cast under a cloudy sky.
+
 ### Defiling Weapon
 
 *Tier II*  
@@ -249,6 +258,15 @@ The metal object is heated to extreme temperature. The heat increases while the 
 - **Searing**: Flammable materials touching the object are set alight. Anyone who touches it suffers 1d4 damage.
 - **White hot**: Flammable materials touching the object are set alight. Anyone who touches it suffers 1d6 damage.
 
+### Hold Animal
+
+*Tier III*  
+
+**Duration:** Focus  
+**Range:** Near  
+
+You magically paralyze one living creature of LV 8 or less you can see within range.
+
 ### Invisibility to Animals
 
 *Tier I*  
@@ -278,6 +296,15 @@ A cloud of misty vapour emanates from the ground, filling a near area around you
 
 You summon a flame that burned brightly in the palm of your hand. It casts light, brightly illuminating to a near distance. You can control the fire and make it disappear and appear. Flame can be thrown or set any flammable objects it touches ablaze. The spell ends if fire leaves the hand.
 
+### Protection from Fire and Lightning
+
+*Tier III*  
+
+**Duration:** Focus  
+**Range:** Near  
+
+One creature you choose becomes immune to fire and electricity.
+
 ### Remove Poison
 
 *Tier II*  
@@ -287,6 +314,15 @@ You summon a flame that burned brightly in the palm of your hand. It casts light
 
 You touch the target, and with a wave of a hand, the poison purged. The poisonous effects are undone, restoring the health of the afflicted individual.
 
+### Shape stones
+
+*Tier III*  
+
+**Duration:** Permanent  
+**Range:** Close  
+
+You can transform close cube of stones into a shape which will suit your purpose.
+
 ### Speak with Animals
 
 *Tier I*
@@ -295,6 +331,15 @@ You touch the target, and with a wave of a hand, the poison purged. The poisonou
 **Range:** Close  
 
 A creature you touch can speak with and understand animals for the spell's duration.
+
+### Tree shape
+
+*Tier III*
+
+**Duration:** Instant  
+**Range:** Self
+
+You become a living tree. If cast it standing on the soil, you do not require sleep and food. You can revert to the original shape anytime.
 
 ### Unholy Weapon
 
@@ -313,3 +358,12 @@ One weapon you touch is imbued with a unholy power. The weapon becomes magical a
 **Range:** Far
 
 You concentrate, and the magical power you have summoned is released, wrapping the wooden object and making it useless. The object can be the size of a plank, and magical objects have a chance of resisting the effects.
+
+### Water Breathing
+
+*Tier III*
+
+**Duration:** 1 hour real time  
+**Range:** Close
+
+Let one air-breathing creatures breathe water temporarily, or one water-breathing creature breathe air.
