@@ -28,6 +28,21 @@ tags: [rule, page, spells]
 </div>
 </div>
 
+<div class="row">
+<div class="col">
+
+#### Tier II
+
+- *Alter Self*
+- *Cat's Eye<sup>cs1</sup>*
+- *Poison<sup>cs1</sup>*
+- *Silence*
+- *Spidersilk<sup>cs1</sup>*
+- *Web*
+
+</div>
+</div>
+
 ### Druid
 
 <div class="row">
