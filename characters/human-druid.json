@@ -1,0 +1,181 @@
+{
+  "image": "/img/classes/druid.webp",
+  "fluff": "A force of nature and protectors of balance, the Druids are enigmatic guardians of the secrets of the wild. Serving as both guide and teacher, their sagacity and wisdom flows from their deep connections with the plants and animals of the land. Honoured and respected, the Druids are forces of neutrality, forever ready to bring about harmony and understanding in times of strife.",
+  "requirement": "Neutral alignment.",
+  "weapons": "Club, crossbow, dagger, shortbow, staff, spear",
+  "armor": "Any non metal, shield",
+  "hitDice": "1d6",
+  "title": "Aspirant",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know Druidic and Sylvan languages. All animals can understand Druidic language, but cannot respond."
+    }
+  ],
+  "talents": [
+    { "value": "2", "talent": "Gain advantage on casting one spell you know" },
+    { "value": "3–6", "talent": "+1 to druid spellcasting checks" },
+    { "value": "7–9", "talent": "+1 to melee attacks and damage" },
+    {
+      "value": "10–11",
+      "talent": "+2 to Strength, Constitution or Wisdom score"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Aspirant"],
+          ["3–4", "Ovate"],
+          ["5–6", "Initiate of the Inner Circle"],
+          ["7–8", "Druid"],
+          ["9–10", "Hierophant"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Protector of nature.",
+      "value": "Achieving the title of a Hierophant grants a druid the ability to construct a Grove, with numerous followers gathering to serve the cause. Once complete, they may choose to initiate a ritual, beaconing those of like minds, and embodying the spirit of their Grove in its entirety. As such, the Grove becomes an oasis of solidarity and spiritual guidance, nurtured by the sacred and wise druid, who is revered and respected by their devoted followers."
+    }
+  },
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast <a href=\"/docs/rules/spells#druid\">Druid spells</a> you know. You know two tier 1 spells of your choice from the <a href=\"/docs/rules/spells#druid\">Druid spell list</a>. Each time you gain a level, you choose new spells to learn according to the Spells Known table."
+    },
+    "ability": "Wisdom",
+    "spellTalents": [
+      {
+        "name": "Animal Friendship.",
+        "description": "You know the <i>animal friendship</i> spell. It doesn't count toward your number of known spells."
+      }
+    ],
+    "spellsKnown": [
+      [2, "-", "-", "-", "-"],
+      [3, "-", "-", "-", "-"],
+      [3, "1", "-", "-", "-"],
+      [3, "2", "-", "-", "-"],
+      [3, "2", "1", "-", "-"],
+      [3, "2", "2", "-", "-"],
+      [3, "3", "2", "1", "-"],
+      [3, "3", "2", "2", "-"],
+      [3, "3", "2", "2", "1"],
+      [3, "3", "3", "3", "2"]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Involvement Rate.",
+          "value": "Involvement Rate of the druid starts at 1 and increases by one every time a druid fails their spellcasting check. If the natural number on the die of the spellcasting check falls into the Involvement Rate, the spell check automatically fails, and the druid must roll on the Involvement Table. When the druid regains spells on the following day, his involvement range is reset to a 1."
+        },
+        {
+          "name": "Ritual.",
+          "value": "Once a druid's range of involvement increases beyond a natural 1, they can reduce that range by offering nature a ritual to restore nutrality."
+        },
+        {
+          "name": "Nature's defender.",
+          "value": "When a druid commits an act of damaging nature, they may incur an additional increase in his involvement range. This could amount to an increase of +1 for minor infractions all the way up to +10 for significant transgressions."
+        }
+      ],
+      "tables": [
+        {
+          "name": "INVOLVEMENT",
+          "description": {
+            "name": "Involvement roll.",
+            "value": "The roll is Involvement Rate number of d4s."
+          },
+          "table": {
+            "header": ["Roll", "Involvement effect"],
+            "rows": [
+              [
+                "1",
+                "You must atone for your errors by burning a special offering of incense, crafted of herbs and woods found in the forest. Failure to present the offering within the next hour incurs a -1 penalty to all spell checks until it is presented."
+              ],
+              [
+                "2",
+                "You must traverse a labyrinth of thorns, under the watchful gaze of the forest spirits. The paths taken must meander and double back upon themselves, ending where it began. Failure increases the Involvement Rate by 1."
+              ],
+              [
+                "3",
+                "You must lay his hands upon one of their favourite trees and whisper a prayer to the spirits of nature. If the prayer is accepted, you receive a +1 bonus to all spell checks, up to the next day. If the prayer is denied, you gain an immediate -2 penalty to all spell checks for 24 hours."
+              ],
+              [
+                "4",
+                "You must lead a ritual honouring their chosen patron spirits, inviting them to a special feast and thanking them for the gifts of nature. Failure increases the Involvement Rate by 1."
+              ],
+              [
+                "5",
+                "You must participate in a group ritual, preferably with other druids, creating and casting a quiet spell of communion with the natural world. Failure (at the discretion of the judge) means you immediately lose all spellcasting ability for the remainder of the day."
+              ],
+              [
+                "6",
+                "You must feed a specific animal associated with their chosen patron spirits and recite an incantation of devotion. Failure increases the Involvement Rate by 2."
+              ],
+              [
+                "7",
+                "You must perform a centering ritual, a meditative practice designed to clear the mind and open it to the natural power of the surrounding spirits. Success lovers Involvement Rate by 1. In case of failure, you gain an immediate -2 penalty to all spell checks for 24 hours."
+              ],
+              [
+                "8",
+                "You must observe the sunrise, standing at the edge of the forest and proclaiming their devotion to the spirits of nature. Failure increases the initial Involvement Rate by 1 for a week."
+              ],
+              [
+                "9",
+                "You must lay upon the altar of the forest god and beseech the spirits of nature to accept their offering of servitude."
+              ],
+              [
+                "10",
+                "You must venture into the forest and perform a ritual that placates their chosen patron spirits."
+              ],
+              [
+                "11",
+                "-You must offer a living sacrifice to the spirits of nature. Failure increases the Involvement Rate by 2."
+              ],
+              [
+                "12",
+                "-You must participate in a ritual in which they must leave something behind (stone, plant, etc.) in the sanctums of their chosen patron spirits. Success levies a +1 bonus to all spell checks and wild shape checks, up to the next day. Failure increases the Involvement Rate by 1."
+              ],
+              [
+                "13",
+                "-Your spirit guide, a powerful forest sprite, appears to them and presents a challenge. The druid must spend the next 1d6 days in the depths of a particular forest, performing certain ritualistic tasks and building a temple or some form of structure to honor the sprite's presence. Failure to perform all tasks will result in the druid being cursed with a temporary -2 penalty to all spell checks. "
+              ],
+              [
+                "14",
+                "-You find themselves isolated from the life-giving energy of the forests and lands. All druidic spells are suppressed for the next 2d6 hours. "
+              ],
+              [
+                "15",
+                "-You must perform a brief, complex ritual to cleanse their soul of all corruption. This can take anywhere from a few minutes for simple tasks to an entire day for very powerful rituals. Failure to complete the rituals results in the druid being cursed with a -1 penalty to all spell checks until the task is completed."
+              ],
+              [
+                "16",
+                "-You find themselves trapped in a dream of an idealized version of the forest. The druid must find the strength within themselves to break out of the dream, lest they become trapped forever in an ever-slowing spiral of tranquility and contentment."
+              ],
+              [
+                "17",
+                "-You find themselves beset by a powerful forest spirit. The spirit attacks in forms impossible to predict, roaring waves of magical energy, direct physical attacks, and more. The druid must prove their worth by fending off the spirit within 3 rounds or else be cursed with a -2 penalty to all spell checks and the loss of the ability to use nature-based spells for the next 24 hours. "
+              ],
+              [
+                "18",
+                "-You fall under the influence of a powerful being of the fey realms. The druid finds themselves compelled to obey that entity's every command and perform a series of tasks in their service. Doing so will restore the druid's connection to the natural world, but failure to complete all of the tasks will result in the loss of all druidic spells for the next 24 hours. "
+              ],
+              [
+                "19",
+                "-You find themselves in a timeless, dream-like state. As long as they remain in this trance-like state, their connection with the natural world is greatly weakened and their druidic spells are suppressed for 1d4 days."
+              ],
+              [
+                "20+",
+                "-You find themselves beset by a powerful wave of instinctive impulses. All druidic spells are suppressed for 1d4 days as the druid struggles to subdue these primal urges. "
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

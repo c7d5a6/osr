@@ -1,0 +1,147 @@
+{
+  "image": "/img/classes/enchanter.webp",
+  "title": "Allurer",
+  "weapons": "Dagger, shortbow, staff",
+  "armor": "None",
+  "requirement": "Neutral or Chaotic alignment.",
+  "fluff": "The Enchanter is a deeply awe-inspiring figure, capable of weaving powerful illusions and spells of fey magic that can bewitch an enemy. They bring comforting words of confidence and might to their allies, almost as if they could increase strength with simple incantations. Unfazed by the use of blades or other weapons, they rely on providing clever enchantments to conquer foes.",
+  "hitDice": "1d4",
+  "specialTalents": [
+    {
+      "name": "Inspire.",
+      "description": "DC 12 CHA check to give a luck token to one creature in near. If you fail, you can't use this again until you successfully rest."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "1/day DC 15 to mesmerize a target in near, focus duration"
+    },
+    {
+      "value": "3–5",
+      "talent": "Gain advantage on casting one spell you know"
+    },
+    {
+      "value": "6–9",
+      "talent": "+2 to Charisma score or +1 to enchanter spellcasting checks"
+    },
+    {
+      "value": "10–11",
+      "talent": "Learn one additional enchanter spell of any tier you know"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Allurer"],
+          ["3–4", "Inveigler"],
+          ["5–6", "Enchanter/Enchantress"],
+          ["7–8", "Sorcerer/Sorceress"],
+          ["9–10", "Summer Lord/Lady"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Fey Court.",
+      "value": "The Summer Lord/Lady is an extremely respected title among enchanters, and attaining it grants them the ability to built a Fey Court. Upon the Court's completion, a great number of devoted followers will arrive to serve, grant the enchanter tremendous power and create a special reverence around their name. This notoriety makes this title even more powerful and admirable."
+    }
+  },
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast enchanter's spells you know. You know three tier 1 spells of your choice from the enchanter spell list. Each time you gain a level, you choose new enchanter spells to learn according to the Spells Known table."
+    },
+    "ability": "Charisma",
+    "spellTalents": [
+    ],
+    "spellsKnown": [
+      ["3", "-", "-", "-", "-"],
+      ["4", "-", "-", "-", "-"],
+      ["4", "1", "-", "-", "-"],
+      ["4", "2", "-", "-", "-"],
+      ["4", "2", "1", "-", "-"],
+      ["4", "3", "2", "-", "-"],
+      ["4", "3", "2", "1", "-"],
+      ["4", "4", "2", "2", "-"],
+      ["4", "4", "3", "2", "1"],
+      ["4", "4", "4", "2", "2"]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Fey Focus.",
+          "value": "If you fail your spellcasting check, the spell does not take effect. You can't cast that spell again until you complete a meditation. "
+        },
+        {
+          "name": "Faerie Luck.",
+          "value": "Whenever you roll a natural 1 on your spellcasting check, you have to roll on the Faerie Luck table depending on Spell Tier."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Faerie Luck (Tier 1–2)",
+          "description": {
+            "name": "Faerie Luck.",
+            "value": "Roll a 1d12."
+          },
+          "table": {
+            "header": ["Roll", "Faerie Luck effect"],
+            "rows": [
+              [
+                "1",
+                "<b>Bad Luck!</b> Roll twice and combine both effects (reroll any further 1s)"
+              ],
+              [
+                "2",
+                "<b>Wounded Spirit!</b> You take 1d6 damage and lose 1 Spellsong power until you complete a meditation"
+              ],
+              [
+                "3",
+                "<b>Vexing Sight!</b> You become blinded until you complete a meditation long rest"
+              ],
+              [
+                "4",
+                "<b>Portal Skirmish!</b> You are teleported to a random place with a foe"
+              ],
+              [
+                "5",
+                "<b>Hex!</b> You have disadvantage on all checks for 10 rounds"
+              ],
+              [
+                "6",
+                "<b>Wild Beast!</b> You transform into a random wild beast (DM's choice) for 5 rounds and gain their size, speed, and traits. You can't cast spells in this form"
+              ],
+              ["7", "<b>Thieving Fairies!</b> You lose a random piece of gear"],
+              [
+                "8",
+                "<b>Serene Slumber!</b> You are suddenly lulled into a deep sleep, completely oblivious to their surroundings for 3 rounds"
+              ],
+              [
+                "9",
+                "<b>Faerie Fire!</b> You and your gear become outlined in a bright faerie fire, granting creatures advantage on attacks against you for 5 rounds and making it impossible for you to hide or be invisibl"
+              ],
+              [
+                "10",
+                "<b>Phantom Elk!</b> A wild array of spectral elk and deer appears around the caster, stamping their hooves and bellowing in tune just loud enough to draw attention to the caste"
+              ],
+              [
+                "11",
+                "<b>Terrifying Lure!</b> You are compelled to investigate a strange noise in the distance, temporarily impairing your senses until you reach it"
+              ],
+              [
+                "12",
+                "<b>Cloud of Spirits!</b> The caster is suddenly engulfed in a thick and ethereal fog, making it difficult to see"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "image": "/img/classes/dancer.webp",
+  "title": "Scout",
+  "requirement": "Neutral or Chaotic alignment.",
+  "fluff": "Glade Guards are an awe-inspiring sight, born of fey blood and sacred rituals. Masterfully trained in martial combat and the arcane arts, they fight with unmatched skill and grace, weaving charms and illusions to confound their enemies. Through the use of their magics and weapons, they march beneath the forest canopy, their blades and staffs ever faithful guardians of the elven domain.",
+  "hitDice": "1d6",
+  "weapons": "Dagger, longbow, longsword, shortbow, shortsword, spear",
+  "armor": "Leather armor, chainmail",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Scout"],
+          ["3–4", "Waystalker"],
+          ["5–6", "Bladesinger"],
+          ["7–8", "Wardancer"],
+          ["9–10", "Glade Lord"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Forest Hall.",
+      "value": "When a Glade Guardian reaches the title of The Glade Lord, they may construct a Forest Hall, a breathtaking sanctuary for them and their forces. With its connection to the spiritual world and the divine energies within, the Forest Hall will prove to be an invaluable asset in their effort to protect the wilds. When the construction is complete, a number of devoted followers will arrive to serve their Glade Lord, coming to their aid during times of need and revering them as the guardian of nature's wonders."
+    }
+  },
+  "specialTalents": [
+    {
+      "name": "Elven Grace.",
+      "description": "You have advantage on Dexterity checks to overcome an opposing force, or perform acrobatic manoeuvres."
+    },
+    {
+      "name": "Fey blood.",
+      "description": "You have a <b>Spellsong power</b> of <b>1</b> and you know one Tier 1 spell of your choice from the <a href=\"/docs/rules/spells#glade-guard\">Glade Guard spell list</a>. You learn new spells at 2nd, 4th, 6th, 8th, 10th levels, and every time your Spellsong power increases. You can cast spells at a Tier equal to or lower than your Spellsong power level."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Choose one type of weapon, such as longswords. You deal an extra weapon die of damage with it"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Dexterity or Wisdom score"
+    },
+    {
+      "value": "10–11",
+      "talent": "+1 Spellsong power"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast <a href=\"/docs/rules/spells#glade-guard\">Glade Guard spells</a> you know of Tier equal to or lower than your Spellsong power level."
+    },
+    "spellTalents": [],
+    "ability": "Wisdom",
+    "miscast": {
+      "description": [
+        {
+          "name": "Fey Focus.",
+          "value": "If you fail your spellcasting check, the spell does not take effect. You can't cast that spell again until you complete a meditation. "
+        },
+        {
+          "name": "Faerie Luck.",
+          "value": "Whenever you roll a natural 1 on your spellcasting check, you have to roll on the Faerie Luck table depending on your Spellsong power."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Faerie Luck (Spellsong power 1–2)",
+          "description": {
+            "name": "Faerie Luck.",
+            "value": "Roll a 1d12."
+          },
+          "table": {
+            "header": ["Roll", "Faerie Luck effect"],
+            "rows": [
+              [
+                "1",
+                "<b>Bad Luck!</b> Roll twice and combine both effects (reroll any further 1s)"
+              ],
+              [
+                "2",
+                "<b>Wounded Spirit!</b> You take 1d6 damage and lose 1 Spellsong power until you complete a meditation"
+              ],
+              [
+                "3",
+                "<b>Vexing Sight!</b> You become blinded until you complete a meditation long rest"
+              ],
+              [
+                "4",
+                "<b>Portal Skirmish!</b> You are teleported to a random place with a foe"
+              ],
+              [
+                "5",
+                "<b>Hex!</b> You have disadvantage on all checks for 10 rounds"
+              ],
+              [
+                "6",
+                "<b>Wild Beast!</b> You transform into a random wild beast (DM's choice) for 5 rounds and gain their size, speed, and traits. You can't cast spells in this form"
+              ],
+              ["7", "<b>Thieving Fairies!</b> You lose a random piece of gear"],
+              [
+                "8",
+                "<b>Serene Slumber!</b> You are suddenly lulled into a deep sleep, completely oblivious to their surroundings for 3 rounds"
+              ],
+              [
+                "9",
+                "<b>Faerie Fire!</b> You and your gear become outlined in a bright faerie fire, granting creatures advantage on attacks against you for 5 rounds and making it impossible for you to hide or be invisibl"
+              ],
+              [
+                "10",
+                "<b>Phantom Elk!</b> A wild array of spectral elk and deer appears around the caster, stamping their hooves and bellowing in tune just loud enough to draw attention to the caste"
+              ],
+              [
+                "11",
+                "<b>Terrifying Lure!</b> You are compelled to investigate a strange noise in the distance, temporarily impairing your senses until you reach it"
+              ],
+              [
+                "12",
+                "<b>Cloud of Spirits!</b> The caster is suddenly engulfed in a thick and ethereal fog, making it difficult to see"
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

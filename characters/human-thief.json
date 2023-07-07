@@ -1,0 +1,59 @@
+{
+  "image": "/img/classes/thief.webp",
+  "fluff": "Thieves are highly skilled individuals who depend on the element of surprise to gain an advantage in any situation. With their agile movements and a clever disposition, they can slip past enemies or pickpocket valuable items with ease. The darkness is their friend, and they revel in the shadows, striking without warning when the opportunity arises.",
+  "requirement": "Neutral or Chaotic alignment.",
+  "weapons": "Club, crossbow, dagger, shortbow, shortsword",
+  "armor": "Leather armor, mithral chainmail",
+  "hitDice": "1d4",
+  "title": "Robber (N), Thug (C)",
+  "specialTalents": [
+    {
+      "name": "Backstab.",
+      "description": "If you hit a creature who is unaware of your attack, you deal an extra weapon die of damage. Add additional weapon dice of damage equal to half your level (round down)."
+    },
+    {
+      "name": "Thievery.",
+      "description": "You are adept at thieving skills and have the necessary tools of the trade secreted on your person (they take up no gear slots). You are trained in the following tasks and have advantage on any associated ability checks:<ul><li>Climbing</li><li>Sneaking and hiding</li><li>Applying disguises</li><li>Finding and disabling traps</li><li>Delicate tasks such as picking pockets and opening locks</li></ul>"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Neutral Title", "Chaotic Title"],
+        "rows": [
+          ["1–2", "Robber", "Thug"],
+          ["3–4", "Outlaw", "Cutthroat"],
+          ["5–6", "Rogue", "Shadow"],
+          ["7–8", "Renegade", "Assassin"],
+          ["9–10", "Bandit King/Queen", "Wraith"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Treasurehold.",
+      "value": "When a thief reaches the title of Bandit King/Queen or Wraith, they may establish and build a Guild Tavern (for King/Queen) or a Thief Den (for Wraiths). These strongholds of power will be a bastion against law and order, a safe haven for criminals and outcasts and a lucrative source of income. When the construction of these structures is complete, a number of followers will arrive seeking asylum or reward, awaiting the governance of their lord/lady or wraith with utmost loyalty."
+    }
+  },
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Gain advantage on initiative rolls (reroll if duplicate)"
+    },
+    {
+      "value": "3–5",
+      "talent": "Your Backstab deals +1 dice of damage"
+    },
+    {
+      "value": "6–9",
+      "talent": "+2 to Strength, Dexterity, or Charisma score"
+    },
+    {
+      "value": "10–11",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ]
+}

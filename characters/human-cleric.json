@@ -1,0 +1,285 @@
+{
+  "image": "/img/classes/cleric.webp",
+  "fluff": "Mighty templars of holy purpose wrapped in the armour of righteousness and wielding the power of the gods, advocates for justice or the very embodiment of corruption and deceit. Neither monster nor man, nor even undead, can stand in their way, for the Priests are bearers of divine will, blessed to smite all in the name of their faith.",
+  "weapons": "Club, crossbow, dagger, mace, longsword, staff, warhammer",
+  "armor": "All armour and shields",
+  "hitDice": "1d6",
+  "title": "Acolyte (L), Seeker (N), Initiate (C)",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know either Celestial, Diabolic, or Primordial."
+    },
+    {
+      "name": "Deity.",
+      "description": "Choose a god to serve who matches your alignment (<a href=\"/docs/world/gods\">see Deities</a>). You have a holy symbol for your god (it takes up no gear slots)."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Gain advantage on casting one spell you know"
+    },
+    {
+      "value": "3–6",
+      "talent": "Choose one kind of armour. You get +1 AC from that armour"
+    },
+    {
+      "value": "7–9",
+      "talent": "+1 to priest spellcasting checks"
+    },
+    {
+      "value": "10–11",
+      "talent": "+2 to Strength or Wisdom score, or +1 to melee and ranged attacks"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": [
+          "Level",
+          "Lawful Title",
+          "Neutral Title",
+          "Chaotic Title"
+        ],
+        "rows": [
+          [
+            "1–2",
+            "Acolyte",
+            "Seeker",
+            "Initiate"
+          ],
+          [
+            "3–4",
+            "Crusader",
+            "Invoker",
+            "Zealot"
+          ],
+          [
+            "5–6",
+            "Templar",
+            "Haruspex",
+            "Cultist"
+          ],
+          [
+            "7–8",
+            "Champion",
+            "Mystic",
+            "Scourge"
+          ],
+          [
+            "9–10",
+            "High Priest",
+            "Oracle",
+            "Exalted Champion"
+          ]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Beacon of gods.",
+      "value": "When a priest reaches the title of High Priest, Oracle or Exalted Champion, they may build a Church (for priest), Monastery (for oracle) or Temple (for champion). Each structure will form a beacon of their deity's power, setting themselves apart from all other mortals. When the construction of these structures is complete, throngs of devoted followers will arrive to serve them with their unparalleled loyalty and unwavering faith."
+    }
+  },
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast priest spells you know. You know two tier 1 spells of your choice from your spell list. Each time you gain a level, you choose new priest spells to learn according to the Spells Known table."
+    },
+    "ability": "Wisdom",
+    "spellTalents": [
+      {
+        "name": "Divine Blessing.",
+        "description": "You know the <i>turn undead</i> spell. It doesn't count toward your number of known spells."
+      }
+    ],
+    "spellsKnown": [
+      [
+        2,
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "1",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "2",
+        "-",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "2",
+        "1",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "2",
+        "2",
+        "-",
+        "-"
+      ],
+      [
+        3,
+        "3",
+        "2",
+        "1",
+        "-"
+      ],
+      [
+        3,
+        "3",
+        "2",
+        "2",
+        "-"
+      ],
+      [
+        3,
+        "3",
+        "2",
+        "2",
+        "1"
+      ],
+      [
+        3,
+        "3",
+        "3",
+        "3",
+        "2"
+      ]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Disapproval Rate.",
+          "value": "Your disapproval rate starts at 1 and increases by one every time you fail your spellcasting check. If the natural number on the die of the spellcasting check falls into the Disapproval Rate, the spell check automatically fails, and you must roll on the Disapproval Table. When you regain spells on the following day, your disapproval range is reset to a 1. Probably."
+        },
+        {
+          "name": "Sacrifices.",
+          "value": "Once your range of disapproval increases beyond a natural 1, you can reduce that range by offering sacrifices to your deity."
+        },
+        {
+          "name": "Sins.",
+          "value": "When you commit a sinful act, you may incur an additional increase in your disapproval range. This could amount to an increase of +1 for minor infractions, all the way up to +10 for significant transgressions."
+        }
+      ],
+      "tables": [
+        {
+          "name": "DEITY DISAPPROVAL",
+          "description": {
+            "name": "Disapproval roll.",
+            "value": "The roll is Disapproval Rate number of d4s."
+          },
+          "table": {
+            "header": [
+              "Roll",
+              "Disapproval"
+            ],
+            "rows": [
+              [
+                "1",
+                "You must atone for your sins. You must do nothing but utter chants and intonations for the next 10 minutes, starting as soon as you are able (i.e., if you are in combat, you can wait until the danger is over)."
+              ],
+              [
+                "2",
+                "You must pray for forgiveness immediately. You must spend at least one hour in prayer, beginning as soon as you are able (i.e., if you are in combat, you can wait until the danger is over). Failure to finish the full hour of prayers within the next 120 minutes is looked upon unfavourably; you incur a -1 penalty to all spell checks until you complete the full hour."
+              ],
+              [
+                "3",
+                "You must increase your god's power by recruiting a new follower. If you do not convert one new follower to your deity's worship by the next sunrise, you take a -1 penalty to all checks on the following day. This penalty resets after 24 hours."
+              ],
+              [
+                "4",
+                "You immediately incur an additional -1 penalty to all spell checks that lasts until the next day."
+              ],
+              [
+                "5",
+                "You must undergo the test of humility. For the remainder of the day, you must defer to all other characters and creatures as if you were your superiors. Failure (at the discretion of the judge) means you immediately lose all spellcasting ability for the remainder of the day."
+              ],
+              [
+                "6",
+                "You incur an immediate -1 penalty to all attempts to Divine Blessing until you go on a quest to heal the crippled. This quest is of their own design, but generally speaking, must result in significant aid to the crippled, blind, lamed, sickly, etc. Once the quest is completed, the deity revokes the penalty. While the penalty remains, it applies to all attempts to Divine Blessing, even if the “normal” disapproval rate has been reduced back to a natural 1."
+              ],
+              [
+                "7",
+                "You must endure a test of faith. You gain an illness that costs them 1 point each of Strength, Agility, and Constitution. The ability score loss heals at the normal rate of 1 point per day. You may not use magic to heal the loss. If you endure the test to the satisfaction of the deity, you retain your magical abilities. If not (judge's discretion), your disapproval range immediately increases by another point."
+              ],
+              [
+                "8",
+                "You immediately incur a -2 penalty to spell checks on the specific spell that resulted in disapproval (including Divine Blessing). This lasts until the next day."
+              ],
+              [
+                "9",
+                "You immediately incur an additional -2 penalty to all spell checks that lasts until the next day."
+              ],
+              [
+                "10",
+                "You lose access to one randomly determined level 1 spell. This spell cannot be cast until the next day."
+              ],
+              [
+                "11",
+                "You are ordered by their deity to meditate on your faith and come to a better understanding of what you have done to earn disapproval. You incur an immediate and permanent -1 penalty to all spell checks. The only way to lift this penalty is for You to meditate. For every full day of meditation, You can make a DC 12 Wisdom check. Success means the spell check penalties are removed."
+              ],
+              [
+                "12",
+                "You are temporarily disowned by your deity. For the rest of the day, the character cannot accumulate XP and may not gain class levels as a priest. After the time period expires, the character begins to accumulate XP again as normal, but does not accrue “back pay” (so to speak) for XP missed while he was disowned."
+              ],
+              [
+                "13",
+                "You lose access to two randomly determined level 1 spells. These spells cannot be cast until the next day."
+              ],
+              [
+                "14",
+                "Your deity wishes to test whether You is a man of the faith or a man of the flesh. Calculate your total net worth in gold pieces. You immediately incur a permanent -2 penalty to all spell checks. The only way to remove this penalty is for You to sacrifice your material possessions. For every 15% of your net worth sacrificed to the deity, one point of penalty is removed. A sacrifice can be destruction, consecration, donation, transformation into a temple or statue, etc."
+              ],
+              [
+                "15",
+                "The deity is not forgiving on this day. When you rest for the night, he does not “reset” your disapproval range at the next morning – it carries over from this day to the next. The disapproval ranged resets as normal on the following day."
+              ],
+              [
+                "16",
+                "You are temporarily barred from using their Divine Blessing ability. The deity will not grant this power for the next 1d4 days. After that time, You regain the use of this ability."
+              ],
+              [
+                "17",
+                "You lose access to 1d4+1 spells, randomly determined from all the character knows. These spells cannot be cast for the next 24 hours."],
+              [
+                "18",
+                "You are temporarily unable to use Divine Blessing. You regain the ability after 1d6 days."
+              ],
+              [
+                "19",
+                "You are stained with the mark of the unfaithful. This physical mark appears like a brand, tattoo, or birthmark, with the symbol determined by your faith. The symbol is automatically visible to all worshippers of your faith, even through clothing, but may be invisible to others. To all who see and comment on the mark, You must explain their sin and describe what you are doing as penance. If you continue to sustain their faith for a week while retaining the mark, it disappears."
+              ],
+              [
+                "20+",
+                "Your ability to use Divine Blessing is restricted. The ability works only once per day. After 24 hours, the ability's use reverts to normal."
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

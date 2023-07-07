@@ -1,0 +1,62 @@
+{
+  "image": "/img/classes/halfling.webp",
+  "title": "Swashbuckler",
+  "weapons": "Club, crossbow, dagger, shortbow, shortsword",
+  "armor": "Leather armor, mithral chainmail",
+  "hitDice": "1d4",
+  "fluff": "The Halfling is an amusing folk, playful and mischievous by nature, content with taking pleasure in the simple things life has to offer. Blessed with incredible luck, they often manage to go unnoticed. With a steady hunger for a hearty second breakfast, it serves to revive their health for more fun-filled evenings full of jokes and pranks, leaving a lasting impression of good cheer and delight in their wake.",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Swashbuckler"],
+          ["3–4", "Militiaman"],
+          ["5–6", "Roadwarden"],
+          ["7–8", "Sheriff"],
+          ["9–10", "Warfoot"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Garrison.",
+      "value": "Achieving the prestigious rank of Warfoot is an impressive feat for a halfling, and it entitles them to, among other things, build a Garrison. This grand building comes with a large number of devoted followers, giving the Warfoot immense power and respect. The followers will arrive to serve once the construction is complete, further reinforcing the prestige of the Warfoot title."
+    }
+  },
+  "specialTalents": [
+    {
+      "name": "Lucky!",
+      "description": "You can have more than one luck at a time. At a start of a game or after resting you gain 1 luck token."
+    },
+    {
+      "name": "Insignificant.",
+      "description": "Once per day, you can become invisible for 3 rounds. You have an advantage on any check for hiding and doing something sneaky."
+    },
+    {
+      "name": "Second breakfast.",
+      "description": "You can consume a ration, or any other food, and regain 1d4 hit points. Add an additional number of dice equal to half your level (round down)."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Gain +1 luck token at game start and after resting."
+    },
+    {
+      "value": "3–5",
+      "talent": "Add +1 dice to your Second breakfast."
+    },
+    {
+      "value": "6–9",
+      "talent": "+2 to Dexterity, Constitution, or Charisma score"
+    },
+    {
+      "value": "10–11",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "image": "/img/classes/half-elf.webp",
+  "title": "Runner",
+  "hitDice": "1d8",
+  "weapons": "Dagger, longbow, longsword, shortbow, shortsword, spear, staff",
+  "armor": "Leather armor, chainmail",
+  "fluff": "The Half-Elf is an astonishing rarity, an amalgamation of both elf and Human characteristics. They are gifted with the farsight of the elven race, allowing them to gain clarity into the strange and unknown. Skilled wayfinders prepared for any journey with navigation, tracking, nature and survival skills, their knowledge of herbology also astounds. Though too often seen as outcasts in both human and Elven societies, the Half-Elf is able to face the unknowns with unparalleled courage, forging ahead in the wildness.",
+  "specialTalents": [
+    {
+      "name": "Farsight.",
+      "description": "You get a +1 bonus to attack rolls with ranged weapons."
+    },
+    {
+      "name": "Wayfinder.",
+      "description": "<p>You have advantage on checks associated with:</p><ul><li>Navigation</li><li>Tracking</li><li>Bushcraft</li><li>Stealth</li><li>Wild animals</li></ul>"
+    },
+    {
+      "name": "Herbalism.",
+      "description": "Make an INT check to find an herb you choose. If you fail, you can't try to find that herb again until you successfully complete a rest. Unused herbs lose their effect in 3 rounds.<ul><li><strong>DC 11</strong> <em>Salve.</em> Heals 1 HP</li><li><strong>DC 12</strong> <em>Stimulant.</em> You can't be surprised for 10 rounds</li><li><strong>DC 13</strong> <em>Foebane.</em> ADV on attacks and damage against one creature type you choose for 1d6 rounds</li><li><strong>DC 14</strong> <em>Restorative.</em> Ends one poison or disease</li><li><strong>DC 15</strong> <em>Curative.</em>. Equivalent to a <i>Potion of Healing</i></li></ul>"
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "You deal d12 damage with one weapon type you choose"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1  to melee or ranged attacks and damage"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength, Dexterity, or Intelligence"
+    },
+    {
+      "value": "10–11",
+      "talent": "You gain ADV on Herbalism checks for an herb you choose"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Runner"],
+          ["3–4", "Strider"],
+          ["5–6", "Tracker"],
+          ["7–8", "Pathfinder"],
+          ["9–10", "Ranger"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Lodge.",
+      "value": "Attaining the esteemed title of Ranger is an impressive feat for a half-elf, and it entitles them to, among other things, build a Lodge. This majestic building comes with a large following of devoted followers, granting the Ranger immense power and acclaim. When the construction is complete, the followers come to serve and pay homage, further increasing the notoriety and power of the Ranger title."
+    }
+  }
+}

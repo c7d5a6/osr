@@ -1,0 +1,63 @@
+{
+  "image": "/img/classes/axedwarf.webp",
+  "title": "Hammerer",
+  "requirement": "Lawful or Neutral alignment.",
+  "fluff": "These stalwart warriors have been forged in the fires of battle, blessed with the strength and resilience of their Dwarven kin. Skilled with axe and shield, they form the front line of defence against any threat that might seek to plunder their mountain strongholds. But beware their stubbornness, and potent grudges that smoulders like a blazing fire and can linger in the heart of the Axedwarves for generations to come.",
+  "hitDice": "1d8",
+  "weapons": "All weapons",
+  "armor": "All armor and shields",
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Hammerer"],
+          ["3–4", "Shieldbearer"],
+          ["5–6", "Veteran"],
+          ["7–8", "Longbeard"],
+          ["9–10", "The Grudgebreaker"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Mountain Fortress.",
+      "value": "When an axedwarf reaches the title of The Grudgebreaker, they may construct a mountainous fortress, symbolic of their unwavering dignity and strength. The structure they build will be unlike any other, a feat of engineering that defies convention. When the construction is complete, a number of skilled fighters will arrive to serve their Grudgebreaker, heralding a period of security and prosperity for the people in their domain."
+    }
+  },
+  "specialTalents": [
+    {
+      "name": "Hauler.",
+      "description": "Add your Constitution modifier, if positive, to your gear slots."
+    },
+    {
+      "name": "Shield Wall.",
+      "description": "If you have a shield in a hand, you can use it to block enemy attack. Shield reduces the damage dealt to you by 1d4. Your shield breaks unless you pass a Strength check with DC 9 + original damage dealt."
+    },
+    {
+      "name": "Grudge.",
+      "description": "You have an advantage on checks related to taking vengeance on the last being that inflicted HP damage to you."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Your Shield Block blocks +1 dice"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee attacks and damage"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength or Constitution score"
+    },
+    {
+      "value": "10–11",
+      "talent": "Choose one kind of armor. You get +1 AC from that armor"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "image": "/img/classes/fighter.webp",
+  "fluff": "The Fighters are champions of the battlefield, unmatched warriors whose bravery and skill transcends any obstacle. Shielded by dented armour and armed with razor-sharp swords, they fearlessly plunge headlong into the fray, their wild acts of derring-do bringing forth glorious moments of strength and agility.",
+  "weapons": "All weapons",
+  "armor": "All armor and shields",
+  "hitDice": "1d8",
+  "title": "Squire (L), Warrior (N), Knave (C)",
+  "specialTalents": [
+    {
+      "name": "Mighty Deed.",
+      "description": "If you have an advantage on attack, you can forfeit this advantage and declare mighty deed. If attack hits, you can add an effect to attack: push back, trip, entangle an enemy, temporarily blind them, defensive deed or precision shots and so on."
+    },
+    {
+      "name": "Weapon Mastery.",
+      "description": "Choose one type of weapon, such as longswords. You gain +1 to attack and damage with that weapon type. In addition, add half your level to these rolls (round down)."
+    },
+    {
+      "name": "Grit.",
+      "description": "Choose Strength or Dexterity. You have advantage on checks of that type to overcome an opposing force, such as kicking open a stuck door (Strength) or slipping free of rusty chains (Dexterity)."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Gain Weapon Mastery with one additional weapon"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength, Dexterity, or Constitution score"
+    },
+    {
+      "value": "10–11",
+      "talent": "Choose one kind of armor. You get +1 AC from that armor"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Lawful Title", "Neutral Title", "Chaotic Title"],
+        "rows": [
+          ["1–2", "Squire", "Warrior", "Knave"],
+          ["3–4", "Cavalier", "Armiger", "Bandit"],
+          ["5–6", "Knight", "Hero", "Slayer"],
+          ["7–8", "Thane", "Swordmaster", "Reaver"],
+          ["9–10", "Lord/Lady", "Chieftain", "Warlord"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Human Stronghold.",
+      "value": "When a fighter reaches the title of Lord, Lady, Chieftain or Warlord, they gain access to powerful resources that can be used to create or build a castle (for lords and ladies), a durable keep (for chieftains) or a sturdy bastion (for warlords). With the construction of these structures, the respective commanders will also be able to call upon a number of devoted followers that will serve under them and support their cause."
+    }
+  }
+}

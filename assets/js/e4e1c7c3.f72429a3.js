@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[7260],{1907:s=>{s.exports=JSON.parse('{"label":"list","permalink":"/docs/tags/list","allTagsPath":"/docs/tags","count":1,"items":[{"id":"downtime/list","title":"Rest and Recuperation","description":"- Carousing","permalink":"/docs/downtime/"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[7811],{1550:s=>{s.exports=JSON.parse('{"label":"red hogs","permalink":"/blog/tags/red-hogs","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,66 @@
+{
+  "image": "/img/classes/mul.webp",
+  "title": "Bull",
+  "hitDice": "1d8",
+  "weapons": "Club, crossbow, dagger, greataxe, greatsword, javelin, mace, spear, warhammer",
+  "armor": "Leather armor, shields",
+  "fluff": "The Mul have the remarkable combination of human and dwarf in their blood, granting them great cunning and hearty fortitude. Unfortunately, they are sterile, unable to pass on these traits through procreation. Nevertheless, they can resist fatigue and injury, as well as access and regain their inner vigor with the rush of the adrenaline. As a result of such remarkable traits, they are praised as heroes and held in high esteem throughout the ages.",
+  "specialTalents": [
+    {
+      "name": "Adaptable.",
+      "description": "You gain one additional talent roll at 1st level."
+    },
+    {
+      "name": "Adrenaline rush.",
+      "description": "Regain 1d6 hit points when you hit an enemy with a melee attack. Make a DC 18 Constitution check (the Implacable talent applies to this roll). On fail you lose this ability until rest."
+    },
+    {
+      "name": "Hauler.",
+      "description": "Add your Constitution modifier, if positive, to your gear slots."
+    },
+    {
+      "name": "Implacable.",
+      "description": "You have advantage on Constitution checks to resist injury, poison, or endure extreme environments."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Increase the HP you gain from Adrenaline rush by 1d6"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee weapon damage"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength or Constitution score, or +1 to melee attacks"
+    },
+    {
+      "value": "10–11",
+      "talent": "1/day, ignore all damage and effects from one attack"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Bull"],
+          ["3–4", "Crusher"],
+          ["5–6", "Gutlord"],
+          ["7–8", "Slaughtermaster"],
+          ["9–10", "Tyrant"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Stronghold.",
+      "value": "When a mul earns the highly coveted title of Tyrant, they acquire the ability to construct a Stronghold. This grand construct brings with it a great many devoted followers, granting the Tyrant immense power and admiration. Upon completion of the Stronghold, the followers come to serve, resulting in a heightened reputation and unquestioned authority."
+    }
+  }
+}

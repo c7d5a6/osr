@@ -1,0 +1,111 @@
+{
+  "image": "/img/classes/wizard.webp",
+  "fluff": "Mages of all shapes and sizes, wizards and witches roam the lands, weaving arcane magic that brings life to the world around them. With a single gesture and their rune-tattooed hands, they can manipulate the forces of nature, causing great destruction or creative wonderment. Yet those who dare to navigate the depths of the chaotic power risk the loss of their very souls, as the power can easily consume them and corrupt their minds.",
+  "weapons": "Dagger, staff",
+  "armor": "None",
+  "hitDice": "1d4",
+  "title": "Apprentice (L), Shaman (N), Adept (C)",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know two additional common languages and two rare languages."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Make one random magic item"
+    },
+    {
+      "value": "3–5",
+      "talent": "Gain advantage on casting one spell you know"
+    },
+    {
+      "value": "6–9",
+      "talent": "+2 to Intelligence score or +1 to wizard spellcasting checks"
+    },
+    {
+      "value": "10–11",
+      "talent": "Learn one additional wizard spell of any tier you know"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Lawful Title", "Neutral Title", "Chaotic Title"],
+        "rows": [
+          ["1–2", "Scholar", "Shaman", "Adept"],
+          ["3–4", "Conjurer", "Seer", "Maledictor"],
+          ["5–6", "Arcanist", "Spellbinder", "Witch/Warlock"],
+          ["7–8", "Mage", "Sage", "Doomweaver"],
+          ["9–10", "Archmage", "Wizard Lord/Lady", "Soulflayer"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Magic Conduits.",
+      "value": "Upon reaching the stature of Archmage, Wizard Lord/Lady, or Soulflayer, a visionary wizard may commence the construction of an awe-inspiring structure befitting of such a rank. An Archmage may create a Grand Tower of Knowledge, a Lord/Lady a Great Library of Arcane Works, and the Soulflayer a Chaotic Citadel. When the construction is complete, they may call upon numerous followers to serve the cause."
+    }
+  },
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast wizard spells you know. You know three tier 1 spells of your choice from the wizard spell list. Each time you gain a level, you choose new wizard spells to learn according to the Spells Known table."
+    },
+    "ability": "Intelligence",
+    "spellTalents": [
+      {
+        "name": "Learning Spells.",
+        "description": "You can permanently learn a wizard spell from a spell scroll by studying it for a day and succeeding on a DC 15 Intelligence check. Whether you succeed or fail, you expend the spell scroll. Spells you learn in this way don't count toward your known spells."
+      }
+    ],
+    "spellsKnown": [
+      ["3", "-", "-", "-", "-"],
+      ["4", "-", "-", "-", "-"],
+      ["4", "1", "-", "-", "-"],
+      ["4", "2", "-", "-", "-"],
+      ["4", "2", "1", "-", "-"],
+      ["4", "3", "2", "-", "-"],
+      ["4", "3", "2", "1", "-"],
+      ["4", "4", "2", "2", "-"],
+      ["4", "4", "3", "2", "1"],
+      ["4", "4", "4", "2", "2"]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Magical energy.",
+          "value": "If you fail your spellcasting check, the spell does not take effect. You can't cast that spell again until you complete a rest."
+        },
+        {
+          "name": "Magical chaos.",
+          "value": "If you roll a natural 1 on your spellcasting check you must roll on the Mishap table."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Mishap",
+          "description": {
+            "name": "Mishap roll.",
+            "value": "The roll is 2d6 + double spell tier."
+          },
+          "table": {
+            "header": ["Roll", "Mishap"],
+            "rows": [
+              ["11 or less", "Lesser Missfire"],
+              ["12–13", "Minor Corruption"],
+              ["14–17", "Missfire"],
+              ["18", "Major Corruption"],
+              ["19–21", "Grater Missfire"],
+              ["22 or more", "Grater Corrution"]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

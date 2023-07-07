@@ -1,0 +1,107 @@
+{
+  "image": "/img/classes/half-orc.webp",
+  "title": "Barbarian",
+  "requirement": "Neutral or Chaotic alignment.",
+  "hitDice": "1d8",
+  "weapons": "All weapons",
+  "armor": "All armor and shields",
+  "fluff": "These humans, cursed with the tainted blood of demons, have earned their moniker 'Half-Orcs' from their tremendous ferocity. With an inner strength only understood by those of the dark, the Half-Orcs stand tall in the shadows of a forgotten world.",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know Diabolic."
+    },
+    {
+      "name": "Magic Attunement.",
+      "description": "You know <em>detect magic</em> spell, cast it with CHA."
+    },
+    {
+      "name": "Demonic blood.",
+      "description": "You gain special demonic blood talent. Roll on a table:<table><thead><tr><th>2d6</th><th>Effect</th></tr></thead><tbody><tr><td>2</td><td>1/day, gain advantage on melee attacks for 5 rounds</td></tr><tr><td>3–6</td><td>Gain +1 to your AC through supernatural foresight</td></tr><tr><td>7–9</td><td>Learn a witch spell, tier = half your level, cast it with CHA</td></tr><tr><td>10–11</td><td>1/day, force a close being to check morale, even if immune</td></tr><tr><td>12</td><td>1/day, force the GM to reroll a single roll</td></tr></tbody></table>"
+    },
+    {
+      "name": "Demonic Possession.",
+      "description": "Gain a +1 bonus to your damage rolls that lasts 5 rounds. In addition, add half your level to the damage bonus (round down). Make a DC 18 Charisma check. On fail you lose this ability until rest."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Roll to maintain Demonic Possession with advantage"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Strength, Dexterity, or Charisma score"
+    },
+    {
+      "value": "10–11",
+      "talent": "Roll for new Demonic Blood talent"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": ["Level", "Title"],
+        "rows": [
+          ["1–2", "Marauder"],
+          ["3–4", "Wrathmonger"],
+          ["5–6", "Chaos Knight"],
+          ["7–8", "Warleader"],
+          ["9–10", "Champion of Chaos"]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Warcamp.",
+      "value": "When a half-orc earns the prestigious title of Champion of Chaos, they gain the power to build a Warcamp. This grand structure draws a massive number of devoted followers, granting the Champion immense power and admiration. Upon completion of the Warcamp, the followers come to serve and pledge their loyalty, further enhancing the reputation and might of the Champion title."
+    }
+  },
+  "spellcasting": {
+    "description": {
+      "name": "Demonic spellcasting.",
+      "description": "You can cast spells you know."
+    },
+    "ability": "Charisma",
+    "spellTalents": [],
+    "miscast": {
+      "description": [
+        {
+          "name": "Magical energy.",
+          "value": "If you fail your spellcasting check, the spell does not take effect. You can't cast that spell again until you complete a rest."
+        },
+        {
+          "name": "Magical chaos.",
+          "value": "If you roll a natural 1 on your spellcasting check you must roll on the Mishap table."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Mishap",
+          "description": {
+            "name": "Mishap roll.",
+            "value": "The roll is 2d6 + double spell tier."
+          },
+          "table": {
+            "header": ["Roll", "Mishap"],
+            "rows": [
+              ["11 or less", "Lesser Missfire"],
+              ["12–13", "Minor Corruption"],
+              ["14–17", "Missfire"],
+              ["18", "Major Corruption"],
+              ["19–21", "Grater Missfire"],
+              ["22 or more", "Grater Corrution"]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

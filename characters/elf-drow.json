@@ -1,0 +1,146 @@
+{
+  "image": "/img/classes/drow.webp",
+  "title": "Disciple",
+  "requirement": "Chaotic alignment.",
+  "fluff": "From the depths of forgotten and unknowable realms, the Drow Divine weave a strange and chaotic magic, a power granted to them by their wicked lords and gods. Icy cold and fiercely passionate, these enigmatic beings adhere to ancient and twisted rites, bonding their faithless hearts with the tenets of a cruel deity — one whose spite is ever present, ready to transform their dangerous magic from a blessing to a curse in a moment's notice.",
+  "hitDice": "1d6",
+  "weapons": "Club, crossbow, dagger, mace, longbow, longsword, shortbow, shortsword",
+  "armor": "Leather armor, mithral chainmail",
+  "specialTalents": [
+    {
+      "name": "Languages.",
+      "description": "You know either Diabolic or Primordial."
+    },
+    {
+      "name": "Spider Affinity.",
+      "description": "Drow live alongside many different species of spiders, including giant ones. You can speak the secret language of spiders and gain a +1 bonus to reaction rolls when encountering spiders."
+    },
+    {
+      "name": "Deity.",
+      "description": "Choose a chaotic god to serve (<a href=\"/docs/world/gods\">see Deities</a>). You have a holy symbol for your god (it takes up no gear slots)."
+    }
+  ],
+  "talents": [
+    {
+      "value": "2",
+      "talent": "Learn one additional spell of any tier you know"
+    },
+    {
+      "value": "3–6",
+      "talent": "+1 to melee and ranged attacks"
+    },
+    {
+      "value": "7–9",
+      "talent": "+2 to Dexterity or +1 to spellcasting checks"
+    },
+    {
+      "value": "10–11",
+      "talent": "Gain advantage on casting one spell you know"
+    },
+    {
+      "value": "12",
+      "talent": "Choose a talent or +2 points to distribute to ability scores"
+    }
+  ],
+  "titles": {
+    "table": {
+      "table": {
+        "header": [
+          "Level",
+          "Title"
+        ],
+        "rows": [
+          [
+            "1–2",
+            "Disciple"
+          ],
+          [
+            "3–4",
+            "Priest/Priestess"
+          ],
+          [
+            "5–6",
+            "Curate"
+          ],
+          [
+            "7–8",
+            "Elder"
+          ],
+          [
+            "9–10",
+            "Patriarch/Matriarch"
+          ]
+        ]
+      }
+    },
+    "reward": {
+      "name": "Fane.",
+      "value": "When a drow reaches the title of Patriarch/Matriarch, they may build a Fane, a majestic hall to serve as home and sanctuary for them and their loyal followers. With its great architecture and divine decor, the Fane will be unlike anything else in the land and prove to be a refuge of strength and power. When the construction is complete, a number of followers will arrive to serve the Patriarchs/Matriarchs, offering their support and reverence to their appointed leader."
+    }
+  },
+  "spellcasting": {
+    "description": {
+      "name": "Spellcasting.",
+      "description": "You can cast <a href=\"/docs/rules/spells#drow-divine\">Drow Divine spells</a> you know. You know two tier 1 spells of your choice from the <a href=\"/docs/rules/spells#drow-divine\">Drow Divine spell list</a>. Each time you gain a level, you choose new spells to learn according to the Spells Known table."
+    },
+    "ability": "Intelligence",
+    "spellTalents": [
+      {
+        "name": "Divine Blessing.",
+        "description": "You know the <i>web</i> spell. It doesn't count toward your number of known spells."
+      }
+    ],
+    "spellsKnown": [
+      [2, "-", "-", "-", "-"],
+      [3, "-", "-", "-", "-"],
+      [3, "1", "-", "-", "-"],
+      [3, "2", "-", "-", "-"],
+      [3, "2", "1", "-", "-"],
+      [3, "2", "2", "-", "-"],
+      [3, "3", "2", "1", "-"],
+      [3, "3", "2", "2", "-"],
+      [3, "3", "2", "2", "1"],
+      [3, "3", "3", "3", "2"]
+    ],
+    "miscast": {
+      "description": [
+        {
+          "name": "Disfavour Rate.",
+          "value": "Disfavour rate of the drow divine starts at 1 and increases by one every time you fail your spellcasting check. If the natural number on the die of the spellcasting check falls into the Disfavour Rate, the spell check automatically fails, and you must roll on the Diety's Spite table. When the you regain spells on the following day, your disfavour range is reset to a 1. Probably."
+        },
+        {
+          "name": "Sacrifices.",
+          "value": "Once your range of disfavour increases beyond a natural 1, you can reduce that range by offering sacrifices to your deity."
+        },
+        {
+          "name": "Blood Sacrifice.",
+          "value": "If your last action before spellcasting was inflicting damage in close range, you can lower Disfavour Rate by this damage amount. Disfavour Rate, however, can't be lower than 1. You can choose to inflict damage on yourself or any willing target. In that case, the amount of damage can be chosen as any number from their weapon dice."
+        },
+        {
+          "name": "Sins.",
+          "value": "When a you commit a sinful act, you may incur an additional increase in your disfavour range. This could amount to an increase of +1 for minor infractions all the way up to +10 for significant transgressions."
+        }
+      ],
+      "tables": [
+        {
+          "name": "Diety's Spite",
+          "description": {
+            "name": "Diety's Spite roll.",
+            "value": "The roll is 2d6 + double spell tier."
+          },
+          "table": {
+            "header": ["Roll", "Spite"],
+            "rows": [
+              ["11 or less", "Lesser Missfire"],
+              ["12–13", "Minor Corruption"],
+              ["14–17", "Missfire"],
+              ["18", "Major Corruption"],
+              ["19–21", "Grater Missfire"],
+              ["22 or more", "Grater Corrution"]
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
