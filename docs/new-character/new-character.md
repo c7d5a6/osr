@@ -8,7 +8,7 @@ tags: [rule, page]
 <img class="img-character" align="right" src="/img/characters.webp"/>
 
 1. Roll `3d6` in a row for Strength (abbreviated STR), Intelligence (INT), Wisdom (WIS), Dexterity (DEX), Constitution (CON), and Charisma (CHA).
-2. Choose [Character Type](character-type). Write all languages and character's type talents.
+2. Choose [Character Type](character-type). You can check what type fits best for your characteristics [here](https://docs.google.com/spreadsheets/d/17lE9flF3BdjvaiY1688d_EYq5TFizGHJI7k3GsXbSOc/edit?usp=sharing#gid=438859818). Write all languages and character's type talents.
 3. Roll `2d6` for 1st level talent.
 4. Roll HP (character's hit die + CON). Minimum 1 hp.
 5. Roll for [Background](backgrounds) for chosen character type.
