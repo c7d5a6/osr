@@ -3,10 +3,15 @@ id: crafting
 title: Crafting Charms and Curses
 tags: [rule, page, table]
 ---
+
 <img src="/img/magicitems.webp"/>
+
 ## Crafting magic items
+
 Any character with arcane talents can create magic item.
+
 Your level adds bonus or penalties to an attempt. If you have an advantage on rolls, you can use it during any `2d6` roll, or roll 2 times on `1dX` table and choose the result you want. You can stack these advantages on a single roll.
+
 | Character level | Bonus | Advantage on rolls |
 | --------------- | ----- | ------------------ |
 | **1**           | -3    |                    |
@@ -19,14 +24,18 @@ Your level adds bonus or penalties to an attempt. If you have an advantage on ro
 | **8**           | +0    | 3 advantages       |
 | **9**           | +1    | 3 advantages       |
 | **10**          | +2    | 4 advantages       |
+
 You need to buy an item to enchants and spend gold on materials for enchantment. The amount of gold spent will add bonus or penalties to an attempt. You can look up the amounts below.
+
 The magic item will receive magical qualities based on a roll (you can use advantage). Bonuses from gold and level apply to this roll:
+
 | 2d6      | Benefit | Curse |
 | -------- | ------- | ----- |
 | **2**    | —       | 1     |
 | **3–7**  | 1       | 1     |
 | **8–11** | 1       | —     |
 | **12**   | 2       | —     |
+
 The magic item has 1:6 chance to become conscious and receive personality traits based on a roll (you can use advantage). Bonuses from gold and level apply to this roll. You can use advantage on ITEM VIRTUE and ITEM FLAW:
 
 | 2d6       | Virtue | Flaw |
