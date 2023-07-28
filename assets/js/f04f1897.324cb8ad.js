@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[1494],{5171:s=>{s.exports=JSON.parse('{"label":"gg dungeon","permalink":"/blog/tags/gg-dungeon","allTagsPath":"/blog/tags","count":1}')}}]);
