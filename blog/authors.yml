@@ -10,3 +10,8 @@ filhit:
 paleika:
   name: Nadzeya
   image_url: https://osr.owlbeardm.com/img/portrait/pnp.webp
+
+chatgpt:
+  name: ChatGPT
+  title: Scribe
+  image_url: https://osr.owlbeardm.com/img/portrait/chatgpt.webp
