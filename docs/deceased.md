@@ -16,6 +16,7 @@ tags: [page, world]
 | **✝ Rachel**            | Cutthroat     | 22.05.23 | Cursed by a cat into the razor-sharp claws of undead |
 | **✝ Aurelia Arboreana** | Aspirant      | 22.05.23 | Met their demise while calming a cat                 |
 | **✝ Scheppstranatanita** | Adept      | 01.06.23 | Kissed a statue, became troll food                   |
+| **✝ Merry** | Militiaman      | 10.08.23 | His head now proudly gracing the towering collection of blooded skulls |
 
 ## Perished retainers
 
