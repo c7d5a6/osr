@@ -26,9 +26,7 @@ tags: [rule, page, spells]
 - [Unholy Weapon](#unholy-weapon)
 
 </div>
-</div>
 
-<div class="row">
 <div class="col">
 
 #### Tier II
@@ -39,6 +37,19 @@ tags: [rule, page, spells]
 - *Silence*
 - *Spidersilk<sup>cs1</sup>*
 - *Web*
+
+</div>
+
+<div class="col">
+
+#### Tier III
+
+- *Animate dead*
+- *Illusion*
+- *Speak with Dead*
+- *Swarm<sup>cs1</sup>*
+- *Void Stare<sup>cs1</sup>*
+- *Whisper<sup>cs1</sup>*
 
 </div>
 </div>
