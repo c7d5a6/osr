@@ -5,8 +5,6 @@ sidebar_position: 4
 tags: [page, world]
 ---
 
-<img class="img-character" align="right" src="/img/dance.webp"/>
-
 ## Deceased heroes
 
 | Name                     | Class         | Date     | Cause                                                |
@@ -18,6 +16,9 @@ tags: [page, world]
 | **✝ Scheppstranatanita** | Adept      | 01.06.23 | Kissed a statue, became troll food                   |
 | **✝ Merry** | Militiaman      | 10.08.23 | His head now proudly gracing the towering collection of blooded skulls |
 | **✝ Oscar** | Cavalier      | 30.10.23 | Devoured by ghouls in fruitless search of an oil |
+| **✝ Cvorobaronn** | Runner      | 09.03.24 | Deblooded while saving the party |
+
+<img class="img-character" align="right" src="/img/dance.webp"/>
 
 ## Perished retainers
 
