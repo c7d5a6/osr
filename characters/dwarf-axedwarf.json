@@ -31,7 +31,7 @@
     },
     {
       "name": "Shield Wall.",
-      "description": "If you have a shield in a hand, you can use it to block enemy attack. Shield reduces the damage dealt to you by 1d4. Your shield breaks unless you pass a Strength check with DC 9 + original damage dealt."
+      "description": "If you have a shield in a hand, you can use it to block enemy attack. Shield reduces the damage dealt to you by 1d8. Your shield breaks unless you pass a Strength check with DC 9 + original damage dealt."
     },
     {
       "name": "Grudge.",
