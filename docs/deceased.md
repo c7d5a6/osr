@@ -17,8 +17,8 @@ tags: [page, world]
 | **✝ Merry** | Militiaman      | 10.08.23 | His head now proudly gracing the towering collection of blooded skulls |
 | **✝ Oscar** | Cavalier      | 30.10.23 | Devoured by ghouls in fruitless search of an oil |
 | **✝ Quoroboronne** | Runner      | 09.03.24 | Deblooded while saving the party from red mist |
-| **✝ Злодейслав** |   Disciple    |   | Stomped by Minotaur in the labyrinth |
-| **✝ Priest Proust** | Initiate      |  | Poisoned by purple spider venom |
+| **✝ Priest Proust** | Initiate      | 31.12.24  | Poisoned by purple spider venom |
+| **✝ Злодейслав** |   Disciple    | 12.01.25  | Stomped by Minotaur in the labyrinth |
 | **✝ Nusskraker** | Waystalker      | 14.02.25 | Could not swim with bitten off arm |
 | **✝ Гендри Лысый** | Skulk      | 14.02.25 | Completely swallowed by a T-Rex |
 
