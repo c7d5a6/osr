@@ -18,6 +18,7 @@ tags: [page, world]
 | **✝ Oscar** | Cavalier      | 30.10.23 | Devoured by ghouls in fruitless search of an oil |
 | **✝ Quoroboronne** | Runner      | 09.03.24 | Deblooded while saving the party from red mist |
 | **✝ Priest Proust** | Initiate      | 31.12.24  | Poisoned by purple spider venom |
+| Countless heroes |       | 31.12.24  | Killed by rushing into action |
 | **✝ Злодейслав** |   Disciple    | 12.01.25  | Stomped by Minotaur in the labyrinth |
 | **✝ Nusskraker** | Waystalker      | 14.02.25 | Could not swim with bitten off arm |
 | **✝ Гендри Лысый** | Skulk      | 14.02.25 | Completely swallowed by a T-Rex |
