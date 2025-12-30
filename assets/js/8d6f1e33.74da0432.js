@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkosr=self.webpackChunkosr||[]).push([[129],{6002:e=>{e.exports=JSON.parse('{"label":"green griffon inn","permalink":"/blog/tags/green-griffon-inn","allTagsPath":"/blog/tags","count":4}')}}]);

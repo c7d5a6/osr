@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkosr=globalThis.webpackChunkosr||[]).push([[4661],{7550(s){s.exports=JSON.parse('{"tag":{"label":"spells","permalink":"/docs/tags/spells","allTagsPath":"/docs/tags","count":1,"items":[{"id":"spells","title":"Mage\'s Menu","description":"Class spelllists","permalink":"/docs/spells"}],"unlisted":false}}')}}]);
