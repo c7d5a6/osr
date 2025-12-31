@@ -63,16 +63,6 @@
             <category>red hogs</category>
         </item>
         <item>
-            <title><![CDATA[GG dungeon cave]]></title>
-            <link>https://osr.owlbeardm.com/blog/2022/12/09/2023-4-4-image/map</link>
-            <guid>https://osr.owlbeardm.com/blog/2022/12/09/2023-4-4-image/map</guid>
-            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Cave]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Cave" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6MTkzYmJhYjZmMzgzYzI3ZjU4NDIwMDk2ZTFmNDQzOWEyM2UzZjFiMTk2ZjRlOWFjOGUwNzM4YmUwMmZkMzBhOQpzaXplIDMwNzg0Cg==" class="img_ev3q"></p>]]></content:encoded>
-            <category>dungeon</category>
-            <category>green griffon inn</category>
-        </item>
-        <item>
             <title><![CDATA[GG dungeon map]]></title>
             <link>https://osr.owlbeardm.com/blog/2022/12/09/2022-12-9-map/map</link>
             <guid>https://osr.owlbeardm.com/blog/2022/12/09/2022-12-9-map/map</guid>
@@ -84,13 +74,12 @@
             <category>green griffon inn</category>
         </item>
         <item>
-            <title><![CDATA[GG dungeon map]]></title>
-            <link>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</link>
-            <guid>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</guid>
-            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Map]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Map" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6YWEzMTYyZTEyMzUzZDllYjM5ODk3ZTgyNjljYzJmMDIwMzc4Yjk0YTU4NzFjOWQzYzk1MDM0MWYzY2UyNTNiZgpzaXplIDMxNjM2Cg==" class="img_ev3q"></p>]]></content:encoded>
-            <category>map</category>
+            <title><![CDATA[GG dungeon cave]]></title>
+            <link>https://osr.owlbeardm.com/blog/2022/12/09/2023-4-4-image/map</link>
+            <guid>https://osr.owlbeardm.com/blog/2022/12/09/2023-4-4-image/map</guid>
+            <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cave]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Cave" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6MTkzYmJhYjZmMzgzYzI3ZjU4NDIwMDk2ZTFmNDQzOWEyM2UzZjFiMTk2ZjRlOWFjOGUwNzM4YmUwMmZkMzBhOQpzaXplIDMwNzg0Cg==" class="img_ev3q"></p>]]></content:encoded>
             <category>dungeon</category>
             <category>green griffon inn</category>
         </item>
@@ -154,6 +143,17 @@
 <p>Шпек определяет паука, как тарантеллу, огромного монстра, который может зачароваывать существ. И тогда они танцуют, пока не умрут, свой танец. А этого скелета, видимо, даже смерть не спасла. Из разговора Шпек плучает, что судя по всему ничего плохого паук не желает. Тарантелла заскучал и, услышав шум, решил показать своего скелета. Шпек объясняет пауку путь к другим людям, чтобы, если он опять заскучает, он мог показать своего скелета заинтересованной аудитории.</p>
 <p>После этого возвращаемся назад в таверну.</p>]]></content:encoded>
             <category>report</category>
+            <category>dungeon</category>
+            <category>green griffon inn</category>
+        </item>
+        <item>
+            <title><![CDATA[GG dungeon map]]></title>
+            <link>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</link>
+            <guid>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</guid>
+            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Map]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Map" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6YWEzMTYyZTEyMzUzZDllYjM5ODk3ZTgyNjljYzJmMDIwMzc4Yjk0YTU4NzFjOWQzYzk1MDM0MWYzY2UyNTNiZgpzaXplIDMxNjM2Cg==" class="img_ev3q"></p>]]></content:encoded>
+            <category>map</category>
             <category>dungeon</category>
             <category>green griffon inn</category>
         </item>
