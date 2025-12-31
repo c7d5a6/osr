@@ -14,7 +14,7 @@
             <guid>https://osr.owlbeardm.com/blog/2023/7/28/2023-7-28-chapter/chapter</guid>
             <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Я - Грот , эльф глэйд гард. Все началось в той таверне, что на окраине города. Слухи говорили, что она недавно была выкуплена и вновь открылась после долгих лет заброшенности. И что же, оказывается, именно здесь, в самой таверне, скрывался вход в подземелье. Я слышал, что его построил какой-то волшебник, чтобы стеречь сокровища там.]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6N2EyYjQwZjdiMmE5ZWQ2OWY1NzY3NGI5ZDkyY2U1ZGQ5NDMwMTU4MGQ1OGM1ZWFjZGM0MzZkYTliM2E3OGI0NwpzaXplIDc2MTEwCg==" class="img_ev3q"></p>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" src="https://osr.owlbeardm.com/assets/images/tavern-0aba7df92d87efa3edfa19569e89fad2.webp" class="img_ev3q"></p>
 <p>Я - Грот , эльф глэйд гард. Все началось в той таверне, что на окраине города. Слухи говорили, что она недавно была выкуплена и вновь открылась после долгих лет заброшенности. И что же, оказывается, именно здесь, в самой таверне, скрывался вход в подземелье. Я слышал, что его построил какой-то волшебник, чтобы стеречь сокровища там.</p>
 <p>Я решил отправиться туда, потому что жажда приключений пылала в моей крови слишком долго. Войдя в таверну, я заметил интерьер, который совсем не восхищал. Двери от сарая лежали на полу, а вокруг столов сидели обычные горожане. За одним из столов стояли девушка и мужчина, в их глазах я увидел нотки тревоги.</p>
 <p>Но вот что привлекло мое внимание - полуорк за вторым столом. Его неудачная внешность была скрыта свежим шрамом на лице. Все смотрели на него настороженно. Я решил присесть рядом и узнать больше.</p>
@@ -68,7 +68,7 @@
             <guid>https://osr.owlbeardm.com/blog/2022/12/09/2022-12-9-map/map</guid>
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Map]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Map" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6M2ZmMjA2MTllZWJkZjMwZTkyZTlkMWY5Yjg5ODVlOWU1OTM2YjFhNjIwYzVjOTFkZTRhNWNhN2JlMmFlZGRiYwpzaXplIDI1NTQ1OAo=" class="img_ev3q"></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Map" src="https://osr.owlbeardm.com/assets/images/map2-a62090ddfc21069f256bd6a6cf12f813.webp" width="1280" height="1280" class="img_ev3q"></p>]]></content:encoded>
             <category>map</category>
             <category>dungeon</category>
             <category>green griffon inn</category>
@@ -79,7 +79,18 @@
             <guid>https://osr.owlbeardm.com/blog/2022/12/09/2023-4-4-image/map</guid>
             <pubDate>Fri, 09 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Cave]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Cave" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6MTkzYmJhYjZmMzgzYzI3ZjU4NDIwMDk2ZTFmNDQzOWEyM2UzZjFiMTk2ZjRlOWFjOGUwNzM4YmUwMmZkMzBhOQpzaXplIDMwNzg0Cg==" class="img_ev3q"></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Cave" src="https://osr.owlbeardm.com/assets/images/cave-9cba27ac66ef6f4867c0b78f191f1b72.webp" width="600" height="511" class="img_ev3q"></p>]]></content:encoded>
+            <category>dungeon</category>
+            <category>green griffon inn</category>
+        </item>
+        <item>
+            <title><![CDATA[GG dungeon map]]></title>
+            <link>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</link>
+            <guid>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</guid>
+            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Map]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Map" src="https://osr.owlbeardm.com/assets/images/map-22b91937f4a1e63207dc7f85706e00ee.webp" width="698" height="604" class="img_ev3q"></p>]]></content:encoded>
+            <category>map</category>
             <category>dungeon</category>
             <category>green griffon inn</category>
         </item>
@@ -143,17 +154,6 @@
 <p>Шпек определяет паука, как тарантеллу, огромного монстра, который может зачароваывать существ. И тогда они танцуют, пока не умрут, свой танец. А этого скелета, видимо, даже смерть не спасла. Из разговора Шпек плучает, что судя по всему ничего плохого паук не желает. Тарантелла заскучал и, услышав шум, решил показать своего скелета. Шпек объясняет пауку путь к другим людям, чтобы, если он опять заскучает, он мог показать своего скелета заинтересованной аудитории.</p>
 <p>После этого возвращаемся назад в таверну.</p>]]></content:encoded>
             <category>report</category>
-            <category>dungeon</category>
-            <category>green griffon inn</category>
-        </item>
-        <item>
-            <title><![CDATA[GG dungeon map]]></title>
-            <link>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</link>
-            <guid>https://osr.owlbeardm.com/blog/2022/12/01/2022-12-01-map/zmap</guid>
-            <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Map]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Map" src="data:image/webp;base64,dmVyc2lvbiBodHRwczovL2dpdC1sZnMuZ2l0aHViLmNvbS9zcGVjL3YxCm9pZCBzaGEyNTY6YWEzMTYyZTEyMzUzZDllYjM5ODk3ZTgyNjljYzJmMDIwMzc4Yjk0YTU4NzFjOWQzYzk1MDM0MWYzY2UyNTNiZgpzaXplIDMxNjM2Cg==" class="img_ev3q"></p>]]></content:encoded>
-            <category>map</category>
             <category>dungeon</category>
             <category>green griffon inn</category>
         </item>
