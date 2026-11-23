@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './character-img.css';
+import './character-img.css';
 
 function CharacterImg(props) {
   return (

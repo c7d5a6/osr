@@ -10,7 +10,11 @@
     url: "https://osr.owlbeardm.com",
     baseUrl: "/",
     onBrokenLinks: "throw",
-    onBrokenMarkdownLinks: "warn",
+    markdown: {
+      hooks: {
+        onBrokenMarkdownLinks: "warn",
+      },
+    },
     favicon: "img/logo.webp",
     organizationName: "c7d5a6", // Usually your GitHub org/user name.
     projectName: "osr", // Usually your repo name.
